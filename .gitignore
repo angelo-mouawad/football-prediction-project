@@ -6,8 +6,3 @@ __pycache__/
 
 # Raw downloads are reproducible, do not commit them.
 data/raw/
-data/interim/
-
-# Processed tables and trained models are committed so anyone cloning the repo can run the dashboard immediately.
-!data/processed/
-!models/

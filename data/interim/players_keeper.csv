@@ -1,0 +1,361 @@
+league,season,team,player,nation,pos,age,born,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,season_start,stat_type,team_canonical
+ENG-Premier League,2017/18,Arsenal,David Ospina,COL,GK,28,1988,5,4,381,4.2,3,0.71,13,10,76.9,3,0,1,2,50.0,0,0,0,0,,2017,keeper,Arsenal
+ENG-Premier League,2017/18,Arsenal,Petr Čech,CZE,GK,35,1982,34,34,3039,33.8,48,1.42,137,89,65.0,16,6,12,11,32.4,6,5,1,0,16.7,2017,keeper,Arsenal
+ENG-Premier League,2017/18,Bournemouth,Asmir Begović,BIH,GK,30,1987,38,38,3420,38.0,61,1.61,171,110,64.3,11,11,16,6,15.8,4,2,1,1,33.3,2017,keeper,AFC Bournemouth
+ENG-Premier League,2017/18,Brighton,Mathew Ryan,AUS,GK,25,1992,38,38,3420,38.0,54,1.42,180,126,70.0,9,13,16,10,26.3,3,1,2,0,66.7,2017,keeper,Brighton & Hove Albion
+ENG-Premier League,2017/18,Burnley,Nick Pope,ENG,GK,25,1992,35,34,3115,34.6,35,1.01,150,115,76.7,13,11,11,11,32.4,5,3,1,1,25.0,2017,keeper,Burnley
+ENG-Premier League,2017/18,Burnley,Tom Heaton,ENG,GK,31,1986,4,4,305,3.4,4,1.18,14,10,71.4,1,1,1,0,0.0,0,0,0,0,,2017,keeper,Burnley
+ENG-Premier League,2017/18,Chelsea,Thibaut Courtois,BEL,GK,25,1992,35,35,3150,35.0,34,0.97,108,74,68.5,20,6,9,15,42.9,2,2,0,0,0.0,2017,keeper,Chelsea
+ENG-Premier League,2017/18,Chelsea,Willy Caballero,ARG,GK,35,1981,3,3,270,3.0,4,1.33,12,8,66.7,1,1,1,1,33.3,0,0,0,0,,2017,keeper,Chelsea
+ENG-Premier League,2017/18,Crystal Palace,Julián Speroni,ARG,GK,38,1979,11,11,990,11.0,14,1.27,42,28,66.7,3,5,3,2,18.2,1,1,0,0,0.0,2017,keeper,Crystal Palace
+ENG-Premier League,2017/18,Crystal Palace,Wayne Hennessey,WAL,GK,30,1987,27,27,2430,27.0,41,1.52,132,91,68.9,8,6,13,7,25.9,1,1,0,0,0.0,2017,keeper,Crystal Palace
+ENG-Premier League,2017/18,Everton,Jordan Pickford,ENG,GK,23,1994,38,38,3420,38.0,58,1.53,183,125,68.3,13,10,15,10,26.3,5,3,1,1,25.0,2017,keeper,Everton
+ENG-Premier League,2017/18,Huddersfield,Jonas Lössl,DEN,GK,28,1989,38,38,3420,38.0,57,1.5,164,107,65.2,9,10,19,10,26.3,6,4,2,0,33.3,2017,keeper,Huddersfield Town
+ENG-Premier League,2017/18,Leicester City,Ben Hamer,ENG,GK,29,1987,4,3,275,3.1,7,2.29,14,7,50.0,0,1,2,1,33.3,1,1,0,0,0.0,2017,keeper,Leicester City
+ENG-Premier League,2017/18,Leicester City,Eldin Jakupović,SUI,GK,32,1984,2,2,180,2.0,6,3.0,5,,-20.0,1,0,1,0,0.0,0,0,0,0,,2017,keeper,Leicester City
+ENG-Premier League,2017/18,Leicester City,Kasper Schmeichel,DEN,GK,30,1986,33,33,2965,32.9,47,1.43,141,94,66.7,11,10,12,8,24.2,3,1,2,0,66.7,2017,keeper,Leicester City
+ENG-Premier League,2017/18,Liverpool,Loris Karius,GER,GK,24,1993,19,19,1710,19.0,14,0.74,45,31,68.9,11,5,3,10,52.6,3,2,1,0,33.3,2017,keeper,Liverpool
+ENG-Premier League,2017/18,Liverpool,Simon Mignolet,BEL,GK,29,1988,19,19,1710,19.0,24,1.26,61,37,60.7,10,7,2,7,36.8,3,2,1,0,33.3,2017,keeper,Liverpool
+ENG-Premier League,2017/18,Manchester City,Claudio Bravo,CHI,GK,34,1983,3,2,226,2.5,1,0.4,6,5,83.3,2,0,0,1,50.0,0,0,0,0,,2017,keeper,Manchester City
+ENG-Premier League,2017/18,Manchester City,Ederson Moraes,BRA,GK,23,1993,36,36,3194,35.5,26,0.73,78,52,66.7,30,4,2,16,44.4,3,0,2,1,100.0,2017,keeper,Manchester City
+ENG-Premier League,2017/18,Manchester Utd,David de Gea,ESP,GK,26,1990,37,37,3330,37.0,28,0.76,144,116,80.6,24,6,7,18,48.6,1,1,0,0,0.0,2017,keeper,Manchester United
+ENG-Premier League,2017/18,Manchester Utd,Sergio Romero,ARG,GK,30,1987,1,1,90,1.0,0,0.0,4,4,100.0,1,0,0,1,100.0,0,0,0,0,,2017,keeper,Manchester United
+ENG-Premier League,2017/18,Newcastle,Karl Darlow,WAL,GK,26,1990,10,10,900,10.0,15,1.5,51,36,70.6,1,5,4,2,20.0,3,3,0,0,0.0,2017,keeper,Newcastle United
+ENG-Premier League,2017/18,Newcastle,Martin Dúbravka,SVK,GK,28,1989,12,12,1080,12.0,11,0.92,40,29,72.5,6,1,5,4,33.3,1,0,1,0,100.0,2017,keeper,Newcastle United
+ENG-Premier League,2017/18,Newcastle,Rob Elliot,IRL,GK,31,1986,16,16,1440,16.0,21,1.31,66,45,68.2,5,2,9,3,18.8,2,1,1,0,50.0,2017,keeper,Newcastle United
+ENG-Premier League,2017/18,Southampton,Alex McCarthy,ENG,GK,27,1989,18,18,1620,18.0,26,1.44,66,40,60.6,3,8,7,4,22.2,1,1,0,0,0.0,2017,keeper,Southampton
+ENG-Premier League,2017/18,Southampton,Fraser Forster,ENG,GK,29,1988,20,20,1800,20.0,30,1.5,101,71,70.3,4,7,9,4,20.0,1,0,1,0,100.0,2017,keeper,Southampton
+ENG-Premier League,2017/18,Stoke City,Jack Butland,ENG,GK,24,1993,35,35,3150,35.0,61,1.74,205,144,70.2,7,11,17,6,17.1,5,5,0,0,0.0,2017,keeper,Stoke City
+ENG-Premier League,2017/18,Stoke City,Lee Grant,ENG,GK,34,1983,3,3,270,3.0,7,2.33,14,7,50.0,0,1,2,1,33.3,0,0,0,0,,2017,keeper,Stoke City
+ENG-Premier League,2017/18,Swansea City,Łukasz Fabiański,POL,GK,32,1985,38,38,3420,38.0,56,1.47,191,135,70.7,8,9,21,9,23.7,7,3,3,1,50.0,2017,keeper,Swansea City
+ENG-Premier League,2017/18,Tottenham,Hugo Lloris,FRA,GK,30,1986,36,36,3240,36.0,35,0.97,117,82,70.1,22,7,7,15,41.7,3,2,1,0,33.3,2017,keeper,Tottenham Hotspur
+ENG-Premier League,2017/18,Tottenham,Michel Vorm,NED,GK,33,1983,1,1,90,1.0,1,1.0,3,2,66.7,0,1,0,0,0.0,0,0,0,0,,2017,keeper,Tottenham Hotspur
+ENG-Premier League,2017/18,Tottenham,Paulo Gazzaniga,ARG,GK,25,1992,1,1,90,1.0,0,0.0,3,3,100.0,1,0,0,1,100.0,0,0,0,0,,2017,keeper,Tottenham Hotspur
+ENG-Premier League,2017/18,Watford,Heurelho Gomes,BRA,GK,36,1981,24,24,2128,23.6,40,1.69,103,63,61.2,7,5,12,5,20.8,3,3,0,0,0.0,2017,keeper,Watford
+ENG-Premier League,2017/18,Watford,Orestis Karnezis,GRE,GK,32,1985,15,14,1292,14.4,24,1.67,55,31,56.4,4,3,7,4,28.6,3,3,0,0,0.0,2017,keeper,Watford
+ENG-Premier League,2017/18,West Brom,Ben Foster,ENG,GK,34,1983,37,37,3330,37.0,55,1.49,153,98,64.1,6,12,19,10,27.0,1,1,0,0,0.0,2017,keeper,West Bromwich Albion
+ENG-Premier League,2017/18,West Brom,Boaz Myhill,WAL,GK,34,1982,1,1,90,1.0,1,1.0,3,2,66.7,0,1,0,0,0.0,0,0,0,0,,2017,keeper,West Bromwich Albion
+ENG-Premier League,2017/18,West Ham,Adrián,ESP,GK,30,1987,19,19,1710,19.0,29,1.53,96,67,69.8,7,6,6,6,31.6,1,1,0,0,0.0,2017,keeper,West Ham United
+ENG-Premier League,2017/18,West Ham,Joe Hart,ENG,GK,30,1987,19,19,1710,19.0,39,2.05,93,54,58.1,3,6,10,4,21.1,5,4,1,0,20.0,2017,keeper,West Ham United
+ENG-Premier League,2018/19,Arsenal,Bernd Leno,GER,GK,26,1992,32,31,2835,31.5,42,1.33,147,105,71.4,16,7,8,7,22.6,7,7,0,0,0.0,2018,keeper,Arsenal
+ENG-Premier League,2018/19,Arsenal,Petr Čech,CZE,GK,36,1982,7,7,585,6.5,9,1.38,36,27,75.0,5,0,2,2,28.6,0,0,0,0,,2018,keeper,Arsenal
+ENG-Premier League,2018/19,Bournemouth,Artur Boruc,POL,GK,38,1980,12,12,1080,12.0,18,1.5,57,39,68.4,4,3,5,4,33.3,3,3,0,0,0.0,2018,keeper,AFC Bournemouth
+ENG-Premier League,2018/19,Bournemouth,Asmir Begović,BIH,GK,31,1987,24,24,2160,24.0,47,1.96,106,59,55.7,8,3,13,5,20.8,2,2,0,0,0.0,2018,keeper,AFC Bournemouth
+ENG-Premier League,2018/19,Bournemouth,Mark Travers,IRL,GK,19,1999,2,2,180,2.0,5,2.5,14,9,64.3,1,0,1,1,50.0,0,0,0,0,,2018,keeper,AFC Bournemouth
+ENG-Premier League,2018/19,Brighton,David Button,ENG,GK,29,1989,4,4,360,4.0,5,1.25,19,14,73.7,1,1,2,1,25.0,2,2,0,0,0.0,2018,keeper,Brighton & Hove Albion
+ENG-Premier League,2018/19,Brighton,Mathew Ryan,AUS,GK,26,1992,34,34,3060,34.0,55,1.62,152,97,63.8,8,8,18,6,17.6,8,8,0,0,0.0,2018,keeper,Brighton & Hove Albion
+ENG-Premier League,2018/19,Burnley,Joe Hart,ENG,GK,31,1987,19,19,1710,19.0,41,2.16,117,76,65.0,3,3,13,4,21.1,2,1,1,0,50.0,2018,keeper,Burnley
+ENG-Premier League,2018/19,Burnley,Tom Heaton,ENG,GK,32,1986,19,19,1710,19.0,27,1.42,90,63,70.0,8,4,7,4,21.1,1,1,0,0,0.0,2018,keeper,Burnley
+ENG-Premier League,2018/19,Cardiff City,Neil Etheridge,PHI,GK,28,1990,38,38,3420,38.0,69,1.82,206,137,66.5,10,4,24,10,26.3,7,4,3,0,42.9,2018,keeper,Cardiff City
+ENG-Premier League,2018/19,Chelsea,Kepa Arrizabalaga,ESP,GK,23,1994,36,36,3240,36.0,39,1.08,120,81,67.5,20,8,8,14,38.9,2,1,1,0,50.0,2018,keeper,Chelsea
+ENG-Premier League,2018/19,Chelsea,Willy Caballero,ARG,GK,36,1981,2,2,180,2.0,0,0.0,3,3,100.0,1,1,0,2,100.0,0,0,0,0,,2018,keeper,Chelsea
+ENG-Premier League,2018/19,Crystal Palace,Julián Speroni,ARG,GK,39,1979,1,1,90,1.0,4,4.0,9,5,55.6,0,0,1,0,0.0,0,0,0,0,,2018,keeper,Crystal Palace
+ENG-Premier League,2018/19,Crystal Palace,Vicente Guaita,ESP,GK,31,1987,20,20,1755,19.5,23,1.18,87,64,73.6,10,4,6,7,35.0,1,1,0,0,0.0,2018,keeper,Crystal Palace
+ENG-Premier League,2018/19,Crystal Palace,Wayne Hennessey,WAL,GK,31,1987,18,17,1575,17.5,26,1.49,69,43,62.3,4,3,10,5,29.4,4,3,1,0,25.0,2018,keeper,Crystal Palace
+ENG-Premier League,2018/19,Everton,Jordan Pickford,ENG,GK,24,1994,38,38,3420,38.0,46,1.21,136,90,66.2,15,9,14,14,36.8,5,2,3,0,60.0,2018,keeper,Everton
+ENG-Premier League,2018/19,Fulham,Fabricio,ESP,GK,30,1987,2,2,180,2.0,5,2.5,20,15,75.0,0,0,2,0,0.0,0,0,0,0,,2018,keeper,Fulham
+ENG-Premier League,2018/19,Fulham,Marcus Bettinelli,ENG,GK,26,1992,7,7,630,7.0,20,2.86,39,19,48.7,1,2,4,0,0.0,3,1,1,1,50.0,2018,keeper,Fulham
+ENG-Premier League,2018/19,Fulham,Sergio Rico,ESP,GK,24,1993,29,29,2610,29.0,56,1.93,167,111,66.5,6,3,20,5,17.2,4,4,0,0,0.0,2018,keeper,Fulham
+ENG-Premier League,2018/19,Huddersfield,Ben Hamer,ENG,GK,30,1987,7,7,553,6.1,21,3.42,45,24,53.3,0,1,6,1,14.3,3,3,0,0,0.0,2018,keeper,Huddersfield Town
+ENG-Premier League,2018/19,Huddersfield,Joel Coleman,ENG,GK,22,1995,1,1,90,1.0,1,1.0,3,2,66.7,0,1,0,0,0.0,0,0,0,0,,2018,keeper,Huddersfield Town
+ENG-Premier League,2018/19,Huddersfield,Jonas Lössl,DEN,GK,29,1989,31,30,2777,30.9,54,1.75,141,87,61.7,3,5,22,5,16.7,5,4,1,0,20.0,2018,keeper,Huddersfield Town
+ENG-Premier League,2018/19,Leicester City,Kasper Schmeichel,DEN,GK,31,1986,38,38,3420,38.0,48,1.26,138,90,65.2,15,7,16,10,26.3,5,5,0,0,0.0,2018,keeper,Leicester City
+ENG-Premier League,2018/19,Liverpool,Alisson,BRA,GK,25,1992,38,38,3420,38.0,22,0.58,98,76,77.6,30,7,1,21,55.3,1,0,0,1,,2018,keeper,Liverpool
+ENG-Premier League,2018/19,Manchester City,Ederson Moraes,BRA,GK,24,1993,38,38,3420,38.0,23,0.61,81,58,71.6,32,2,4,20,52.6,4,4,0,0,0.0,2018,keeper,Manchester City
+ENG-Premier League,2018/19,Manchester Utd,David de Gea,ESP,GK,27,1990,38,38,3420,38.0,54,1.42,177,123,69.5,19,9,10,7,18.4,6,6,0,0,0.0,2018,keeper,Manchester United
+ENG-Premier League,2018/19,Newcastle,Martin Dúbravka,SVK,GK,29,1989,38,38,3420,38.0,48,1.26,144,96,66.7,12,9,17,11,28.9,6,6,0,0,0.0,2018,keeper,Newcastle United
+ENG-Premier League,2018/19,Southampton,Alex McCarthy,ENG,GK,28,1989,25,25,2250,25.0,44,1.76,122,78,63.9,5,8,12,4,16.0,2,2,0,0,0.0,2018,keeper,Southampton
+ENG-Premier League,2018/19,Southampton,Angus Gunn,SCO,GK,22,1996,12,12,1080,12.0,18,1.5,50,32,64.0,4,4,4,3,25.0,1,0,1,0,100.0,2018,keeper,Southampton
+ENG-Premier League,2018/19,Southampton,Fraser Forster,ENG,GK,30,1988,1,1,90,1.0,3,3.0,6,3,50.0,0,0,1,0,0.0,0,0,0,0,,2018,keeper,Southampton
+ENG-Premier League,2018/19,Tottenham,Hugo Lloris,FRA,GK,31,1986,33,33,2970,33.0,33,1.0,131,98,74.8,21,2,10,12,36.4,5,3,2,0,40.0,2018,keeper,Tottenham Hotspur
+ENG-Premier League,2018/19,Tottenham,Michel Vorm,NED,GK,34,1983,2,2,180,2.0,4,2.0,13,9,69.2,0,0,2,0,0.0,0,0,0,0,,2018,keeper,Tottenham Hotspur
+ENG-Premier League,2018/19,Tottenham,Paulo Gazzaniga,ARG,GK,26,1992,3,3,270,3.0,2,0.67,13,11,84.6,2,0,1,1,33.3,0,0,0,0,,2018,keeper,Tottenham Hotspur
+ENG-Premier League,2018/19,Watford,Ben Foster,ENG,GK,35,1983,38,38,3420,38.0,59,1.55,185,126,68.1,14,8,16,7,18.4,5,4,1,0,20.0,2018,keeper,Watford
+ENG-Premier League,2018/19,West Ham,Łukasz Fabiański,POL,GK,33,1985,38,38,3420,38.0,55,1.45,201,146,72.6,15,7,16,7,18.4,5,4,1,0,20.0,2018,keeper,West Ham United
+ENG-Premier League,2018/19,Wolves,John Ruddy,ENG,GK,31,1986,1,1,90,1.0,0,0.0,3,3,100.0,1,0,0,1,100.0,0,0,0,0,,2018,keeper,Wolverhampton Wanderers
+ENG-Premier League,2018/19,Wolves,Rui Patrício,POR,GK,30,1988,37,37,3330,37.0,46,1.24,143,97,67.8,15,9,13,8,21.6,4,3,0,1,0.0,2018,keeper,Wolverhampton Wanderers
+ENG-Premier League,2018/19,Wolves,Will Norris,ENG,GK,24,1993,1,0,,0.0,0,,0,0,,0,0,0,1,,0,0,0,0,,2018,keeper,Wolverhampton Wanderers
+ENG-Premier League,2019/20,Arsenal,Bernd Leno,GER,GK,27,1992,30,30,2649,29.4,39,1.33,151,112,74.2,9,13,8,7,23.3,7,6,1,0,14.3,2019,keeper,Arsenal
+ENG-Premier League,2019/20,Arsenal,Emiliano Martínez,ARG,GK,26,1992,9,8,771,8.6,9,1.05,43,34,79.1,5,1,2,3,37.5,1,1,0,0,0.0,2019,keeper,Arsenal
+ENG-Premier League,2019/20,Aston Villa,Jed Steer,ENG,GK,26,1992,1,1,7,0.1,0,0.0,0,0,,0,0,1,0,0.0,0,0,0,0,,2019,keeper,Aston Villa
+ENG-Premier League,2019/20,Aston Villa,Pepe Reina,ESP,GK,36,1982,12,12,1080,12.0,20,1.67,52,32,61.5,3,3,6,2,16.7,3,2,1,0,33.3,2019,keeper,Aston Villa
+ENG-Premier League,2019/20,Aston Villa,Tom Heaton,ENG,GK,33,1986,20,20,1794,19.9,35,1.76,102,67,65.7,6,3,11,4,20.0,3,3,0,0,0.0,2019,keeper,Aston Villa
+ENG-Premier League,2019/20,Aston Villa,Ørjan Nyland,NOR,GK,28,1990,7,5,539,6.0,12,2.0,27,15,55.6,0,2,3,1,20.0,0,0,0,0,,2019,keeper,Aston Villa
+ENG-Premier League,2019/20,Bournemouth,Aaron Ramsdale,ENG,GK,21,1998,37,37,3330,37.0,62,1.68,188,126,67.0,9,7,21,5,13.5,6,5,1,0,16.7,2019,keeper,AFC Bournemouth
+ENG-Premier League,2019/20,Bournemouth,Mark Travers,IRL,GK,20,1999,1,1,90,1.0,3,3.0,5,2,40.0,0,0,1,0,0.0,0,0,0,0,,2019,keeper,AFC Bournemouth
+ENG-Premier League,2019/20,Brighton,Mathew Ryan,AUS,GK,27,1992,38,38,3420,38.0,54,1.42,171,117,68.4,9,14,15,9,23.7,2,2,0,0,0.0,2019,keeper,Brighton & Hove Albion
+ENG-Premier League,2019/20,Burnley,Nick Pope,ENG,GK,27,1992,38,38,3420,38.0,50,1.32,169,119,70.4,15,9,14,15,39.5,5,4,1,0,20.0,2019,keeper,Burnley
+ENG-Premier League,2019/20,Chelsea,Kepa Arrizabalaga,ESP,GK,24,1994,33,33,2970,33.0,47,1.42,102,55,53.9,18,4,11,8,24.2,2,2,0,0,0.0,2019,keeper,Chelsea
+ENG-Premier League,2019/20,Chelsea,Willy Caballero,ARG,GK,37,1981,5,5,450,5.0,7,1.4,17,10,58.8,2,2,1,1,20.0,0,0,0,0,,2019,keeper,Chelsea
+ENG-Premier League,2019/20,Crystal Palace,Vicente Guaita,ESP,GK,32,1987,35,35,3150,35.0,42,1.2,153,111,72.5,11,9,15,10,28.6,1,0,0,1,,2019,keeper,Crystal Palace
+ENG-Premier League,2019/20,Crystal Palace,Wayne Hennessey,WAL,GK,32,1987,3,3,270,3.0,8,2.67,24,16,66.7,0,1,2,0,0.0,0,0,0,0,,2019,keeper,Crystal Palace
+ENG-Premier League,2019/20,Everton,Jordan Pickford,ENG,GK,25,1994,38,38,3420,38.0,56,1.47,150,94,62.7,13,10,15,9,23.7,4,3,0,1,0.0,2019,keeper,Everton
+ENG-Premier League,2019/20,Leicester City,Kasper Schmeichel,DEN,GK,32,1986,38,38,3420,38.0,41,1.08,126,94,67.5,18,8,12,13,34.2,10,8,2,0,20.0,2019,keeper,Leicester City
+ENG-Premier League,2019/20,Liverpool,Adrián,ESP,GK,32,1987,11,9,875,9.7,10,1.03,28,18,64.3,9,0,0,2,22.2,0,0,0,0,,2019,keeper,Liverpool
+ENG-Premier League,2019/20,Liverpool,Alisson,BRA,GK,26,1992,29,29,2543,28.3,23,0.81,81,58,71.6,23,3,3,13,44.8,1,1,0,0,0.0,2019,keeper,Liverpool
+ENG-Premier League,2019/20,Manchester City,Claudio Bravo,CHI,GK,36,1983,4,3,347,3.9,7,1.82,15,8,53.3,2,0,1,1,33.3,0,0,0,0,,2019,keeper,Manchester City
+ENG-Premier League,2019/20,Manchester City,Ederson Moraes,BRA,GK,25,1993,35,35,3071,34.1,28,0.82,96,68,70.8,24,3,8,16,45.7,3,3,0,0,0.0,2019,keeper,Manchester City
+ENG-Premier League,2019/20,Manchester Utd,David de Gea,ESP,GK,28,1990,38,38,3420,38.0,36,0.95,131,95,72.5,18,12,8,13,34.2,3,3,0,0,0.0,2019,keeper,Manchester United
+ENG-Premier League,2019/20,Newcastle,Martin Dúbravka,SVK,GK,30,1989,38,38,3420,38.0,58,1.53,197,139,70.6,11,11,16,11,28.9,2,2,0,0,0.0,2019,keeper,Newcastle United
+ENG-Premier League,2019/20,Norwich City,Michael McGovern,NIR,GK,35,1984,2,1,159,1.8,6,3.4,12,6,50.0,0,0,1,0,0.0,1,0,1,0,100.0,2019,keeper,Norwich City
+ENG-Premier League,2019/20,Norwich City,Ralf Fährmann,GER,GK,30,1988,1,1,21,0.2,1,4.29,2,1,50.0,0,0,1,0,0.0,1,1,0,0,0.0,2019,keeper,Norwich City
+ENG-Premier League,2019/20,Norwich City,Tim Krul,NED,GK,31,1988,36,36,3240,36.0,68,1.89,192,128,64.6,5,6,25,5,13.9,5,3,2,0,40.0,2019,keeper,Norwich City
+ENG-Premier League,2019/20,Sheffield United,Dean Henderson,ENG,GK,22,1997,36,36,3240,36.0,33,0.92,127,95,74.0,14,11,11,13,36.1,3,1,1,1,50.0,2019,keeper,Sheffield United
+ENG-Premier League,2019/20,Sheffield United,Simon Moore,ENG,GK,29,1990,2,2,180,2.0,6,3.0,11,5,45.5,0,1,1,0,0.0,0,0,0,0,,2019,keeper,Sheffield United
+ENG-Premier League,2019/20,Southampton,Alex McCarthy,ENG,GK,29,1989,28,28,2520,28.0,35,1.25,113,78,69.0,13,5,10,7,25.0,2,1,1,0,50.0,2019,keeper,Southampton
+ENG-Premier League,2019/20,Southampton,Angus Gunn,SCO,GK,23,1996,10,10,900,10.0,25,2.5,55,30,54.5,2,2,6,2,20.0,2,2,0,0,0.0,2019,keeper,Southampton
+ENG-Premier League,2019/20,Tottenham,Hugo Lloris,FRA,GK,32,1986,21,21,1807,20.1,21,1.05,100,79,79.0,11,6,4,6,28.6,3,2,1,0,33.3,2019,keeper,Tottenham Hotspur
+ENG-Premier League,2019/20,Tottenham,Paulo Gazzaniga,ARG,GK,27,1992,18,17,1613,17.9,26,1.45,84,58,69.0,5,5,7,2,11.8,4,3,1,0,25.0,2019,keeper,Tottenham Hotspur
+ENG-Premier League,2019/20,Watford,Ben Foster,ENG,GK,36,1983,38,38,3420,38.0,64,1.68,180,116,64.4,8,10,20,9,23.7,9,8,1,0,11.1,2019,keeper,Watford
+ENG-Premier League,2019/20,West Ham,Darren Randolph,IRL,GK,32,1987,2,2,180,2.0,5,2.5,11,6,54.5,0,1,1,0,0.0,1,1,0,0,0.0,2019,keeper,West Ham United
+ENG-Premier League,2019/20,West Ham,David Martin,ENG,GK,33,1986,5,4,436,4.8,6,1.24,21,15,71.4,2,0,2,2,50.0,0,0,0,0,,2019,keeper,West Ham United
+ENG-Premier League,2019/20,West Ham,Roberto,ESP,GK,33,1986,8,7,687,7.6,17,2.23,53,36,67.9,0,1,6,0,0.0,1,1,0,0,0.0,2019,keeper,West Ham United
+ENG-Premier League,2019/20,West Ham,Łukasz Fabiański,POL,GK,34,1985,25,25,2117,23.5,34,1.45,105,71,67.6,8,7,10,5,20.0,4,3,1,0,25.0,2019,keeper,West Ham United
+ENG-Premier League,2019/20,Wolves,Rui Patrício,POR,GK,31,1988,38,38,3420,38.0,40,1.05,128,88,68.8,15,14,9,13,34.2,3,1,2,0,66.7,2019,keeper,Wolverhampton Wanderers
+ENG-Premier League,2020/21,Arsenal,Bernd Leno,GER,GK,28,1992,35,35,3131,34.8,37,1.06,120,84,69.2,17,6,12,11,31.4,2,1,1,0,50.0,2020,keeper,Arsenal
+ENG-Premier League,2020/21,Arsenal,Mathew Ryan,AUS,GK,28,1992,3,3,270,3.0,2,0.67,10,8,80.0,1,1,1,1,33.3,1,1,0,0,0.0,2020,keeper,Arsenal
+ENG-Premier League,2020/21,Arsenal,Rúnar Alex Rúnarsson,ISL,GK,25,1995,1,0,16,0.2,0,0.0,2,2,100.0,0,0,0,0,,0,0,0,0,,2020,keeper,Arsenal
+ENG-Premier League,2020/21,Aston Villa,Emiliano Martínez,ARG,GK,27,1992,38,38,3420,38.0,46,1.21,182,141,74.7,16,7,15,15,39.5,6,5,1,0,16.7,2020,keeper,Aston Villa
+ENG-Premier League,2020/21,Brighton,Mathew Ryan,AUS,GK,28,1992,11,11,990,11.0,19,1.73,35,16,45.7,2,4,5,2,18.2,4,4,0,0,0.0,2020,keeper,Brighton & Hove Albion
+ENG-Premier League,2020/21,Brighton,Robert Sánchez,ESP,GK,22,1997,27,27,2430,27.0,27,1.0,93,66,71.0,7,10,10,10,37.0,3,2,0,1,0.0,2020,keeper,Brighton & Hove Albion
+ENG-Premier League,2020/21,Burnley,Bailey Peacock-Farrell,NIR,GK,23,1996,4,4,360,4.0,14,3.5,24,10,41.7,0,0,4,0,0.0,0,0,0,0,,2020,keeper,Burnley
+ENG-Premier League,2020/21,Burnley,Nick Pope,ENG,GK,28,1992,32,32,2880,32.0,37,1.16,151,114,75.5,10,9,13,11,34.4,3,3,0,0,0.0,2020,keeper,Burnley
+ENG-Premier League,2020/21,Burnley,Will Norris,ENG,GK,26,1993,2,2,180,2.0,4,2.0,6,2,33.3,0,0,2,0,0.0,0,0,0,0,,2020,keeper,Burnley
+ENG-Premier League,2020/21,Chelsea,Kepa Arrizabalaga,ESP,GK,25,1994,7,6,585,6.5,8,1.23,24,16,66.7,2,2,2,2,33.3,1,1,0,0,0.0,2020,keeper,Chelsea
+ENG-Premier League,2020/21,Chelsea,Willy Caballero,ARG,GK,38,1981,1,1,90,1.0,3,3.0,3,0,0.0,0,1,0,0,0.0,0,0,0,0,,2020,keeper,Chelsea
+ENG-Premier League,2020/21,Chelsea,Édouard Mendy,SEN,GK,28,1992,31,31,2745,30.5,25,0.82,81,56,69.1,17,7,7,16,51.6,3,2,1,0,33.3,2020,keeper,Chelsea
+ENG-Premier League,2020/21,Crystal Palace,Jack Butland,ENG,GK,27,1993,1,1,90,1.0,2,2.0,5,3,60.0,1,0,0,0,0.0,0,0,0,0,,2020,keeper,Crystal Palace
+ENG-Premier League,2020/21,Crystal Palace,Vicente Guaita,ESP,GK,33,1987,37,37,3330,37.0,64,1.73,170,106,62.4,11,8,18,8,21.6,4,3,1,0,25.0,2020,keeper,Crystal Palace
+ENG-Premier League,2020/21,Everton,Jordan Pickford,ENG,GK,26,1994,31,31,2742,30.5,39,1.28,128,89,69.5,15,5,11,10,32.3,3,2,0,1,0.0,2020,keeper,Everton
+ENG-Premier League,2020/21,Everton,João Virgínia,POR,GK,20,1999,1,0,48,0.5,0,0.0,3,3,100.0,0,0,0,0,,0,0,0,0,,2020,keeper,Everton
+ENG-Premier League,2020/21,Everton,Robin Olsen,SWE,GK,30,1990,7,7,630,7.0,9,1.29,30,21,70.0,2,3,2,2,28.6,1,1,0,0,0.0,2020,keeper,Everton
+ENG-Premier League,2020/21,Fulham,Alphonse Areola,FRA,GK,27,1993,36,36,3240,36.0,48,1.33,158,115,69.6,5,13,18,9,25.0,6,6,0,0,0.0,2020,keeper,Fulham
+ENG-Premier League,2020/21,Fulham,Marek Rodák,SVK,GK,23,1996,2,2,180,2.0,5,2.5,9,4,44.4,0,0,2,0,0.0,1,1,0,0,0.0,2020,keeper,Fulham
+ENG-Premier League,2020/21,Leeds United,Illan Meslier,FRA,GK,20,2000,35,35,3150,35.0,52,1.49,191,139,72.8,16,5,14,11,31.4,9,8,1,0,11.1,2020,keeper,Leeds United
+ENG-Premier League,2020/21,Leeds United,Kiko Casilla,ESP,GK,33,1986,3,3,270,3.0,2,0.67,10,8,80.0,2,0,1,1,33.3,0,0,0,0,,2020,keeper,Leeds United
+ENG-Premier League,2020/21,Leicester City,Kasper Schmeichel,DEN,GK,33,1986,38,38,3420,38.0,50,1.32,138,88,63.8,20,6,12,11,28.9,4,4,0,0,0.0,2020,keeper,Leicester City
+ENG-Premier League,2020/21,Liverpool,Adrián,ESP,GK,33,1987,3,3,270,3.0,9,3.0,19,9,52.6,1,1,1,1,33.3,0,0,0,0,,2020,keeper,Liverpool
+ENG-Premier League,2020/21,Liverpool,Alisson,BRA,GK,27,1992,33,33,2970,33.0,32,0.97,115,83,72.2,18,8,7,10,30.3,8,4,1,3,20.0,2020,keeper,Liverpool
+ENG-Premier League,2020/21,Liverpool,Caoimhín Kelleher,IRL,GK,21,1998,2,2,180,2.0,1,0.5,7,6,85.7,1,0,1,1,50.0,0,0,0,0,,2020,keeper,Liverpool
+ENG-Premier League,2020/21,Manchester City,Ederson Moraes,BRA,GK,26,1993,36,36,3240,36.0,28,0.78,93,65,69.9,25,5,6,19,52.8,8,7,1,0,12.5,2020,keeper,Manchester City
+ENG-Premier League,2020/21,Manchester City,Scott Carson,ENG,GK,34,1985,1,1,90,1.0,3,3.0,4,1,25.0,1,0,0,0,0.0,2,1,1,0,50.0,2020,keeper,Manchester City
+ENG-Premier League,2020/21,Manchester City,Zack Steffen,USA,GK,25,1995,1,1,90,1.0,1,1.0,2,1,50.0,1,0,0,0,0.0,0,0,0,0,,2020,keeper,Manchester City
+ENG-Premier League,2020/21,Manchester Utd,David de Gea,ESP,GK,29,1990,26,26,2295,25.5,32,1.25,91,59,64.8,12,9,5,9,34.6,4,4,0,0,0.0,2020,keeper,Manchester United
+ENG-Premier League,2020/21,Manchester Utd,Dean Henderson,ENG,GK,23,1997,13,12,1125,12.5,12,0.96,52,40,76.9,9,2,1,4,33.3,0,0,0,0,,2020,keeper,Manchester United
+ENG-Premier League,2020/21,Newcastle,Karl Darlow,WAL,GK,29,1990,25,25,2250,25.0,43,1.72,130,87,66.9,7,4,14,4,16.0,4,3,1,0,25.0,2020,keeper,Newcastle United
+ENG-Premier League,2020/21,Newcastle,Martin Dúbravka,SVK,GK,31,1989,13,13,1170,13.0,19,1.46,64,45,70.3,5,5,3,3,23.1,1,1,0,0,0.0,2020,keeper,Newcastle United
+ENG-Premier League,2020/21,Sheffield United,Aaron Ramsdale,ENG,GK,22,1998,38,38,3420,38.0,63,1.66,208,145,69.7,7,2,29,5,13.2,4,3,0,1,0.0,2020,keeper,Sheffield United
+ENG-Premier League,2020/21,Southampton,Alex McCarthy,ENG,GK,30,1989,30,30,2700,30.0,57,1.9,144,92,60.4,8,7,15,7,23.3,6,6,0,0,0.0,2020,keeper,Southampton
+ENG-Premier League,2020/21,Southampton,Fraser Forster,ENG,GK,32,1988,8,8,720,8.0,11,1.37,30,19,63.3,4,0,4,2,25.0,3,2,1,0,33.3,2020,keeper,Southampton
+ENG-Premier League,2020/21,Tottenham,Hugo Lloris,FRA,GK,33,1986,38,38,3420,38.0,45,1.18,159,114,71.7,18,8,12,12,31.6,10,10,0,0,0.0,2020,keeper,Tottenham Hotspur
+ENG-Premier League,2020/21,West Brom,David Button,ENG,GK,31,1989,1,1,90,1.0,2,2.0,6,4,66.7,1,0,0,0,0.0,0,0,0,0,,2020,keeper,West Bromwich Albion
+ENG-Premier League,2020/21,West Brom,Sam Johnstone,ENG,GK,27,1993,37,37,3330,37.0,74,2.0,238,164,68.9,4,11,22,6,16.2,12,7,2,3,22.2,2020,keeper,West Bromwich Albion
+ENG-Premier League,2020/21,West Ham,Darren Randolph,IRL,GK,33,1987,3,3,270,3.0,3,1.0,9,6,66.7,2,0,1,1,33.3,0,0,0,0,,2020,keeper,West Ham United
+ENG-Premier League,2020/21,West Ham,Łukasz Fabiański,POL,GK,35,1985,35,35,3150,35.0,44,1.26,140,99,68.6,17,8,10,10,28.6,6,3,2,1,40.0,2020,keeper,West Ham United
+ENG-Premier League,2020/21,Wolves,John Ruddy,ENG,GK,33,1986,2,1,91,1.0,1,0.99,4,3,75.0,0,0,1,0,0.0,0,0,0,0,,2020,keeper,Wolverhampton Wanderers
+ENG-Premier League,2020/21,Wolves,Rui Patrício,POR,GK,32,1988,37,37,3329,37.0,51,1.38,150,99,66.0,12,9,16,10,27.0,8,7,1,0,12.5,2020,keeper,Wolverhampton Wanderers
+ENG-Premier League,2021/22,Arsenal,Aaron Ramsdale,ENG,GK,23,1998,34,34,3060,34.0,39,1.15,129,90,69.8,21,3,10,12,35.3,6,5,0,1,0.0,2021,keeper,Arsenal
+ENG-Premier League,2021/22,Arsenal,Bernd Leno,GER,GK,29,1992,4,4,360,4.0,9,2.25,19,10,52.6,1,0,3,1,25.0,0,0,0,0,,2021,keeper,Arsenal
+ENG-Premier League,2021/22,Aston Villa,Emiliano Martínez,ARG,GK,28,1992,36,36,3240,36.0,48,1.33,142,94,66.2,13,6,17,11,30.6,6,4,1,1,20.0,2021,keeper,Aston Villa
+ENG-Premier League,2021/22,Aston Villa,Jed Steer,ENG,GK,28,1992,1,1,90,1.0,3,3.0,4,1,25.0,0,0,1,0,0.0,0,0,0,0,,2021,keeper,Aston Villa
+ENG-Premier League,2021/22,Aston Villa,Robin Olsen,SWE,GK,31,1990,1,1,90,1.0,3,3.0,5,2,40.0,0,0,1,0,0.0,0,0,0,0,,2021,keeper,Aston Villa
+ENG-Premier League,2021/22,Brentford,David Raya,ESP,GK,25,1995,24,24,2160,24.0,27,1.13,105,78,74.3,10,5,9,8,33.3,4,4,0,0,0.0,2021,keeper,Brentford
+ENG-Premier League,2021/22,Brentford,Jonas Lössl,DEN,GK,32,1989,2,2,180,2.0,5,2.5,7,2,28.6,0,0,2,0,0.0,0,0,0,0,,2021,keeper,Brentford
+ENG-Premier League,2021/22,Brentford,Álvaro Fernández,ESP,GK,23,1998,12,12,1080,12.0,24,2.0,73,49,67.1,3,2,7,1,8.3,1,1,0,0,0.0,2021,keeper,Brentford
+ENG-Premier League,2021/22,Brighton,Jason Steele,ENG,GK,30,1990,1,1,90,1.0,2,2.0,5,3,60.0,0,0,1,0,0.0,0,0,0,0,,2021,keeper,Brighton & Hove Albion
+ENG-Premier League,2021/22,Brighton,Robert Sánchez,ESP,GK,23,1997,37,37,3329,37.0,42,1.14,143,101,70.6,12,15,10,11,29.7,4,3,0,1,0.0,2021,keeper,Brighton & Hove Albion
+ENG-Premier League,2021/22,Burnley,Nick Pope,ENG,GK,29,1992,36,36,3240,36.0,47,1.31,167,120,71.9,7,14,15,9,25.0,5,5,0,0,0.0,2021,keeper,Burnley
+ENG-Premier League,2021/22,Burnley,Wayne Hennessey,WAL,GK,34,1987,2,2,180,2.0,6,3.0,14,8,57.1,0,0,2,0,0.0,0,0,0,0,,2021,keeper,Burnley
+ENG-Premier League,2021/22,Chelsea,Kepa Arrizabalaga,ESP,GK,26,1994,4,4,360,4.0,2,0.5,13,11,84.6,2,1,1,2,50.0,0,0,0,0,,2021,keeper,Chelsea
+ENG-Premier League,2021/22,Chelsea,Édouard Mendy,SEN,GK,29,1992,34,34,3060,34.0,31,0.91,104,73,70.2,19,10,5,14,41.2,6,6,0,0,0.0,2021,keeper,Chelsea
+ENG-Premier League,2021/22,Crystal Palace,Jack Butland,ENG,GK,28,1993,9,8,765,8.5,13,1.53,29,16,55.2,2,4,2,1,12.5,1,0,1,0,100.0,2021,keeper,Crystal Palace
+ENG-Premier League,2021/22,Crystal Palace,Vicente Guaita,ESP,GK,34,1987,30,30,2655,29.5,33,1.12,116,83,71.6,9,11,10,11,36.7,3,3,0,0,0.0,2021,keeper,Crystal Palace
+ENG-Premier League,2021/22,Everton,Asmir Begović,BIH,GK,34,1987,3,3,270,3.0,8,2.67,19,11,57.9,1,0,2,1,33.3,1,1,0,0,0.0,2021,keeper,Everton
+ENG-Premier League,2021/22,Everton,Jordan Pickford,ENG,GK,27,1994,35,35,3150,35.0,58,1.66,175,117,66.9,10,6,19,7,20.0,1,1,0,0,0.0,2021,keeper,Everton
+ENG-Premier League,2021/22,Leeds United,Illan Meslier,FRA,GK,21,2000,38,38,3384,37.6,79,2.1,222,143,64.4,9,11,18,5,13.2,5,5,0,0,0.0,2021,keeper,Leeds United
+ENG-Premier League,2021/22,Leeds United,Kristoffer Klaesson,NOR,GK,20,2000,1,0,36,0.4,0,0.0,4,4,100.0,0,0,0,0,,0,0,0,0,,2021,keeper,Leeds United
+ENG-Premier League,2021/22,Leicester City,Danny Ward,WAL,GK,28,1993,1,1,90,1.0,1,1.0,5,4,80.0,1,0,0,0,0.0,0,0,0,0,,2021,keeper,Leicester City
+ENG-Premier League,2021/22,Leicester City,Kasper Schmeichel,DEN,GK,34,1986,37,37,3330,37.0,58,1.57,187,129,69.0,13,10,14,7,18.9,10,7,2,1,22.2,2021,keeper,Leicester City
+ENG-Premier League,2021/22,Liverpool,Alisson,BRA,GK,28,1992,36,36,3240,36.0,24,0.67,99,75,75.8,27,7,2,20,55.6,0,0,0,0,,2021,keeper,Liverpool
+ENG-Premier League,2021/22,Liverpool,Caoimhín Kelleher,IRL,GK,22,1998,2,2,180,2.0,2,1.0,8,6,75.0,1,1,0,1,50.0,0,0,0,0,,2021,keeper,Liverpool
+ENG-Premier League,2021/22,Manchester City,Ederson Moraes,BRA,GK,27,1993,37,37,3330,37.0,26,0.7,85,58,69.4,28,6,3,20,54.1,1,1,0,0,0.0,2021,keeper,Manchester City
+ENG-Premier League,2021/22,Manchester City,Zack Steffen,USA,GK,26,1995,1,1,90,1.0,0,0.0,2,2,100.0,1,0,0,1,100.0,0,0,0,0,,2021,keeper,Manchester City
+ENG-Premier League,2021/22,Manchester Utd,David de Gea,ESP,GK,30,1990,38,38,3420,38.0,57,1.5,175,123,67.4,16,10,12,8,21.1,6,3,3,0,50.0,2021,keeper,Manchester United
+ENG-Premier League,2021/22,Newcastle,Freddie Woodman,ENG,GK,24,1997,4,4,360,4.0,12,3.0,21,9,42.9,0,1,3,0,0.0,3,2,1,0,33.3,2021,keeper,Newcastle United
+ENG-Premier League,2021/22,Newcastle,Karl Darlow,WAL,GK,30,1990,8,8,720,8.0,15,1.87,39,24,61.5,0,5,3,0,0.0,2,2,0,0,0.0,2021,keeper,Newcastle United
+ENG-Premier League,2021/22,Newcastle,Martin Dúbravka,SVK,GK,32,1989,26,26,2340,26.0,35,1.35,108,73,67.6,13,4,9,8,30.8,1,1,0,0,0.0,2021,keeper,Newcastle United
+ENG-Premier League,2021/22,Norwich City,Angus Gunn,SCO,GK,25,1996,9,9,810,9.0,22,2.44,56,34,60.7,1,2,6,1,11.1,4,2,1,1,33.3,2021,keeper,Norwich City
+ENG-Premier League,2021/22,Norwich City,Tim Krul,NED,GK,33,1988,29,29,2610,29.0,62,2.14,159,104,61.0,4,5,20,5,17.2,9,7,1,1,12.5,2021,keeper,Norwich City
+ENG-Premier League,2021/22,Southampton,Alex McCarthy,ENG,GK,31,1989,17,17,1530,17.0,27,1.59,71,44,62.0,3,7,7,5,29.4,0,0,0,0,,2021,keeper,Southampton
+ENG-Premier League,2021/22,Southampton,Fraser Forster,ENG,GK,33,1988,19,19,1710,19.0,35,1.84,103,68,66.0,6,5,8,3,15.8,2,2,0,0,0.0,2021,keeper,Southampton
+ENG-Premier League,2021/22,Southampton,Willy Caballero,ARG,GK,39,1981,2,2,180,2.0,5,2.5,11,6,54.5,0,1,1,0,0.0,0,0,0,0,,2021,keeper,Southampton
+ENG-Premier League,2021/22,Tottenham,Hugo Lloris,FRA,GK,34,1986,38,38,3420,38.0,40,1.05,137,97,70.8,22,5,11,16,42.1,2,2,0,0,0.0,2021,keeper,Tottenham Hotspur
+ENG-Premier League,2021/22,Watford,Ben Foster,ENG,GK,38,1983,26,26,2340,26.0,49,1.88,118,69,58.5,5,5,16,4,15.4,4,3,1,0,25.0,2021,keeper,Watford
+ENG-Premier League,2021/22,Watford,Daniel Bachmann,AUT,GK,27,1994,12,12,1080,12.0,28,2.33,75,47,62.7,1,0,11,0,0.0,3,3,0,0,0.0,2021,keeper,Watford
+ENG-Premier League,2021/22,West Ham,Alphonse Areola,FRA,GK,28,1993,1,1,90,1.0,1,1.0,3,2,66.7,0,0,1,0,0.0,0,0,0,0,,2021,keeper,West Ham United
+ENG-Premier League,2021/22,West Ham,Łukasz Fabiański,POL,GK,36,1985,37,37,3330,37.0,50,1.35,161,111,68.9,16,8,13,8,21.6,6,2,3,1,60.0,2021,keeper,West Ham United
+ENG-Premier League,2021/22,Wolves,John Ruddy,ENG,GK,34,1986,2,1,135,1.5,3,2.0,7,4,57.1,0,1,0,0,0.0,0,0,0,0,,2021,keeper,Wolverhampton Wanderers
+ENG-Premier League,2021/22,Wolves,José Sá,POR,GK,28,1993,37,37,3285,36.5,40,1.1,161,121,75.2,15,5,17,11,29.7,10,9,0,1,0.0,2021,keeper,Wolverhampton Wanderers
+ENG-Premier League,2022/23,Arsenal,Aaron Ramsdale,ENG,GK,24,1998,38,38,3420,38.0,43,1.13,137,94,68.6,26,6,6,14,36.8,5,3,0,2,0.0,2022,keeper,Arsenal
+ENG-Premier League,2022/23,Aston Villa,Emiliano Martínez,ARG,GK,29,1992,36,36,3139,34.9,38,1.09,135,97,71.9,17,7,12,11,30.6,5,4,1,0,20.0,2022,keeper,Aston Villa
+ENG-Premier League,2022/23,Aston Villa,Robin Olsen,SWE,GK,32,1990,4,2,281,3.1,8,2.56,19,11,57.9,1,0,1,1,50.0,1,1,0,0,0.0,2022,keeper,Aston Villa
+ENG-Premier League,2022/23,Bournemouth,Mark Travers,IRL,GK,23,1999,12,11,1035,11.5,32,2.78,68,36,52.9,2,0,9,2,18.2,2,2,0,0,0.0,2022,keeper,AFC Bournemouth
+ENG-Premier League,2022/23,Bournemouth,Neto,BRA,GK,33,1989,27,27,2385,26.5,39,1.47,139,100,71.9,9,6,12,6,22.2,5,4,0,1,0.0,2022,keeper,AFC Bournemouth
+ENG-Premier League,2022/23,Brentford,David Raya,ESP,GK,26,1995,38,38,3420,38.0,46,1.21,200,154,77.0,15,14,9,12,31.6,2,2,0,0,0.0,2022,keeper,Brentford
+ENG-Premier League,2022/23,Brighton,Jason Steele,ENG,GK,31,1990,15,15,1350,15.0,23,1.53,59,36,61.0,7,3,5,6,40.0,2,1,1,0,50.0,2022,keeper,Brighton & Hove Albion
+ENG-Premier League,2022/23,Brighton,Robert Sánchez,ESP,GK,24,1997,23,23,2070,23.0,30,1.3,77,47,61.0,11,5,7,6,26.1,6,5,1,0,16.7,2022,keeper,Brighton & Hove Albion
+ENG-Premier League,2022/23,Chelsea,Kepa Arrizabalaga,ESP,GK,27,1994,29,29,2565,28.5,33,1.16,124,91,73.4,8,9,12,9,31.0,1,1,0,0,0.0,2022,keeper,Chelsea
+ENG-Premier League,2022/23,Chelsea,Édouard Mendy,SEN,GK,30,1992,10,9,855,9.5,14,1.47,39,25,64.1,3,2,4,1,11.1,0,0,0,0,,2022,keeper,Chelsea
+ENG-Premier League,2022/23,Crystal Palace,Joseph Whitworth,ENG,GK,18,2004,2,2,180,2.0,5,2.5,10,5,50.0,0,0,2,0,0.0,0,0,0,0,,2022,keeper,Crystal Palace
+ENG-Premier League,2022/23,Crystal Palace,Sam Johnstone,ENG,GK,29,1993,9,9,810,9.0,10,1.11,36,26,72.2,4,3,2,3,33.3,2,2,0,0,0.0,2022,keeper,Crystal Palace
+ENG-Premier League,2022/23,Crystal Palace,Vicente Guaita,ESP,GK,35,1987,27,27,2430,27.0,34,1.26,117,84,70.9,7,9,11,6,22.2,2,2,0,0,0.0,2022,keeper,Crystal Palace
+ENG-Premier League,2022/23,Everton,Asmir Begović,BIH,GK,35,1987,1,1,90,1.0,0,0.0,4,4,100.0,1,0,0,1,100.0,0,0,0,0,,2022,keeper,Everton
+ENG-Premier League,2022/23,Everton,Jordan Pickford,ENG,GK,28,1994,37,37,3330,37.0,57,1.54,180,123,68.3,7,12,18,8,21.6,6,5,1,0,16.7,2022,keeper,Everton
+ENG-Premier League,2022/23,Fulham,Bernd Leno,GER,GK,30,1992,36,36,3240,36.0,51,1.42,194,143,73.7,15,5,16,8,22.2,8,7,1,0,12.5,2022,keeper,Fulham
+ENG-Premier League,2022/23,Fulham,Marek Rodák,SVK,GK,25,1996,2,2,180,2.0,2,1.0,4,2,50.0,0,2,0,1,50.0,0,0,0,0,,2022,keeper,Fulham
+ENG-Premier League,2022/23,Leeds United,Illan Meslier,FRA,GK,22,2000,34,34,3060,34.0,67,1.97,161,94,58.4,7,9,18,5,14.7,3,3,0,0,0.0,2022,keeper,Leeds United
+ENG-Premier League,2022/23,Leeds United,Joel Robles,ESP,GK,32,1990,4,4,360,4.0,11,2.75,27,16,59.3,0,1,3,0,0.0,3,2,0,1,0.0,2022,keeper,Leeds United
+ENG-Premier League,2022/23,Leicester City,Daniel Iversen,DEN,GK,25,1997,12,12,1080,12.0,22,1.83,60,38,63.3,2,4,6,1,8.3,2,2,0,0,0.0,2022,keeper,Leicester City
+ENG-Premier League,2022/23,Leicester City,Danny Ward,WAL,GK,29,1993,26,26,2340,26.0,46,1.77,122,76,62.3,7,3,16,6,23.1,3,2,1,0,33.3,2022,keeper,Leicester City
+ENG-Premier League,2022/23,Liverpool,Alisson,BRA,GK,29,1992,37,37,3330,37.0,43,1.16,146,104,70.5,19,9,9,14,37.8,4,2,1,1,33.3,2022,keeper,Liverpool
+ENG-Premier League,2022/23,Liverpool,Caoimhín Kelleher,IRL,GK,23,1998,1,1,90,1.0,4,4.0,10,6,60.0,0,1,0,0,0.0,0,0,0,0,,2022,keeper,Liverpool
+ENG-Premier League,2022/23,Manchester City,Ederson Moraes,BRA,GK,28,1993,35,35,3150,35.0,32,0.91,78,46,59.0,26,4,5,11,31.4,3,3,0,0,0.0,2022,keeper,Manchester City
+ENG-Premier League,2022/23,Manchester City,Stefan Ortega,GER,GK,29,1992,3,3,270,3.0,1,0.33,15,14,93.3,2,1,0,2,66.7,0,0,0,0,,2022,keeper,Manchester City
+ENG-Premier League,2022/23,Manchester Utd,David de Gea,ESP,GK,31,1990,38,38,3420,38.0,43,1.13,143,100,69.9,23,6,9,17,44.7,3,2,1,0,33.3,2022,keeper,Manchester United
+ENG-Premier League,2022/23,Newcastle,Martin Dúbravka,SVK,GK,33,1989,2,1,157,1.7,1,0.57,11,10,90.9,0,1,0,0,0.0,0,0,0,0,,2022,keeper,Newcastle United
+ENG-Premier League,2022/23,Newcastle,Nick Pope,ENG,GK,30,1992,37,37,3261,36.2,32,0.88,117,85,72.6,19,13,5,14,37.8,5,2,2,1,50.0,2022,keeper,Newcastle United
+ENG-Premier League,2022/23,Nottingham,Dean Henderson,ENG,GK,25,1997,18,18,1620,18.0,31,1.72,83,52,62.7,5,5,8,6,33.3,5,2,2,1,50.0,2022,keeper,Nottingham Forest
+ENG-Premier League,2022/23,Nottingham,Keylor Navas,CRC,GK,35,1986,17,17,1529,17.0,32,1.88,83,51,61.4,4,4,9,2,11.8,4,4,0,0,0.0,2022,keeper,Nottingham Forest
+ENG-Premier League,2022/23,Nottingham,Wayne Hennessey,WAL,GK,35,1987,4,3,271,3.0,5,1.66,15,10,66.7,0,2,1,1,33.3,0,0,0,0,,2022,keeper,Nottingham Forest
+ENG-Premier League,2022/23,Southampton,Alex McCarthy,ENG,GK,32,1989,6,6,540,6.0,17,2.83,31,14,45.2,0,1,5,0,0.0,1,1,0,0,0.0,2022,keeper,Southampton
+ENG-Premier League,2022/23,Southampton,Gavin Bazunu,IRL,GK,20,2002,32,32,2880,32.0,56,1.75,124,68,54.8,6,6,20,4,12.5,2,1,1,0,50.0,2022,keeper,Southampton
+ENG-Premier League,2022/23,Tottenham,Fraser Forster,ENG,GK,34,1988,14,13,1215,13.5,24,1.78,55,31,56.4,5,3,5,3,23.1,3,2,1,0,33.3,2022,keeper,Tottenham Hotspur
+ENG-Premier League,2022/23,Tottenham,Hugo Lloris,FRA,GK,35,1986,25,25,2205,24.5,39,1.59,118,79,66.9,13,3,9,7,28.0,1,1,0,0,0.0,2022,keeper,Tottenham Hotspur
+ENG-Premier League,2022/23,West Ham,Alphonse Areola,FRA,GK,29,1993,5,2,309,3.4,7,2.04,16,9,56.3,0,1,1,1,50.0,2,2,0,0,0.0,2022,keeper,West Ham United
+ENG-Premier League,2022/23,West Ham,Łukasz Fabiański,POL,GK,37,1985,36,36,3111,34.6,48,1.39,156,108,69.2,11,6,19,9,25.0,4,2,1,1,33.3,2022,keeper,West Ham United
+ENG-Premier League,2022/23,Wolves,Daniel Bentley,ENG,GK,29,1993,2,2,180,2.0,3,1.5,14,11,78.6,0,1,1,0,0.0,0,0,0,0,,2022,keeper,Wolverhampton Wanderers
+ENG-Premier League,2022/23,Wolves,José Sá,POR,GK,29,1993,36,36,3240,36.0,55,1.53,161,106,65.8,11,7,18,11,30.6,4,2,2,0,50.0,2022,keeper,Wolverhampton Wanderers
+ENG-Premier League,2023/24,Arsenal,Aaron Ramsdale,ENG,GK,25,1998,6,6,540,6.0,5,0.83,14,9,64.3,5,1,0,2,33.3,0,0,0,0,,2023,keeper,Arsenal
+ENG-Premier League,2023/24,Arsenal,David Raya,ESP,GK,27,1995,32,32,2880,32.0,24,0.75,69,45,65.2,23,4,5,14,43.8,3,2,1,0,33.3,2023,keeper,Arsenal
+ENG-Premier League,2023/24,Aston Villa,Emiliano Martínez,ARG,GK,30,1992,34,34,3015,33.5,48,1.43,143,95,66.4,19,8,7,7,20.6,1,1,0,0,0.0,2023,keeper,Aston Villa
+ENG-Premier League,2023/24,Aston Villa,Robin Olsen,SWE,GK,33,1990,5,4,405,4.5,13,2.89,33,20,60.6,1,0,3,0,0.0,1,0,1,0,100.0,2023,keeper,Aston Villa
+ENG-Premier League,2023/24,Bournemouth,Ionuț Radu,ROU,GK,26,1997,2,2,180,2.0,7,3.5,12,5,41.7,1,0,1,0,0.0,0,0,0,0,,2023,keeper,AFC Bournemouth
+ENG-Premier League,2023/24,Bournemouth,Mark Travers,IRL,GK,24,1999,4,4,360,4.0,5,1.25,18,13,72.2,2,0,2,1,25.0,1,1,0,0,0.0,2023,keeper,AFC Bournemouth
+ENG-Premier League,2023/24,Bournemouth,Neto,BRA,GK,34,1989,32,32,2880,32.0,55,1.72,167,112,67.1,10,9,13,7,21.9,6,5,1,0,16.7,2023,keeper,AFC Bournemouth
+ENG-Premier League,2023/24,Brentford,Mark Flekken,NED,GK,30,1993,37,37,3285,36.5,63,1.73,178,115,64.6,10,9,18,7,18.9,2,2,0,0,0.0,2023,keeper,Brentford
+ENG-Premier League,2023/24,Brentford,Thomas Strakosha,ALB,GK,28,1995,2,1,135,1.5,2,1.33,8,6,75.0,0,0,1,0,0.0,0,0,0,0,,2023,keeper,Brentford
+ENG-Premier League,2023/24,Brighton,Bart Verbruggen,NED,GK,20,2002,21,21,1890,21.0,28,1.33,93,65,69.9,7,8,6,4,19.0,3,3,0,0,0.0,2023,keeper,Brighton & Hove Albion
+ENG-Premier League,2023/24,Brighton,Jason Steele,ENG,GK,32,1990,17,17,1530,17.0,34,2.0,77,43,55.8,5,4,8,2,11.8,3,3,0,0,0.0,2023,keeper,Brighton & Hove Albion
+ENG-Premier League,2023/24,Burnley,Arijanet Muric,KVX,GK,24,1998,10,10,900,10.0,16,1.6,79,63,79.7,2,4,4,0,0.0,2,1,1,0,50.0,2023,keeper,Burnley
+ENG-Premier League,2023/24,Burnley,James Trafford,ENG,GK,20,2002,28,28,2520,28.0,62,2.21,168,106,63.1,3,5,20,2,7.1,5,5,0,0,0.0,2023,keeper,Burnley
+ENG-Premier League,2023/24,Chelsea,Robert Sánchez,ESP,GK,25,1997,16,16,1433,15.9,25,1.57,77,52,67.5,5,4,7,3,18.8,3,2,1,0,33.3,2023,keeper,Chelsea
+ENG-Premier League,2023/24,Chelsea,Đorđe Petrović,SRB,GK,23,1999,23,22,1987,22.1,38,1.72,112,74,66.1,13,5,4,4,18.2,2,1,0,1,0.0,2023,keeper,Chelsea
+ENG-Premier League,2023/24,Crystal Palace,Dean Henderson,ENG,GK,26,1997,18,18,1620,18.0,30,1.67,87,57,65.5,8,4,6,2,11.1,1,1,0,0,0.0,2023,keeper,Crystal Palace
+ENG-Premier League,2023/24,Crystal Palace,Remi Matthews,ENG,GK,29,1994,1,0,4,0.0,1,22.5,1,0,0.0,0,0,0,0,,0,0,0,0,,2023,keeper,Crystal Palace
+ENG-Premier League,2023/24,Crystal Palace,Sam Johnstone,ENG,GK,30,1993,20,20,1796,20.0,27,1.35,68,41,60.3,5,6,9,6,30.0,2,2,0,0,0.0,2023,keeper,Crystal Palace
+ENG-Premier League,2023/24,Everton,Jordan Pickford,ENG,GK,29,1994,38,38,3420,38.0,51,1.34,172,121,70.3,13,9,16,10,26.3,8,8,0,0,0.0,2023,keeper,Everton
+ENG-Premier League,2023/24,Fulham,Bernd Leno,GER,GK,31,1992,38,38,3420,38.0,61,1.61,195,134,68.7,13,8,17,10,26.3,8,8,0,0,0.0,2023,keeper,Fulham
+ENG-Premier League,2023/24,Liverpool,Alisson,BRA,GK,30,1992,28,28,2520,28.0,30,1.07,112,82,73.2,16,8,4,7,25.0,1,1,0,0,0.0,2023,keeper,Liverpool
+ENG-Premier League,2023/24,Liverpool,Caoimhín Kelleher,IRL,GK,24,1998,10,10,900,10.0,11,1.1,39,28,71.8,8,2,0,2,20.0,0,0,0,0,,2023,keeper,Liverpool
+ENG-Premier League,2023/24,Luton Town,James Shea,ENG,GK,32,1991,1,0,15,0.2,0,0.0,2,2,100.0,0,0,0,0,,0,0,0,0,,2023,keeper,Luton Town
+ENG-Premier League,2023/24,Luton Town,Thomas Kaminski,BEL,GK,30,1992,38,38,3405,37.8,85,2.25,229,144,62.9,6,8,24,2,5.3,4,4,0,0,0.0,2023,keeper,Luton Town
+ENG-Premier League,2023/24,Manchester City,Ederson Moraes,BRA,GK,29,1993,33,33,2785,30.9,27,0.87,84,57,67.9,24,6,3,11,33.3,3,3,0,0,0.0,2023,keeper,Manchester City
+ENG-Premier League,2023/24,Manchester City,Stefan Ortega,GER,GK,30,1992,9,5,635,7.1,7,0.99,27,20,74.1,4,1,0,3,60.0,0,0,0,0,,2023,keeper,Manchester City
+ENG-Premier League,2023/24,Manchester Utd,André Onana,CMR,GK,27,1996,38,38,3420,38.0,58,1.53,200,148,71.0,18,6,14,9,23.7,7,7,0,0,0.0,2023,keeper,Manchester United
+ENG-Premier League,2023/24,Newcastle,Loris Karius,GER,GK,30,1993,1,1,90,1.0,4,4.0,8,4,50.0,0,0,1,0,0.0,0,0,0,0,,2023,keeper,Newcastle United
+ENG-Premier League,2023/24,Newcastle,Martin Dúbravka,SVK,GK,34,1989,23,22,1985,22.1,42,1.9,129,87,67.4,9,4,9,5,22.7,5,4,1,0,20.0,2023,keeper,Newcastle United
+ENG-Premier League,2023/24,Newcastle,Nick Pope,ENG,GK,31,1992,15,15,1345,14.9,16,1.07,59,43,72.9,9,2,4,6,40.0,0,0,0,0,,2023,keeper,Newcastle United
+ENG-Premier League,2023/24,Nottingham,Matt Turner,USA,GK,29,1994,17,17,1530,17.0,28,1.65,83,55,66.3,4,5,8,2,11.8,2,2,0,0,0.0,2023,keeper,Nottingham Forest
+ENG-Premier League,2023/24,Nottingham,Matz Sels,BEL,GK,31,1992,16,16,1440,16.0,27,1.69,64,37,57.8,4,4,8,1,6.3,1,1,0,0,0.0,2023,keeper,Nottingham Forest
+ENG-Premier League,2023/24,Nottingham,Odysseas Vlachodimos,GRE,GK,29,1994,5,5,450,5.0,12,2.4,22,10,45.5,1,0,4,1,20.0,1,1,0,0,0.0,2023,keeper,Nottingham Forest
+ENG-Premier League,2023/24,Sheffield United,Ivo Grbić,CRO,GK,27,1996,9,9,771,8.6,25,2.92,62,37,59.7,0,3,6,0,0.0,1,0,0,1,,2023,keeper,Sheffield United
+ENG-Premier League,2023/24,Sheffield United,Wes Foderingham,ENG,GK,32,1991,30,29,2649,29.4,79,2.68,212,133,62.7,3,4,22,1,3.4,6,5,0,1,0.0,2023,keeper,Sheffield United
+ENG-Premier League,2023/24,Tottenham,Guglielmo Vicario,ITA,GK,26,1996,38,38,3420,38.0,61,1.61,171,110,64.3,20,6,12,6,15.8,7,7,0,0,0.0,2023,keeper,Tottenham Hotspur
+ENG-Premier League,2023/24,West Ham,Alphonse Areola,FRA,GK,30,1993,31,31,2699,30.0,53,1.77,189,136,72.0,11,9,11,4,12.9,7,5,2,0,28.6,2023,keeper,West Ham United
+ENG-Premier League,2023/24,West Ham,Łukasz Fabiański,POL,GK,38,1985,10,7,721,8.0,21,2.62,54,33,61.1,3,1,3,1,14.3,3,3,0,0,0.0,2023,keeper,West Ham United
+ENG-Premier League,2023/24,Wolves,Daniel Bentley,ENG,GK,30,1993,5,3,383,4.3,7,1.64,15,8,53.3,1,0,2,1,33.3,0,0,0,0,,2023,keeper,Wolverhampton Wanderers
+ENG-Premier League,2023/24,Wolves,José Sá,POR,GK,30,1993,35,35,3037,33.7,58,1.72,192,134,69.8,12,7,16,4,11.4,8,8,0,0,0.0,2023,keeper,Wolverhampton Wanderers
+ENG-Premier League,2024/25,Arsenal,David Raya,ESP,GK,28,1995,38,38,3420,38.0,34,0.89,120,86,71.7,20,14,4,13,34.2,3,3,0,0,0.0,2024,keeper,Arsenal
+ENG-Premier League,2024/25,Aston Villa,Emiliano Martínez,ARG,GK,31,1992,37,37,3194,35.5,47,1.32,146,99,67.8,18,9,10,8,21.6,2,1,1,0,50.0,2024,keeper,Aston Villa
+ENG-Premier League,2024/25,Aston Villa,Robin Olsen,SWE,GK,34,1990,4,1,226,2.5,6,2.39,14,8,57.1,1,0,0,1,100.0,1,1,0,0,0.0,2024,keeper,Aston Villa
+ENG-Premier League,2024/25,Bournemouth,Kepa Arrizabalaga,ESP,GK,29,1994,31,31,2790,31.0,39,1.26,136,97,71.3,13,7,11,8,25.8,4,4,0,0,0.0,2024,keeper,AFC Bournemouth
+ENG-Premier League,2024/25,Bournemouth,Mark Travers,IRL,GK,25,1999,5,5,450,5.0,5,1.0,25,20,80.0,2,2,1,1,20.0,0,0,0,0,,2024,keeper,AFC Bournemouth
+ENG-Premier League,2024/25,Bournemouth,Neto,BRA,GK,35,1989,2,2,180,2.0,2,1.0,13,11,84.6,0,2,0,0,0.0,0,0,0,0,,2024,keeper,AFC Bournemouth
+ENG-Premier League,2024/25,Brentford,Hákon Valdimarsson,ISL,GK,22,2001,2,1,145,1.6,2,1.24,5,3,60.0,0,0,1,1,100.0,0,0,0,0,,2024,keeper,Brentford
+ENG-Premier League,2024/25,Brentford,Mark Flekken,NED,GK,31,1993,37,37,3275,36.4,55,1.51,207,152,73.4,16,8,13,8,21.6,1,1,0,0,0.0,2024,keeper,Brentford
+ENG-Premier League,2024/25,Brighton,Bart Verbruggen,NED,GK,21,2002,36,36,3240,36.0,58,1.61,140,89,58.6,14,13,9,7,19.4,9,9,0,0,0.0,2024,keeper,Brighton & Hove Albion
+ENG-Premier League,2024/25,Brighton,Jason Steele,ENG,GK,33,1990,2,2,180,2.0,1,0.5,4,3,75.0,2,0,0,1,50.0,0,0,0,0,,2024,keeper,Brighton & Hove Albion
+ENG-Premier League,2024/25,Chelsea,Filip Jørgensen,DEN,GK,22,2002,6,6,540,6.0,9,1.5,29,20,69.0,3,0,3,1,16.7,1,1,0,0,0.0,2024,keeper,Chelsea
+ENG-Premier League,2024/25,Chelsea,Robert Sánchez,ESP,GK,26,1997,32,32,2880,32.0,34,1.06,128,94,73.4,17,9,6,10,31.3,5,4,1,0,20.0,2024,keeper,Chelsea
+ENG-Premier League,2024/25,Crystal Palace,Dean Henderson,ENG,GK,27,1997,38,38,3420,38.0,51,1.34,152,102,66.4,13,14,11,11,28.9,2,1,1,0,50.0,2024,keeper,Crystal Palace
+ENG-Premier League,2024/25,Everton,Jordan Pickford,ENG,GK,30,1994,38,38,3420,38.0,44,1.16,163,119,73.0,11,15,12,12,31.6,2,0,2,0,100.0,2024,keeper,Everton
+ENG-Premier League,2024/25,Fulham,Bernd Leno,GER,GK,32,1992,38,38,3420,38.0,54,1.42,158,107,65.8,15,9,14,5,13.2,4,3,1,0,25.0,2024,keeper,Fulham
+ENG-Premier League,2024/25,Ipswich Town,Alex Palmer,ENG,GK,27,1996,13,13,1170,13.0,30,2.31,75,45,60.0,1,3,9,0,0.0,1,1,0,0,0.0,2024,keeper,Ipswich Town
+ENG-Premier League,2024/25,Ipswich Town,Arijanet Muric,KVX,GK,25,1998,18,18,1620,18.0,33,1.83,103,70,68.0,2,6,10,1,5.6,3,3,0,0,0.0,2024,keeper,Ipswich Town
+ENG-Premier League,2024/25,Ipswich Town,Christian Walton,ENG,GK,28,1995,7,7,630,7.0,19,2.71,39,20,51.3,1,1,5,1,14.3,2,2,0,0,0.0,2024,keeper,Ipswich Town
+ENG-Premier League,2024/25,Leicester City,Danny Ward,WAL,GK,31,1993,2,1,135,1.5,6,4.0,10,4,40.0,0,0,1,0,0.0,0,0,0,0,,2024,keeper,Leicester City
+ENG-Premier League,2024/25,Leicester City,Jakub Stolarczyk,POL,GK,23,2000,10,10,900,10.0,16,1.6,44,28,63.6,3,1,6,2,20.0,0,0,0,0,,2024,keeper,Leicester City
+ENG-Premier League,2024/25,Leicester City,Mads Hermansen,DEN,GK,24,2000,27,27,2385,26.5,58,2.19,160,102,63.8,3,6,18,1,3.7,4,3,1,0,25.0,2024,keeper,Leicester City
+ENG-Premier League,2024/25,Liverpool,Alisson,BRA,GK,31,1992,28,28,2508,27.9,29,1.04,106,74,72.6,18,7,3,10,35.7,1,1,0,0,0.0,2024,keeper,Liverpool
+ENG-Premier League,2024/25,Liverpool,Caoimhín Kelleher,IRL,GK,25,1998,10,10,900,10.0,12,1.2,37,24,67.6,7,2,1,4,40.0,1,0,1,0,100.0,2024,keeper,Liverpool
+ENG-Premier League,2024/25,Liverpool,Vitezslav Jaros,CZE,GK,23,2001,1,0,12,0.1,0,0.0,1,1,100.0,0,0,0,1,,0,0,0,0,,2024,keeper,Liverpool
+ENG-Premier League,2024/25,Manchester City,Ederson Moraes,BRA,GK,30,1993,26,26,2320,25.8,26,1.01,80,54,67.5,16,4,6,10,38.5,2,2,0,0,0.0,2024,keeper,Manchester City
+ENG-Premier League,2024/25,Manchester City,Stefan Ortega,GER,GK,31,1992,13,12,1100,12.2,18,1.47,51,33,64.7,5,4,3,3,25.0,2,2,0,0,0.0,2024,keeper,Manchester City
+ENG-Premier League,2024/25,Manchester Utd,Altay Bayındır,TUR,GK,26,1998,4,4,360,4.0,10,2.5,18,8,44.4,1,0,3,1,25.0,0,0,0,0,,2024,keeper,Manchester United
+ENG-Premier League,2024/25,Manchester Utd,André Onana,CMR,GK,28,1996,34,34,3060,34.0,44,1.29,129,88,65.9,10,9,15,9,26.5,4,3,1,0,25.0,2024,keeper,Manchester United
+ENG-Premier League,2024/25,Newcastle,Martin Dúbravka,SVK,GK,35,1989,10,10,900,10.0,12,1.2,41,29,70.7,7,0,3,5,50.0,0,0,0,0,,2024,keeper,Newcastle United
+ENG-Premier League,2024/25,Newcastle,Nick Pope,ENG,GK,32,1992,28,28,2520,28.0,35,1.25,122,87,71.3,13,6,9,8,28.6,2,1,1,0,50.0,2024,keeper,Newcastle United
+ENG-Premier League,2024/25,Nottingham,Matz Sels,BEL,GK,32,1992,38,38,3420,38.0,46,1.21,163,119,71.8,19,8,11,13,34.2,3,3,0,0,0.0,2024,keeper,Nottingham Forest
+ENG-Premier League,2024/25,Southampton,Aaron Ramsdale,ENG,GK,26,1998,30,30,2700,30.0,66,2.2,189,123,65.1,2,5,23,3,10.0,7,5,2,0,28.6,2024,keeper,Southampton
+ENG-Premier League,2024/25,Southampton,Alex McCarthy,ENG,GK,34,1989,5,5,450,5.0,13,2.6,37,24,64.9,0,0,5,0,0.0,2,2,0,0,0.0,2024,keeper,Southampton
+ENG-Premier League,2024/25,Southampton,Joe Lumley,ENG,GK,29,1995,3,3,270,3.0,7,2.33,20,13,65.0,0,1,2,0,0.0,0,0,0,0,,2024,keeper,Southampton
+ENG-Premier League,2024/25,Tottenham,Antonín Kinský,CZE,GK,21,2003,6,6,540,6.0,11,1.83,35,24,68.6,1,0,5,1,16.7,0,0,0,0,,2024,keeper,Tottenham Hotspur
+ENG-Premier League,2024/25,Tottenham,Brandon Austin,ENG,GK,25,1999,1,1,90,1.0,2,2.0,4,2,50.0,0,0,1,0,0.0,0,0,0,0,,2024,keeper,Tottenham Hotspur
+ENG-Premier League,2024/25,Tottenham,Fraser Forster,ENG,GK,36,1988,7,7,630,7.0,15,2.14,42,28,64.3,1,2,4,1,14.3,2,2,0,0,0.0,2024,keeper,Tottenham Hotspur
+ENG-Premier League,2024/25,Tottenham,Guglielmo Vicario,ITA,GK,27,1996,24,24,2160,24.0,37,1.54,105,68,64.8,9,3,12,4,16.7,1,1,0,0,0.0,2024,keeper,Tottenham Hotspur
+ENG-Premier League,2024/25,West Ham,Alphonse Areola,FRA,GK,31,1993,26,25,2260,25.1,41,1.63,121,80,66.1,5,7,13,5,20.0,0,0,0,0,,2024,keeper,West Ham United
+ENG-Premier League,2024/25,West Ham,Łukasz Fabiański,POL,GK,39,1985,14,13,1160,12.9,21,1.63,71,50,70.4,6,3,4,3,23.1,3,3,0,0,0.0,2024,keeper,West Ham United
+ENG-Premier League,2024/25,Wolves,Daniel Bentley,ENG,GK,31,1993,2,2,180,2.0,4,2.0,12,8,66.7,1,0,1,1,50.0,0,0,0,0,,2024,keeper,Wolverhampton Wanderers
+ENG-Premier League,2024/25,Wolves,José Sá,POR,GK,31,1993,29,29,2609,29.0,48,1.66,117,69,59.0,11,5,13,7,24.1,7,5,2,0,28.6,2024,keeper,Wolverhampton Wanderers
+ENG-Premier League,2024/25,Wolves,Sam Johnstone,ENG,GK,31,1993,7,7,630,7.0,17,2.43,40,23,57.5,0,1,6,0,0.0,2,2,0,0,0.0,2024,keeper,Wolverhampton Wanderers
+ENG-Premier League,2024/25,Wolves,Tom King,WAL,GK,29,1995,1,0,1,0.0,0,0.0,0,0,,0,0,0,0,,0,0,0,0,,2024,keeper,Wolverhampton Wanderers
+ENG-Premier League,2025/26,Arsenal,David Raya,ESP,GK,29,1995,37,37,3330,37.0,26,0.7,86,59,69.8,25,7,5,19,51.4,0,0,0,0,,2025,keeper,Arsenal
+ENG-Premier League,2025/26,Arsenal,Kepa Arrizabalaga,ESP,GK,30,1994,1,1,90,1.0,1,1.0,3,2,66.7,1,0,0,0,0.0,0,0,0,0,,2025,keeper,Arsenal
+ENG-Premier League,2025/26,Aston Villa,Emiliano Martínez,ARG,GK,32,1992,32,32,2835,31.5,39,1.24,134,95,70.9,16,6,10,8,25.0,1,0,1,0,100.0,2025,keeper,Aston Villa
+ENG-Premier League,2025/26,Aston Villa,Marco Bizot,NED,GK,34,1991,7,6,585,6.5,10,1.54,29,19,65.5,3,2,1,2,33.3,1,1,0,0,0.0,2025,keeper,Aston Villa
+ENG-Premier League,2025/26,Bournemouth,Đorđe Petrović,SRB,GK,25,1999,38,38,3420,38.0,54,1.42,163,109,66.9,13,18,7,11,28.9,6,6,0,0,0.0,2025,keeper,AFC Bournemouth
+ENG-Premier League,2025/26,Brentford,Caoimhín Kelleher,IRL,GK,26,1998,37,37,3330,37.0,49,1.32,154,105,68.2,13,11,13,10,27.0,8,5,3,0,37.5,2025,keeper,Brentford
+ENG-Premier League,2025/26,Brentford,Hákon Valdimarsson,ISL,GK,23,2001,1,1,90,1.0,3,3.0,4,1,25.0,1,0,0,0,0.0,0,0,0,0,,2025,keeper,Brentford
+ENG-Premier League,2025/26,Brighton,Bart Verbruggen,NED,GK,22,2002,38,38,3420,38.0,46,1.21,151,103,69.5,14,11,13,10,26.3,6,5,1,0,16.7,2025,keeper,Brighton & Hove Albion
+ENG-Premier League,2025/26,Burnley,Martin Dúbravka,SVK,GK,36,1989,35,35,3150,35.0,71,2.03,198,127,64.1,4,8,23,4,11.4,7,6,0,1,0.0,2025,keeper,Burnley
+ENG-Premier League,2025/26,Burnley,Max Weiß,GER,GK,21,2004,3,3,270,3.0,4,1.33,14,10,71.4,0,2,1,0,0.0,1,1,0,0,0.0,2025,keeper,Burnley
+ENG-Premier League,2025/26,Chelsea,Filip Jørgensen,DEN,GK,23,2002,5,3,379,4.2,5,1.19,13,8,61.5,1,2,0,0,0.0,0,0,0,0,,2025,keeper,Chelsea
+ENG-Premier League,2025/26,Chelsea,Robert Sánchez,ESP,GK,27,1997,35,35,3039,33.8,49,1.45,147,97,66.7,13,8,14,9,25.7,2,2,0,0,0.0,2025,keeper,Chelsea
+ENG-Premier League,2025/26,Crystal Palace,Dean Henderson,ENG,GK,28,1997,37,37,3330,37.0,51,1.38,156,104,67.3,11,11,15,11,29.7,6,5,1,0,16.7,2025,keeper,Crystal Palace
+ENG-Premier League,2025/26,Crystal Palace,Walter Benítez,ARG,GK,32,1993,1,1,90,1.0,0,0.0,3,3,100.0,0,1,0,1,100.0,1,0,0,1,,2025,keeper,Crystal Palace
+ENG-Premier League,2025/26,Everton,Jordan Pickford,ENG,GK,31,1994,38,38,3420,38.0,50,1.32,149,99,66.4,13,10,15,11,28.9,4,3,1,0,25.0,2025,keeper,Everton
+ENG-Premier League,2025/26,Fulham,Bernd Leno,GER,GK,33,1992,38,38,3420,38.0,51,1.34,149,98,65.8,15,7,16,9,23.7,4,3,0,1,0.0,2025,keeper,Fulham
+ENG-Premier League,2025/26,Leeds United,Karl Darlow,WAL,GK,34,1990,22,22,1980,22.0,27,1.23,90,63,70.0,7,8,7,5,22.7,2,2,0,0,0.0,2025,keeper,Leeds United
+ENG-Premier League,2025/26,Leeds United,Lucas Perri,BRA,GK,27,1997,16,16,1440,16.0,29,1.81,67,38,56.7,4,6,6,3,18.8,4,4,0,0,0.0,2025,keeper,Leeds United
+ENG-Premier League,2025/26,Liverpool,Alisson,BRA,GK,32,1992,26,26,2340,26.0,31,1.19,88,57,64.8,13,8,5,8,30.8,2,2,0,0,0.0,2025,keeper,Liverpool
+ENG-Premier League,2025/26,Liverpool,Freddie Woodman,ENG,GK,28,1997,3,2,213,2.4,4,1.69,13,9,69.2,1,0,1,0,0.0,0,0,0,0,,2025,keeper,Liverpool
+ENG-Premier League,2025/26,Liverpool,Giorgi Mamardashvili,GEO,GK,24,2000,10,10,867,9.6,18,1.87,51,33,64.7,3,1,6,2,20.0,2,1,1,0,50.0,2025,keeper,Liverpool
+ENG-Premier League,2025/26,Manchester City,Gianluigi Donnarumma,ITA,GK,26,1999,34,34,3060,34.0,29,0.85,106,75,72.6,22,9,3,15,44.1,1,0,1,0,100.0,2025,keeper,Manchester City
+ENG-Premier League,2025/26,Manchester City,James Trafford,ENG,GK,22,2002,4,4,360,4.0,6,1.5,20,14,70.0,1,0,3,1,25.0,1,1,0,0,0.0,2025,keeper,Manchester City
+ENG-Premier League,2025/26,Manchester Utd,Altay Bayındır,TUR,GK,27,1998,6,6,540,6.0,11,1.83,24,13,54.2,2,1,3,0,0.0,0,0,0,0,,2025,keeper,Manchester United
+ENG-Premier League,2025/26,Manchester Utd,Senne Lammens,BEL,GK,23,2002,32,32,2880,32.0,39,1.22,118,78,66.9,18,10,4,8,25.0,4,4,0,0,0.0,2025,keeper,Manchester United
+ENG-Premier League,2025/26,Newcastle,Aaron Ramsdale,ENG,GK,27,1998,12,11,1004,11.2,17,1.52,41,24,58.5,4,2,5,1,9.1,3,3,0,0,0.0,2025,keeper,Newcastle United
+ENG-Premier League,2025/26,Newcastle,Nick Pope,ENG,GK,33,1992,27,27,2416,26.8,38,1.42,127,89,70.1,10,5,12,7,25.9,2,2,0,0,0.0,2025,keeper,Newcastle United
+ENG-Premier League,2025/26,Nottingham,Angus Gunn,SCO,GK,29,1996,1,0,45,0.5,0,0.0,0,0,,0,0,0,0,,0,0,0,0,,2025,keeper,Nottingham Forest
+ENG-Premier League,2025/26,Nottingham,John,BRA,GK,29,1996,5,5,437,4.9,8,1.65,14,6,42.9,1,0,4,1,20.0,1,1,0,0,0.0,2025,keeper,Nottingham Forest
+ENG-Premier League,2025/26,Nottingham,Matz Sels,BEL,GK,33,1992,31,30,2668,29.6,39,1.32,132,93,70.5,10,10,10,7,23.3,5,4,1,0,20.0,2025,keeper,Nottingham Forest
+ENG-Premier League,2025/26,Nottingham,Stefan Ortega,GER,GK,32,1992,3,3,270,3.0,4,1.33,12,8,66.7,0,1,2,1,33.3,0,0,0,0,,2025,keeper,Nottingham Forest
+ENG-Premier League,2025/26,Sunderland,Melker Ellborg,SWE,GK,22,2003,3,3,270,3.0,2,0.67,12,10,83.3,2,0,1,1,33.3,0,0,0,0,,2025,keeper,Sunderland
+ENG-Premier League,2025/26,Sunderland,Robin Roefs,NED,GK,22,2003,35,35,3150,35.0,46,1.31,154,108,70.1,12,12,11,10,28.6,3,2,1,0,33.3,2025,keeper,Sunderland
+ENG-Premier League,2025/26,Tottenham,Antonín Kinský,CZE,GK,22,2003,7,7,630,7.0,7,1.0,17,10,58.8,3,2,2,2,28.6,1,1,0,0,0.0,2025,keeper,Tottenham Hotspur
+ENG-Premier League,2025/26,Tottenham,Guglielmo Vicario,ITA,GK,28,1996,31,31,2790,31.0,50,1.61,133,83,62.4,7,9,15,7,22.6,2,2,0,0,0.0,2025,keeper,Tottenham Hotspur
+ENG-Premier League,2025/26,West Ham,Alphonse Areola,FRA,GK,32,1993,20,20,1800,20.0,37,1.85,113,76,67.3,4,5,11,0,0.0,6,5,0,1,0.0,2025,keeper,West Ham United
+ENG-Premier League,2025/26,West Ham,Mads Hermansen,DEN,GK,25,2000,18,18,1620,18.0,28,1.56,82,53,65.9,6,4,8,7,38.9,1,1,0,0,0.0,2025,keeper,West Ham United
+ENG-Premier League,2025/26,Wolves,Daniel Bentley,ENG,GK,32,1993,3,3,270,3.0,7,2.33,14,7,50.0,0,1,2,0,0.0,1,1,0,0,0.0,2025,keeper,Wolverhampton Wanderers
+ENG-Premier League,2025/26,Wolves,José Sá,POR,GK,32,1993,23,23,2070,23.0,37,1.61,102,65,63.7,3,8,12,4,17.4,3,3,0,0,0.0,2025,keeper,Wolverhampton Wanderers
+ENG-Premier League,2025/26,Wolves,Sam Johnstone,ENG,GK,32,1993,12,12,1080,12.0,24,2.0,63,39,61.9,0,2,10,0,0.0,1,1,0,0,0.0,2025,keeper,Wolverhampton Wanderers
