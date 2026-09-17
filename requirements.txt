@@ -10,6 +10,7 @@ torch>=2.4
 
 # football data sources
 soccerdata>=1.9
+seleniumbase>=4.30
 requests>=2.32
 beautifulsoup4>=4.12
 lxml>=5.2
@@ -21,6 +22,7 @@ unidecode>=1.3
 
 # LLM branch
 openai>=1.40
+ddgs>=9.0
 python-dotenv>=1.0
 
 # plotting
