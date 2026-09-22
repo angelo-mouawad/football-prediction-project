@@ -23,7 +23,7 @@ def _read(name: str, **kw) -> pd.DataFrame:
                 return pd.read_csv(path, low_memory=False, **kw)
     raise FileNotFoundError(
         f"{name} not found in {[str(d) for d in TM_DIRS]}. "
-        "Run scripts/06_check_transfermarkt.py, then 07_trim_transfermarkt.py"
+        "Run scripts/06_fetch_transfermarkt.py, then 07_trim_transfermarkt.py"
     )
 
 
@@ -147,11 +147,14 @@ def add_features(df: pd.DataFrame, club_elo: pd.DataFrame | None = None,
     # Playing regularly is itself a signal of quality.
     out["minutes_share"] = (out["minutes"] / (38 * 90)).clip(0, 1)
 
-    # Club strength.
+    # Club strength, matched to the season the player was there.
+    # Pass features.season_elo_table(...) here. If you pass a table with no season column it falls back to one rating per club, which is wrong for historical seasons and kept only for compatibility.
     if club_elo is not None:
-        elo = club_elo.rename(columns={"team": "club"})[["club", "elo"]]
-        out = out.merge(elo, on="club", how="left")
-        out["elo"] = out["elo"].fillna(out["elo"].median())
+        elo = club_elo.rename(columns={"team": "club"})
+        keys = ["club", "season_start"] if "season_start" in elo.columns else ["club"]
+        out = out.merge(elo[keys + ["elo"]], on=keys, how="left")
+        season_median = out.groupby("season_start")["elo"].transform("median")
+        out["elo"] = out["elo"].fillna(season_median).fillna(out["elo"].median())
     else:
         out["elo"] = np.nan
 
@@ -171,30 +174,45 @@ def add_features(df: pd.DataFrame, club_elo: pd.DataFrame | None = None,
     return out
 
 
-def _join_fbref(df: pd.DataFrame, fbref: pd.DataFrame) -> pd.DataFrame:
+def _find_xg_column(frame: pd.DataFrame) -> str | None:
+    cols = [str(c) for c in frame.columns]
+    exact = [c for c in cols if c.lower() in ("xg", "expected_xg")
+             or c.lower().endswith("_xg")]
+    if exact:
+        return exact[0]
+    loose = [c for c in cols if "xg" in c.lower()
+             and not any(bad in c.lower() for bad in ("npxg", "xag", "xa_", "per"))]
+    return loose[0] if loose else None
+
+
+def _join_fbref(df: pd.DataFrame, fbref) -> pd.DataFrame:
     from src.importance import normalise_player_name
 
-    f = fbref.copy()
-    name_col = next((c for c in ("player", "Player") if c in f.columns), None)
-    if name_col is None:
-        return df
+    tables = fbref if isinstance(fbref, (list, tuple)) else [fbref]
 
-    xg_col = next((c for c in f.columns if str(c).lower().endswith("_xg")
-                   or str(c).lower() == "xg"), None)
-    if xg_col is None:
-        return df
+    for f in tables:
+        if f is None:
+            continue
+        name_col = next((c for c in ("player", "Player") if c in f.columns), None)
+        xg_col = _find_xg_column(f)
+        if name_col is None or xg_col is None or "season_start" not in f.columns:
+            continue
 
-    f["_key"] = f[name_col].map(normalise_player_name)
-    f = f.groupby(["_key", "season_start"], as_index=False)[xg_col].max()
-    f = f.rename(columns={xg_col: "xg"})
+        f = f.copy()
+        f["_key"] = f[name_col].map(normalise_player_name)
+        f[xg_col] = pd.to_numeric(f[xg_col], errors="coerce")
+        f = f.groupby(["_key", "season_start"], as_index=False)[xg_col].max()
+        f = f.rename(columns={xg_col: "xg"})
 
-    df = df.copy()
-    df["_key"] = df["player"].map(normalise_player_name)
-    out = df.merge(f, on=["_key", "season_start"], how="left").drop(columns="_key")
+        out = df.copy()
+        out["_key"] = out["player"].map(normalise_player_name)
+        out = out.merge(f, on=["_key", "season_start"], how="left").drop(columns="_key")
+        print(f"  xG joined from column {xg_col!r} to {out['xg'].notna().mean():.1%} of rows")
+        return out
 
-    matched = out["xg"].notna().mean()
-    print(f"  xG joined to {matched:.1%} of rows")
-    return out
+    print("  No xG column in any FBref table. Continuing without xG.")
+    print("  Your FBref scrape only offered basic stat types, so this is expected.")
+    return df
 
 
 FEATURES_CORE = [
@@ -206,13 +224,43 @@ FEATURES_CORE = [
 ]
 
 
+def season_index(df: pd.DataFrame, col: str = "log_value") -> pd.Series:
+    # Median log value per season. The price level of the market.
+    return df.groupby("season_start")[col].median()
+
+
+def index_for(seasons, index: pd.Series) -> np.ndarray:
+    x = index.index.to_numpy(dtype=float)
+    slope, intercept = np.polyfit(x, index.to_numpy(dtype=float), 1)
+    seasons = np.asarray(seasons)
+    return np.array([
+        index[s] if s in index.index else slope * s + intercept
+        for s in seasons
+    ], dtype=float)
+
+
+def add_relative_target(df: pd.DataFrame, known_seasons) -> tuple[pd.DataFrame, pd.Series]:
+    out = df.copy()
+    idx = season_index(out[out["season_start"].isin(list(known_seasons))])
+
+    out["market_index"] = index_for(out["season_start"], idx)
+    out["log_value_rel"] = out["log_value"] - out["market_index"]
+
+    prev_index = index_for(out["season_start"] - 1, idx)
+    out["log_value_prev_rel"] = out["log_value_prev"] - prev_index
+    return out, idx
+
+
 def feature_matrix(df: pd.DataFrame, include_prev_value: bool = False,
                    include_xg: bool = True) -> tuple[pd.DataFrame, list[str]]:
     cols = list(FEATURES_CORE)
     if include_xg and "xg" in df.columns:
         cols.append("xg")
-    if include_prev_value and "log_value_prev" in df.columns:
-        cols.append("log_value_prev")
+    if include_prev_value:
+        prev = "log_value_prev_rel" if "log_value_prev_rel" in df.columns \
+            else "log_value_prev"
+        if prev in df.columns:
+            cols.append(prev)
 
     cols = [c for c in cols if c in df.columns]
     X = df[cols].copy()
@@ -229,7 +277,6 @@ def feature_matrix(df: pd.DataFrame, include_prev_value: bool = False,
 
 def build(first_season: int = 2012, club_elo=None, fbref=None,
           save: bool = True) -> pd.DataFrame:
-    # Full pipeline. Returns the feature table and optionally saves it.
     df = build_player_seasons(first_season=first_season)
     df = add_features(df, club_elo=club_elo, fbref=fbref)
     if save:

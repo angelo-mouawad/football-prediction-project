@@ -7,10 +7,10 @@ import pandas as pd
 
 # Elo settings. These are conventional football values, not tuned.
 ELO_START = 1500.0
-ELO_PROMOTED = 1400.0          # a club with no history starts below average
+ELO_PROMOTED = 1400.0
 ELO_K = 20.0
-ELO_HOME_ADV = 65.0            # in Elo points, worth roughly 0.3 goals
-ELO_SEASON_REGRESSION = 0.25   # pull 25% toward the mean between seasons
+ELO_HOME_ADV = 65.0
+ELO_SEASON_REGRESSION = 0.25
 
 POINTS = {"H": (3, 0), "D": (1, 1), "A": (0, 3)}
 
@@ -163,7 +163,7 @@ def add_rolling_features(
     # Days since the team last played.
     df["rest_days"] = grouped["date"].diff().dt.days
 
-    # Fixture congestion, matches played in the previous 14 days.
+    # Fixture congestion: matches played in the previous 14 days.
     counts = []
     for _, sub in df.groupby("team", sort=False):
         s = pd.Series(1.0, index=pd.DatetimeIndex(sub["date"]))
@@ -273,6 +273,7 @@ def build_dataset(
 
 
 def feature_columns(df: pd.DataFrame) -> list[str]:
+    # The columns the model is allowed to see. Deliberately explicit.
     allowed = ["elo_home", "elo_away", "elo_diff",
                "is_promoted_home", "is_promoted_away", "h2h_home_ppg"]
     for suffix in FEATURE_SUFFIXES:
@@ -294,6 +295,7 @@ LEAKY_COLUMNS = {
 
 
 def assert_no_leakage(cols: list[str]) -> None:
+    # Fail loudly if a post-match column sneaks into the feature set.
     bad = sorted(set(cols) & LEAKY_COLUMNS)
     if bad:
         raise ValueError(f"Post-match columns in features: {bad}")
@@ -305,3 +307,12 @@ def implied_probabilities(df: pd.DataFrame) -> pd.DataFrame:
     return inv.div(inv.sum(axis=1), axis=0).rename(
         columns={"odds_home": "p_home", "odds_draw": "p_draw", "odds_away": "p_away"}
     )
+
+
+def season_elo_table(dataset: pd.DataFrame) -> pd.DataFrame:
+    home = dataset[["season_start", "home_team", "elo_home"]].rename(
+        columns={"home_team": "team", "elo_home": "elo"})
+    away = dataset[["season_start", "away_team", "elo_away"]].rename(
+        columns={"away_team": "team", "elo_away": "elo"})
+    both = pd.concat([home, away], ignore_index=True)
+    return both.groupby(["season_start", "team"], as_index=False)["elo"].mean()

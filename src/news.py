@@ -131,7 +131,6 @@ def extract_facts(articles: list[dict], home_team: str,
         max_tokens=800,
         response_format={"type": "json_object"},
         messages=[
-            {"role": "system", "content": EXTRACTION_SYSTEM},
             {"role": "user", "content": user},
         ],
     )
