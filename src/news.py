@@ -97,21 +97,6 @@ def search_news(home_team: str, away_team: str,
 
     return articles[: max_results * 2]
 
-EXTRACTION_SYSTEM = """You extract facts from football news snippets. You do not predict, judge or speculate.
-
-You will be given snippets about an upcoming match and told which team is home and which is away.
-
-Return ONLY a JSON object of this exact shape, with no markdown fences and no commentary:
-
-{"items": [{"player": "full name as written", "side": "home" or "away", "status": "out" or "doubtful" or "suspended" or "returning"}]}
-
-Rules:
-- Only include a player if a snippet actually states their availability. If nothing is stated, return an empty list.
-- "out" means injured, unavailable or ruled out. "suspended" means banned. "doubtful" means a fitness test or a question mark. "returning" means back from injury or suspension.
-- Never guess a player's importance or quality. That is not your job.
-- Never invent a player who is not named in the snippets.
-- If a snippet is about a different fixture, ignore it."""
-
 
 def _llm_client():
     from openai import OpenAI

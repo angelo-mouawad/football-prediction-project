@@ -18,7 +18,7 @@ TEAM_COLUMNS = {
 
 
 def collect_names() -> dict[str, set[str]]:
-    """Return {file: {unresolvable names}} across every csv we have."""
+    # Return {file: {unresolvable names}} across every csv we have.
     found: dict[str, set[str]] = {}
     roots = [RAW_DIR, INTERIM_DIR, PROCESSED_DIR]
 

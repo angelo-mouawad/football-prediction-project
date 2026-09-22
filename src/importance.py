@@ -26,7 +26,6 @@ def _find_column(df: pd.DataFrame, *patterns: str) -> str | None:
 
 
 def inspect_columns(path=None) -> None:
-    # Print the columns of the standard player table. Run this first.
     path = path or (INTERIM_DIR / "players_standard.csv")
     df = pd.read_csv(path, low_memory=False, nrows=5)
     print(f"{path.name}: {len(df.columns)} columns\n")
@@ -35,7 +34,6 @@ def inspect_columns(path=None) -> None:
 
 
 def normalise_player_name(name: str) -> str:
-    # Strip accents and punctuation so 'Ødegaard' and 'Odegaard' match. Used when the LLM gives back a name typed by a journalist.
     s = unicodedata.normalize("NFKD", str(name))
     s = "".join(c for c in s if not unicodedata.combining(c))
     s = re.sub(r"[^A-Za-z0-9 ]", " ", s).lower()
@@ -106,7 +104,6 @@ def load_importance(path=None) -> pd.DataFrame:
 
 def squad(importance: pd.DataFrame, team: str, season_start: int | None = None,
           top: int = 25) -> pd.DataFrame:
-    # The most important players at a club, most recent season by default.
     sub = importance[importance["team"] == team]
     if sub.empty:
         return sub
@@ -119,7 +116,6 @@ def squad(importance: pd.DataFrame, team: str, season_start: int | None = None,
 
 def lookup(importance: pd.DataFrame, player_name: str, team: str | None = None,
            default: float = 0.25) -> float:
-    # Importance for a player named in a news article.
     key = normalise_player_name(player_name)
     sub = importance
     if team:
@@ -133,3 +129,43 @@ def lookup(importance: pd.DataFrame, player_name: str, team: str | None = None,
     if hits.empty:
         return default
     return float(hits.nlargest(1, "season_start")["importance"].iloc[0])
+
+
+VALUE_WEIGHT = 0.6
+MINUTES_WEIGHT_V2 = 0.4
+
+
+def build_importance_from_value(market_df, out_path=None):
+    import numpy as np
+
+    df = market_df.copy()
+    df = df.rename(columns={"club": "team"})
+    df = df.dropna(subset=["team", "player", "market_value_eur"])
+
+    # Log first. Raw value is so skewed that one superstar would flatten everyone else in the squad to near zero.
+    df["_log_value"] = np.log(df["market_value_eur"].clip(lower=1))
+
+    grp = df.groupby(["season_start", "team"])
+    log_min = grp["_log_value"].transform("min")
+    log_max = grp["_log_value"].transform("max")
+    span = (log_max - log_min).replace(0, 1)
+    value_score = (df["_log_value"] - log_min) / span
+
+    minutes_max = grp["minutes"].transform("max").replace(0, 1)
+    minutes_score = df["minutes"] / minutes_max
+
+    df["importance"] = (
+        VALUE_WEIGHT * value_score + MINUTES_WEIGHT_V2 * minutes_score
+    ).clip(0, 1).round(3)
+
+    df["player_key"] = df["player"].map(normalise_player_name)
+
+    cols = ["season_start", "team", "player", "player_key", "position",
+            "minutes", "goals", "assists", "market_value_eur", "importance"]
+    out = df[[c for c in cols if c in df.columns]].sort_values(
+        ["season_start", "team", "importance"], ascending=[True, True, False]
+    ).reset_index(drop=True)
+
+    out_path = out_path or (PROCESSED_DIR / "player_importance_value.csv")
+    out.to_csv(out_path, index=False)
+    return out
