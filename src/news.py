@@ -60,14 +60,10 @@ class NewsResult:
             )
         return "\n".join(lines)
 
-
 def search_news(home_team: str, away_team: str,
                 max_results: int = DEFAULT_MAX_RESULTS) -> list[dict]:
     try:
-        try:
-            from ddgs import DDGS
-        except ImportError:
-            from duckduckgo_search import DDGS
+        from ddgs import DDGS
     except ImportError:
         return []
 
@@ -98,6 +94,22 @@ def search_news(home_team: str, away_team: str,
     return articles[: max_results * 2]
 
 
+EXTRACTION_SYSTEM = """You extract facts from football news snippets. You do not predict, judge or speculate.
+
+You will be given snippets about an upcoming match and told which team is home and which is away.
+
+Return ONLY a JSON object of this exact shape, with no markdown fences and no commentary:
+
+{"items": [{"player": "full name as written", "side": "home" or "away", "status": "out" or "doubtful" or "suspended" or "returning"}]}
+
+Rules:
+- Only include a player if a snippet actually states their availability. If nothing is stated, return an empty list.
+- "out" means injured, unavailable or ruled out. "suspended" means banned. "doubtful" means a fitness test or a question mark. "returning" means back from injury or suspension.
+- Never guess a player's importance or quality. That is not your job.
+- Never invent a player who is not named in the snippets.
+- If a snippet is about a different fixture, ignore it."""
+
+
 def _llm_client():
     from openai import OpenAI
 
@@ -112,6 +124,7 @@ def _llm_client():
 
 def extract_facts(articles: list[dict], home_team: str,
                   away_team: str) -> list[dict]:
+    # Ask the LLM for structured availability facts. Returns [] on failure.
     if not articles:
         return []
 
@@ -126,11 +139,12 @@ def extract_facts(articles: list[dict], home_team: str,
 
     client = _llm_client()
     resp = client.chat.completions.create(
-        model=os.getenv("LLM_MODEL", "llama-3.3-70b-versatile"),
+        model=os.getenv("LLM_MODEL", "openai/gpt-oss-120b"),
         temperature=0,
         max_tokens=800,
         response_format={"type": "json_object"},
         messages=[
+            {"role": "system", "content": EXTRACTION_SYSTEM},
             {"role": "user", "content": user},
         ],
     )
@@ -180,6 +194,7 @@ def score_facts(items: list[dict], importance_table, home_team: str,
 
 def analyse_fixture(home_team: str, away_team: str,
                     importance_table) -> NewsResult:
+    # Run all three stages. Degrades to a neutral result on any failure.
     articles = search_news(home_team, away_team)
     if not articles:
         return NewsResult(articles=[], error="no articles found")
