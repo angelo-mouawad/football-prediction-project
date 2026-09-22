@@ -1,0 +1,533 @@
+league,season,team,player,nation,pos,age,born,90s,Performance_CrdY,Performance_CrdR,Performance_2CrdY,Performance_Fls,Performance_Fld,Performance_Off,Performance_Crs,Performance_Int,Performance_TklW,Performance_PKwon,Performance_PKcon,Performance_OG,season_start,stat_type
+ENG-Premier League,2020/21,Arsenal,Ainsley Maitland-Niles,ENG,"MF,DF",22,1997,5.4,0,0,0,6,3,2,8,14,8,,,0,2020,misc
+ENG-Premier League,2020/21,Arsenal,Alexandre Lacazette,FRA,FW,29,1991,21.4,3,0,0,37,54,10,3,10,9,,,0,2020,misc
+ENG-Premier League,2020/21,Arsenal,Bernd Leno,GER,GK,28,1992,34.8,0,1,0,2,4,0,0,0,1,,,1,2020,misc
+ENG-Premier League,2020/21,Arsenal,Bukayo Saka,ENG,MF,18,2001,28.4,1,0,0,28,64,15,147,26,16,,,1,2020,misc
+ENG-Premier League,2020/21,Arsenal,Calum Chambers,ENG,DF,25,1995,8.4,0,0,0,8,2,0,33,10,3,,,0,2020,misc
+ENG-Premier League,2020/21,Arsenal,Cédric Soares,POR,DF,28,1991,8.3,1,0,0,6,5,0,35,9,8,,,0,2020,misc
+ENG-Premier League,2020/21,Arsenal,Dani Ceballos,ESP,MF,23,1996,17.9,4,0,0,22,24,0,30,30,24,,,0,2020,misc
+ENG-Premier League,2020/21,Arsenal,David Luiz,BRA,DF,33,1987,15.5,1,1,0,15,6,1,8,16,8,,,0,2020,misc
+ENG-Premier League,2020/21,Arsenal,Eddie Nketiah,ENG,FW,21,1999,4.7,0,0,0,11,11,0,2,1,1,,,0,2020,misc
+ENG-Premier League,2020/21,Arsenal,Emile Smith Rowe,ENG,MF,20,2000,16.0,0,0,0,5,20,4,17,9,7,,,0,2020,misc
+ENG-Premier League,2020/21,Arsenal,Gabriel Magalhães,BRA,DF,22,1997,22.2,4,1,1,24,26,0,2,27,15,,,0,2020,misc
+ENG-Premier League,2020/21,Arsenal,Gabriel Martinelli,BRA,"MF,FW",19,2001,6.5,0,0,0,9,4,1,12,8,1,,,0,2020,misc
+ENG-Premier League,2020/21,Arsenal,Granit Xhaka,SUI,"MF,DF",27,1992,28.0,7,1,0,39,38,1,11,22,30,,,0,2020,misc
+ENG-Premier League,2020/21,Arsenal,Héctor Bellerín,ESP,"DF,MF",25,1995,23.2,8,0,0,21,7,1,54,30,19,,,0,2020,misc
+ENG-Premier League,2020/21,Arsenal,Joe Willock,ENG,MF,20,1999,2.6,1,0,0,6,4,1,5,3,4,,,0,2020,misc
+ENG-Premier League,2020/21,Arsenal,Kieran Tierney,SCO,DF,23,1997,25.5,4,0,0,14,18,0,123,16,15,,,0,2020,misc
+ENG-Premier League,2020/21,Arsenal,Martin Ødegaard,NOR,MF,21,1998,9.6,0,0,0,1,9,1,36,2,3,,,0,2020,misc
+ENG-Premier League,2020/21,Arsenal,Mathew Ryan,AUS,GK,28,1992,3.0,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Arsenal,Mohamed Elneny,EGY,MF,28,1992,17.2,3,0,0,10,10,0,2,24,7,,,0,2020,misc
+ENG-Premier League,2020/21,Arsenal,Nicolas Pépé,CIV,"MF,FW",25,1995,18.0,1,1,0,10,26,4,59,10,14,,,0,2020,misc
+ENG-Premier League,2020/21,Arsenal,Pablo Marí,ESP,DF,26,1993,10.0,2,0,0,8,4,0,0,7,10,,,0,2020,misc
+ENG-Premier League,2020/21,Arsenal,Pierre-Emerick Aubameyang,GAB,"FW,MF",31,1989,25.9,2,0,0,13,18,18,39,7,9,,,1,2020,misc
+ENG-Premier League,2020/21,Arsenal,Reiss Nelson,ENG,"FW,MF",20,1999,0.8,0,0,0,2,1,0,11,1,0,,,0,2020,misc
+ENG-Premier League,2020/21,Arsenal,Rob Holding,ENG,DF,24,1995,28.4,2,0,0,24,5,2,2,24,20,,,1,2020,misc
+ENG-Premier League,2020/21,Arsenal,Rúnar Alex Rúnarsson,ISL,GK,25,1995,0.2,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Arsenal,Sead Kolašinac,BIH,DF,27,1993,1.0,0,0,0,1,1,0,1,1,0,,,0,2020,misc
+ENG-Premier League,2020/21,Arsenal,Shkodran Mustafi,GER,DF,28,1992,0.5,0,0,0,1,0,0,0,0,1,,,0,2020,misc
+ENG-Premier League,2020/21,Arsenal,Thomas Partey,GHA,MF,27,1993,17.0,5,0,0,18,17,0,6,23,23,,,0,2020,misc
+ENG-Premier League,2020/21,Arsenal,Willian,BRA,"MF,FW",31,1988,15.6,0,0,0,5,21,4,104,9,7,,,0,2020,misc
+ENG-Premier League,2020/21,Aston Villa,Ahmed Elmohamady,EGY,DF,32,1987,9.3,2,0,0,6,3,0,38,19,13,,,0,2020,misc
+ENG-Premier League,2020/21,Aston Villa,Anwar El Ghazi,NED,"MF,FW",25,1995,17.9,2,0,0,19,28,5,89,6,12,,,0,2020,misc
+ENG-Premier League,2020/21,Aston Villa,Bertrand Traoré,BFA,"MF,FW",24,1995,25.7,1,0,0,31,40,7,100,16,10,,,0,2020,misc
+ENG-Premier League,2020/21,Aston Villa,Carney Chukwuemeka,AUT,MF,16,2003,0.2,0,0,0,2,0,0,0,0,2,,,0,2020,misc
+ENG-Premier League,2020/21,Aston Villa,Conor Hourihane,IRL,MF,29,1991,2.5,0,0,0,1,0,0,27,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Aston Villa,Douglas Luiz,BRA,MF,22,1998,30.9,10,1,1,59,49,0,21,40,22,,,0,2020,misc
+ENG-Premier League,2020/21,Aston Villa,Emiliano Martínez,ARG,GK,27,1992,38.0,1,0,0,1,9,0,0,1,2,,,0,2020,misc
+ENG-Premier League,2020/21,Aston Villa,Ezri Konsa,ENG,DF,22,1997,35.5,3,0,0,19,54,1,4,32,14,,,0,2020,misc
+ENG-Premier League,2020/21,Aston Villa,Jack Grealish,ENG,"MF,FW",24,1995,24.3,6,0,0,41,109,7,73,11,16,,,0,2020,misc
+ENG-Premier League,2020/21,Aston Villa,Jacob Ramsey,ENG,MF,19,2001,7.0,0,0,0,13,11,2,7,5,3,,,0,2020,misc
+ENG-Premier League,2020/21,Aston Villa,Jaden Philogene Bidace,ENG,"FW,MF",18,2002,0.0,0,0,0,0,0,1,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Aston Villa,John McGinn,SCO,MF,25,1994,37.0,12,0,0,45,77,2,51,42,37,,,0,2020,misc
+ENG-Premier League,2020/21,Aston Villa,Keinan Davis,ENG,FW,22,1998,3.1,0,0,0,4,5,0,4,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Aston Villa,Kortney Hause,ENG,DF,25,1995,7.0,2,0,0,5,3,0,0,8,2,,,0,2020,misc
+ENG-Premier League,2020/21,Aston Villa,Marvelous Nakamba,ZIM,MF,26,1994,8.3,3,0,0,7,10,0,1,17,13,,,0,2020,misc
+ENG-Premier League,2020/21,Aston Villa,Matt Targett,ENG,DF,24,1995,37.8,7,0,0,28,23,0,140,54,44,,,0,2020,misc
+ENG-Premier League,2020/21,Aston Villa,Matty Cash,POL,DF,22,1997,26.4,8,1,1,35,22,2,75,54,43,,,0,2020,misc
+ENG-Premier League,2020/21,Aston Villa,Morgan Sanson,FRA,MF,25,1994,3.3,3,0,0,6,7,2,16,3,4,,,0,2020,misc
+ENG-Premier League,2020/21,Aston Villa,Neil Taylor,WAL,"DF,MF",31,1989,0.2,1,0,0,1,0,0,0,0,1,,,0,2020,misc
+ENG-Premier League,2020/21,Aston Villa,Ollie Watkins,ENG,FW,24,1995,37.0,4,1,1,49,49,30,22,7,18,,,0,2020,misc
+ENG-Premier League,2020/21,Aston Villa,Ross Barkley,ENG,MF,26,1993,17.0,0,0,0,12,17,5,62,5,2,,,0,2020,misc
+ENG-Premier League,2020/21,Aston Villa,Trézéguet,EGY,"MF,FW",25,1994,13.0,0,0,0,39,20,4,25,19,18,,,0,2020,misc
+ENG-Premier League,2020/21,Aston Villa,Tyrone Mings,ENG,DF,27,1993,35.5,6,1,1,20,19,3,5,41,15,,,1,2020,misc
+ENG-Premier League,2020/21,Aston Villa,Wesley Moraes,BRA,FW,23,1996,0.2,0,0,0,0,1,0,0,0,1,,,0,2020,misc
+ENG-Premier League,2020/21,Brighton,Aaron Connolly,IRL,"FW,MF",20,2000,8.8,0,0,0,5,16,8,2,0,3,,,0,2020,misc
+ENG-Premier League,2020/21,Brighton,Adam Lallana,ENG,"MF,FW",32,1988,17.7,0,0,0,18,20,3,12,16,14,,,0,2020,misc
+ENG-Premier League,2020/21,Brighton,Adam Webster,ENG,DF,25,1995,28.8,4,0,0,24,16,1,1,49,17,,,0,2020,misc
+ENG-Premier League,2020/21,Brighton,Alexis Mac Allister,ARG,"MF,FW",21,1998,12.4,1,0,0,19,15,0,11,10,11,,,0,2020,misc
+ENG-Premier League,2020/21,Brighton,Alireza Jahanbakhsh,IRN,"MF,FW",26,1993,5.9,3,0,0,8,4,0,29,7,8,,,0,2020,misc
+ENG-Premier League,2020/21,Brighton,Andi Zeqiri,SUI,FW,21,1999,1.9,0,0,0,2,2,0,6,0,2,,,0,2020,misc
+ENG-Premier League,2020/21,Brighton,Ben White,ENG,"DF,MF",22,1997,35.5,5,1,1,30,9,1,22,62,25,,,0,2020,misc
+ENG-Premier League,2020/21,Brighton,Bernardo,BRA,MF,25,1995,2.3,0,0,0,1,1,0,5,2,8,,,0,2020,misc
+ENG-Premier League,2020/21,Brighton,Dan Burn,ENG,"DF,MF",28,1992,22.9,5,0,0,35,6,4,37,32,25,,,1,2020,misc
+ENG-Premier League,2020/21,Brighton,Danny Welbeck,ENG,FW,29,1990,17.2,0,0,0,19,17,5,3,6,7,,,0,2020,misc
+ENG-Premier League,2020/21,Brighton,Davy Pröpper,NED,MF,28,1991,2.4,0,0,0,1,0,0,3,1,5,,,0,2020,misc
+ENG-Premier League,2020/21,Brighton,Jakub Moder,POL,MF,21,1999,7.2,0,0,0,12,3,2,12,3,6,,,0,2020,misc
+ENG-Premier League,2020/21,Brighton,Jayson Molumby,IRL,MF,20,1999,0.0,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Brighton,José Izquierdo,COL,"FW,MF",28,1992,0.1,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Brighton,Joël Veltman,NED,"DF,MF",28,1992,25.3,3,0,0,35,39,0,62,32,36,,,0,2020,misc
+ENG-Premier League,2020/21,Brighton,Leandro Trossard,BEL,"MF,FW",25,1994,29.0,2,0,0,28,32,6,84,26,14,,,0,2020,misc
+ENG-Premier League,2020/21,Brighton,Lewis Dunk,ENG,DF,28,1991,32.6,5,2,0,21,20,2,1,32,17,,,1,2020,misc
+ENG-Premier League,2020/21,Brighton,Mathew Ryan,AUS,GK,28,1992,11.0,1,0,0,1,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Brighton,Neal Maupay,FRA,"FW,MF",23,1996,27.9,1,1,0,29,44,12,11,13,12,,,0,2020,misc
+ENG-Premier League,2020/21,Brighton,Pascal Groß,GER,MF,29,1991,27.6,3,0,0,19,17,5,221,20,25,,,0,2020,misc
+ENG-Premier League,2020/21,Brighton,Percy Tau,RSA,MF,26,1994,1.1,0,0,0,0,1,0,2,1,1,,,0,2020,misc
+ENG-Premier League,2020/21,Brighton,Reda Khadra,GER,"FW,MF",19,2001,0.1,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Brighton,Robert Sánchez,ESP,GK,22,1997,27.0,2,0,0,2,4,0,0,1,0,,,0,2020,misc
+ENG-Premier League,2020/21,Brighton,Solly March,ENG,MF,26,1994,18.6,0,0,0,26,26,2,121,22,23,,,0,2020,misc
+ENG-Premier League,2020/21,Brighton,Steven Alzate,COL,MF,21,1998,10.0,2,0,0,20,7,1,3,8,9,,,0,2020,misc
+ENG-Premier League,2020/21,Brighton,Tariq Lamptey,GHA,MF,19,2000,9.8,4,1,1,21,28,1,35,18,8,,,0,2020,misc
+ENG-Premier League,2020/21,Brighton,Yves Bissouma,MLI,MF,23,1996,34.6,8,1,0,54,32,0,7,64,72,,,0,2020,misc
+ENG-Premier League,2020/21,Burnley,Ashley Barnes,ENG,FW,30,1989,14.8,4,0,0,45,49,17,8,8,5,,,0,2020,misc
+ENG-Premier League,2020/21,Burnley,Ashley Westwood,ENG,MF,30,1990,37.9,7,0,0,35,43,0,179,45,13,,,0,2020,misc
+ENG-Premier League,2020/21,Burnley,Bailey Peacock-Farrell,NIR,GK,23,1996,4.0,0,0,0,0,1,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Burnley,Ben Mee,ENG,DF,30,1989,29.9,3,0,0,15,20,1,0,44,15,,,0,2020,misc
+ENG-Premier League,2020/21,Burnley,Charlie Taylor,ENG,DF,26,1993,27.0,1,0,0,9,34,0,105,28,30,,,0,2020,misc
+ENG-Premier League,2020/21,Burnley,Chris Wood,NZL,FW,28,1991,30.5,0,0,0,37,23,25,7,2,7,,,0,2020,misc
+ENG-Premier League,2020/21,Burnley,Dale Stephens,ENG,MF,31,1989,2.9,1,0,0,8,2,0,0,8,5,,,0,2020,misc
+ENG-Premier League,2020/21,Burnley,Dwight McNeil,ENG,MF,20,1999,34.1,1,0,0,12,39,2,243,31,23,,,0,2020,misc
+ENG-Premier League,2020/21,Burnley,Erik Pieters,NED,"DF,MF",31,1988,14.1,1,0,0,26,20,1,19,12,22,,,1,2020,misc
+ENG-Premier League,2020/21,Burnley,Jack Cork,ENG,MF,31,1989,15.0,2,0,0,21,12,0,3,16,13,,,0,2020,misc
+ENG-Premier League,2020/21,Burnley,James Tarkowski,ENG,DF,27,1992,36.0,6,0,0,27,29,3,6,48,40,,,0,2020,misc
+ENG-Premier League,2020/21,Burnley,Jay Rodriguez,ENG,"FW,MF",31,1989,14.1,3,0,0,31,18,15,4,2,15,,,0,2020,misc
+ENG-Premier League,2020/21,Burnley,Jimmy Dunne,IRL,DF,22,1997,3.0,1,0,0,2,3,0,0,6,3,,,0,2020,misc
+ENG-Premier League,2020/21,Burnley,Joel Mumbongo,SWE,FW,21,1999,0.4,1,0,0,1,2,1,0,1,0,,,0,2020,misc
+ENG-Premier League,2020/21,Burnley,Josh Benson,ENG,MF,20,1999,2.9,0,0,0,4,1,0,5,3,4,,,0,2020,misc
+ENG-Premier League,2020/21,Burnley,Josh Brownhill,ENG,MF,24,1995,31.3,2,0,0,37,32,2,17,71,25,,,0,2020,misc
+ENG-Premier League,2020/21,Burnley,Jóhann Berg Guðmundsson,ISL,MF,29,1990,15.1,2,0,0,11,16,2,32,15,10,,,0,2020,misc
+ENG-Premier League,2020/21,Burnley,Kevin Long,IRL,DF,29,1990,7.1,2,0,0,8,4,0,1,6,7,,,0,2020,misc
+ENG-Premier League,2020/21,Burnley,Lewis Richardson,ENG,"FW,MF",17,2003,0.0,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Burnley,Matthew Lowton,ENG,DF,31,1989,34.0,5,0,0,19,13,0,82,61,33,,,0,2020,misc
+ENG-Premier League,2020/21,Burnley,Matěj Vydra,CZE,FW,28,1992,15.2,0,0,0,6,13,12,3,4,6,,,0,2020,misc
+ENG-Premier League,2020/21,Burnley,Nick Pope,ENG,GK,28,1992,32.0,1,0,0,2,3,0,0,2,2,,,0,2020,misc
+ENG-Premier League,2020/21,Burnley,Phil Bardsley,SCO,DF,35,1985,3.0,2,0,0,8,4,0,10,5,5,,,0,2020,misc
+ENG-Premier League,2020/21,Burnley,Robbie Brady,IRL,MF,28,1992,11.7,3,0,0,21,9,2,44,9,16,,,0,2020,misc
+ENG-Premier League,2020/21,Burnley,Will Norris,ENG,GK,26,1993,2.0,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Chelsea,Andreas Christensen,DEN,DF,24,1996,15.2,2,1,0,9,7,0,0,20,6,,,0,2020,misc
+ENG-Premier League,2020/21,Chelsea,Antonio Rüdiger,GER,DF,27,1993,19.0,0,0,0,16,11,1,3,18,23,,,1,2020,misc
+ENG-Premier League,2020/21,Chelsea,Ben Chilwell,ENG,"DF,MF",23,1996,25.4,3,0,0,23,42,8,136,25,19,,,0,2020,misc
+ENG-Premier League,2020/21,Chelsea,Billy Gilmour,SCO,MF,19,2001,2.9,0,0,0,2,2,0,2,2,2,,,0,2020,misc
+ENG-Premier League,2020/21,Chelsea,Callum Hudson-Odoi,ENG,"MF,FW",19,2000,11.8,0,0,0,10,8,5,59,6,15,,,0,2020,misc
+ENG-Premier League,2020/21,Chelsea,Christian Pulisic,USA,"MF,FW",21,1998,19.3,2,0,0,14,33,5,36,11,14,,,0,2020,misc
+ENG-Premier League,2020/21,Chelsea,César Azpilicueta,ESP,"DF,MF",30,1989,24.3,5,1,0,32,14,5,39,24,30,,,0,2020,misc
+ENG-Premier League,2020/21,Chelsea,Emerson Palmieri,ITA,"DF,MF",25,1994,1.0,0,0,0,3,0,0,2,2,2,,,0,2020,misc
+ENG-Premier League,2020/21,Chelsea,Fikayo Tomori,ENG,DF,22,1997,0.5,0,0,0,1,0,0,0,2,1,,,0,2020,misc
+ENG-Premier League,2020/21,Chelsea,Hakim Ziyech,MAR,"FW,MF",27,1993,13.0,3,0,0,19,15,4,61,7,8,,,0,2020,misc
+ENG-Premier League,2020/21,Chelsea,Jorginho,ITA,MF,28,1991,22.3,2,0,0,32,29,0,4,35,30,,,0,2020,misc
+ENG-Premier League,2020/21,Chelsea,Kai Havertz,GER,"MF,FW",21,1999,16.9,2,0,0,27,15,7,12,4,8,,,0,2020,misc
+ENG-Premier League,2020/21,Chelsea,Kepa Arrizabalaga,ESP,GK,25,1994,6.5,1,0,0,1,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Chelsea,Kurt Zouma,FRA,DF,25,1994,22.5,3,0,0,17,6,0,0,25,9,,,0,2020,misc
+ENG-Premier League,2020/21,Chelsea,Marcos Alonso,ESP,"MF,DF",29,1990,10.7,2,0,0,13,12,2,25,13,4,,,0,2020,misc
+ENG-Premier League,2020/21,Chelsea,Mason Mount,ENG,MF,21,1999,32.1,2,0,0,51,44,4,171,32,34,,,0,2020,misc
+ENG-Premier League,2020/21,Chelsea,Mateo Kovačić,CRO,MF,26,1994,20.2,4,0,0,17,30,0,6,15,27,,,0,2020,misc
+ENG-Premier League,2020/21,Chelsea,N'Golo Kanté,FRA,MF,29,1991,23.8,7,0,0,37,7,0,8,56,45,,,0,2020,misc
+ENG-Premier League,2020/21,Chelsea,Olivier Giroud,FRA,FW,33,1986,8.3,1,0,0,16,6,6,3,2,4,,,0,2020,misc
+ENG-Premier League,2020/21,Chelsea,Reece James,ENG,"DF,MF",20,1999,26.4,3,0,0,31,17,1,144,17,36,,,0,2020,misc
+ENG-Premier League,2020/21,Chelsea,Ross Barkley,ENG,MF,26,1993,0.5,0,0,0,2,2,1,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Chelsea,Ruben Loftus-Cheek,ENG,FW,24,1996,0.7,0,0,0,1,2,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Chelsea,Tammy Abraham,ENG,FW,22,1997,11.6,0,0,0,22,12,5,6,4,6,,,0,2020,misc
+ENG-Premier League,2020/21,Chelsea,Thiago Silva,BRA,DF,35,1984,21.5,5,1,1,14,16,0,3,33,12,,,0,2020,misc
+ENG-Premier League,2020/21,Chelsea,Timo Werner,GER,"FW,MF",24,1996,28.9,2,0,0,27,31,26,35,6,9,,,0,2020,misc
+ENG-Premier League,2020/21,Chelsea,Willy Caballero,ARG,GK,38,1981,1.0,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Chelsea,Édouard Mendy,SEN,GK,28,1992,30.5,2,0,0,1,2,0,0,2,0,,,0,2020,misc
+ENG-Premier League,2020/21,Crystal Palace,Andros Townsend,ENG,"MF,FW",29,1991,25.1,0,0,0,28,54,2,156,40,42,,,0,2020,misc
+ENG-Premier League,2020/21,Crystal Palace,Cheikhou Kouyaté,SEN,DF,30,1989,34.7,4,0,0,36,15,0,3,36,37,,,0,2020,misc
+ENG-Premier League,2020/21,Crystal Palace,Christian Benteke,BEL,FW,29,1990,20.2,3,1,1,35,20,15,3,4,7,,,0,2020,misc
+ENG-Premier League,2020/21,Crystal Palace,Eberechi Eze,ENG,MF,22,1998,28.4,3,0,0,18,71,1,85,20,15,,,0,2020,misc
+ENG-Premier League,2020/21,Crystal Palace,Gary Cahill,ENG,DF,34,1985,20.0,3,0,0,12,3,3,0,15,9,,,0,2020,misc
+ENG-Premier League,2020/21,Crystal Palace,Jack Butland,ENG,GK,27,1993,1.0,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Crystal Palace,James McArthur,SCO,MF,32,1987,16.3,3,0,0,32,14,0,10,25,32,,,0,2020,misc
+ENG-Premier League,2020/21,Crystal Palace,James McCarthy,IRL,MF,29,1990,9.1,1,0,0,6,4,0,11,8,11,,,0,2020,misc
+ENG-Premier League,2020/21,Crystal Palace,James Tomkins,ENG,DF,31,1989,6.1,1,0,0,3,1,0,0,4,2,,,0,2020,misc
+ENG-Premier League,2020/21,Crystal Palace,Jaïro Riedewald,NED,MF,23,1996,20.2,4,0,0,22,5,0,2,27,16,,,0,2020,misc
+ENG-Premier League,2020/21,Crystal Palace,Jean-Philippe Mateta,FRA,FW,23,1997,2.5,0,0,0,3,1,5,1,1,2,,,0,2020,misc
+ENG-Premier League,2020/21,Crystal Palace,Jeffrey Schlupp,GHA,MF,27,1992,15.9,3,0,0,25,17,0,31,21,18,,,0,2020,misc
+ENG-Premier League,2020/21,Crystal Palace,Joel Ward,ENG,DF,30,1989,25.1,5,0,0,32,12,1,27,43,26,,,0,2020,misc
+ENG-Premier League,2020/21,Crystal Palace,Jordan Ayew,GHA,"FW,MF",28,1991,23.3,4,0,0,45,63,5,32,17,26,,,0,2020,misc
+ENG-Premier League,2020/21,Crystal Palace,Luka Milivojević,SRB,MF,29,1991,26.2,8,1,0,37,33,0,37,34,34,,,0,2020,misc
+ENG-Premier League,2020/21,Crystal Palace,Mamadou Sakho,FRA,DF,30,1990,3.1,0,0,0,2,1,0,0,3,2,,,0,2020,misc
+ENG-Premier League,2020/21,Crystal Palace,Martin Kelly,ENG,"DF,MF",30,1990,0.0,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Crystal Palace,Michy Batshuayi,BEL,FW,26,1993,8.1,0,0,0,11,5,11,5,4,3,,,0,2020,misc
+ENG-Premier League,2020/21,Crystal Palace,Nathaniel Clyne,ENG,DF,29,1991,12.7,2,0,0,4,2,0,23,19,10,,,0,2020,misc
+ENG-Premier League,2020/21,Crystal Palace,Patrick van Aanholt,NED,DF,29,1990,19.7,2,0,0,11,4,3,39,29,22,,,0,2020,misc
+ENG-Premier League,2020/21,Crystal Palace,Scott Dann,ENG,DF,33,1987,15.0,1,0,0,7,6,0,0,17,4,,,0,2020,misc
+ENG-Premier League,2020/21,Crystal Palace,Tyrick Mitchell,ENG,DF,20,1999,19.0,1,0,0,8,11,0,27,28,34,,,0,2020,misc
+ENG-Premier League,2020/21,Crystal Palace,Vicente Guaita,ESP,GK,33,1987,37.0,2,0,0,0,5,0,0,1,1,,,0,2020,misc
+ENG-Premier League,2020/21,Crystal Palace,Wilfried Zaha,CIV,FW,27,1992,29.0,6,0,0,33,88,22,41,11,19,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,Abdoulaye Doucouré,MLI,MF,27,1993,27.1,6,0,0,23,12,0,9,38,33,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,Alex Iwobi,NGA,"MF,FW",24,1996,17.1,0,0,0,13,13,0,70,14,13,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,Allan,BRA,MF,29,1991,22.8,6,0,0,37,30,0,4,19,46,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,André Gomes,POR,MF,27,1993,17.4,3,0,0,34,14,2,23,10,23,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,Anthony Gordon,ENG,MF,19,2001,1.0,0,0,0,0,2,1,1,1,2,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,Ben Godfrey,ENG,DF,22,1998,29.8,4,0,0,15,17,3,6,33,32,,,1,2020,misc
+ENG-Premier League,2020/21,Everton,Bernard,BRA,"MF,FW",27,1992,5.1,2,0,0,6,7,0,13,8,3,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,Cenk Tosun,TUR,"FW,MF",29,1991,0.5,1,0,0,1,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,Dominic Calvert-Lewin,ENG,FW,23,1997,31.9,3,0,0,37,40,19,10,7,9,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,Fabian Delph,ENG,MF,30,1989,3.0,1,0,0,3,7,0,6,3,3,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,Gylfi Sigurðsson,ISL,"MF,FW",30,1989,25.0,2,0,0,22,18,0,100,34,21,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,James Rodríguez,COL,"FW,MF",29,1991,19.6,4,0,0,17,40,6,90,15,18,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,Jean-Philippe Gbamin,CIV,"DF,MF",24,1995,0.1,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,Jonjoe Kenny,ENG,DF,23,1997,0.9,0,0,0,0,0,1,6,1,1,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,Jordan Pickford,ENG,GK,26,1994,30.5,1,0,0,1,3,0,0,3,0,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,Joshua King,NOR,"FW,MF",28,1992,1.6,0,0,0,4,1,3,1,1,1,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,João Virgínia,POR,GK,20,1999,0.5,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,Lucas Digne,FRA,"DF,MF",27,1993,29.8,2,1,0,35,22,4,215,34,38,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,Mason Holgate,JAM,DF,23,1996,25.4,9,0,0,28,29,1,26,33,36,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,Michael Keane,ENG,DF,27,1993,33.2,4,0,0,15,9,0,1,51,15,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,Moise Kean,ITA,FW,20,2000,0.2,0,0,0,1,0,0,2,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,Nathan Broadhead,WAL,"FW,MF",22,1998,0.0,0,0,0,0,0,0,0,0,1,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,Niels Nkounkou,FRA,DF,19,2000,0.9,1,0,0,1,0,0,4,0,3,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,Richarlison,BRA,"FW,MF",23,1997,31.8,4,1,0,34,73,25,37,16,31,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,Robin Olsen,SWE,GK,30,1990,7.0,1,0,0,0,1,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,Séamus Coleman,IRL,"DF,MF",31,1988,17.9,0,0,0,12,17,0,37,13,25,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,Theo Walcott,ENG,"FW,MF",31,1989,0.1,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,Tom Davies,ENG,MF,22,1998,15.8,3,0,0,28,26,0,5,30,15,,,0,2020,misc
+ENG-Premier League,2020/21,Everton,Yerry Mina,COL,DF,25,1994,21.5,2,0,0,22,11,0,0,24,15,,,0,2020,misc
+ENG-Premier League,2020/21,Fulham,Aboubakar Kamara,MTN,"MF,FW",25,1995,3.5,1,1,0,9,3,0,13,2,2,,,0,2020,misc
+ENG-Premier League,2020/21,Fulham,Ademola Lookman,NGA,"MF,FW",22,1997,30.5,5,0,0,46,59,12,133,22,12,,,0,2020,misc
+ENG-Premier League,2020/21,Fulham,Aleksandar Mitrović,SRB,FW,25,1994,15.6,3,0,0,23,23,3,4,3,5,,,0,2020,misc
+ENG-Premier League,2020/21,Fulham,Alphonse Areola,FRA,GK,27,1993,36.0,2,0,0,0,5,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Fulham,Antonee Robinson,USA,"DF,MF",22,1997,24.0,4,1,0,20,8,1,101,39,23,,,0,2020,misc
+ENG-Premier League,2020/21,Fulham,Bobby De Cordova-Reid,JAM,"MF,FW",27,1993,26.4,7,0,0,37,22,4,39,22,14,,,0,2020,misc
+ENG-Premier League,2020/21,Fulham,Denis Odoi,GHA,DF,32,1988,3.0,1,0,0,7,4,1,5,5,3,,,0,2020,misc
+ENG-Premier League,2020/21,Fulham,Fabio Carvalho,POR,"FW,MF",17,2002,2.8,0,0,0,4,2,0,3,1,3,,,0,2020,misc
+ENG-Premier League,2020/21,Fulham,Frank Anguissa,CMR,MF,24,1995,28.7,6,0,0,44,28,0,13,51,39,,,0,2020,misc
+ENG-Premier League,2020/21,Fulham,Harrison Reed,ENG,MF,25,1995,25.0,5,0,0,40,25,1,27,51,40,,,0,2020,misc
+ENG-Premier League,2020/21,Fulham,Ivan Cavaleiro,POR,"FW,MF",26,1993,27.5,2,0,0,30,28,9,120,21,15,,,0,2020,misc
+ENG-Premier League,2020/21,Fulham,Joachim Andersen,DEN,DF,24,1996,30.3,7,1,0,39,15,1,12,46,20,,,0,2020,misc
+ENG-Premier League,2020/21,Fulham,Joe Bryan,ENG,"MF,DF",26,1993,7.4,2,0,0,10,7,0,49,11,10,,,0,2020,misc
+ENG-Premier League,2020/21,Fulham,Josh Maja,NGA,FW,21,1998,9.0,0,0,0,8,7,2,1,4,5,,,0,2020,misc
+ENG-Premier League,2020/21,Fulham,Josh Onomah,ENG,MF,23,1997,4.2,1,0,0,12,0,0,2,2,7,,,0,2020,misc
+ENG-Premier League,2020/21,Fulham,Kenny Tete,NED,"DF,MF",24,1995,16.5,3,0,0,29,18,2,72,30,31,,,0,2020,misc
+ENG-Premier League,2020/21,Fulham,Marek Rodák,SVK,GK,23,1996,2.0,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Fulham,Mario Lemina,GAB,MF,26,1993,18.9,5,0,0,32,15,0,5,31,36,,,0,2020,misc
+ENG-Premier League,2020/21,Fulham,Maxime Le Marchand,FRA,DF,30,1989,1.4,2,0,0,3,1,0,0,0,2,,,0,2020,misc
+ENG-Premier League,2020/21,Fulham,Michael Hector,JAM,DF,28,1992,2.9,2,0,0,5,3,0,0,0,2,,,0,2020,misc
+ENG-Premier League,2020/21,Fulham,Neeskens Kebano,COD,MF,28,1992,1.3,0,0,0,3,1,1,7,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Fulham,Ola Aina,NGA,DF,23,1996,29.6,3,0,0,31,26,2,52,46,21,,,0,2020,misc
+ENG-Premier League,2020/21,Fulham,Ruben Loftus-Cheek,ENG,"MF,FW",24,1996,21.2,3,0,0,29,51,3,9,6,15,,,0,2020,misc
+ENG-Premier League,2020/21,Fulham,Terence Kongolo,NED,DF,26,1994,1.0,0,0,0,1,1,0,1,2,2,,,0,2020,misc
+ENG-Premier League,2020/21,Fulham,Tim Ream,USA,DF,32,1987,7.0,0,0,0,3,0,0,0,6,6,,,0,2020,misc
+ENG-Premier League,2020/21,Fulham,Tom Cairney,SCO,MF,29,1991,8.4,2,0,0,4,18,1,37,0,3,,,0,2020,misc
+ENG-Premier League,2020/21,Fulham,Tosin Adarabioyo,ENG,DF,22,1997,32.8,1,0,0,16,6,2,2,40,17,,,1,2020,misc
+ENG-Premier League,2020/21,Fulham,Tyrese Francois,AUS,MF,20,2000,0.2,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Leeds United,Diego Llorente,ESP,DF,26,1993,13.4,1,0,0,15,9,0,2,25,21,,,0,2020,misc
+ENG-Premier League,2020/21,Leeds United,Ezgjan Alioski,MKD,"DF,MF",28,1992,27.3,7,0,0,39,42,6,63,21,34,,,0,2020,misc
+ENG-Premier League,2020/21,Leeds United,Gaetano Berardi,SUI,DF,31,1988,1.3,0,0,0,1,0,0,1,1,2,,,0,2020,misc
+ENG-Premier League,2020/21,Leeds United,Hélder Costa,ANG,MF,26,1994,12.8,0,0,0,20,18,3,21,4,12,,,1,2020,misc
+ENG-Premier League,2020/21,Leeds United,Ian Poveda,ENG,"FW,MF",20,2000,3.9,0,0,0,5,6,2,9,1,5,,,0,2020,misc
+ENG-Premier League,2020/21,Leeds United,Illan Meslier,FRA,GK,20,2000,35.0,0,0,0,1,8,0,0,0,1,,,1,2020,misc
+ENG-Premier League,2020/21,Leeds United,Jack Harrison,ENG,MF,23,1996,31.6,2,0,0,28,23,12,169,21,35,,,0,2020,misc
+ENG-Premier League,2020/21,Leeds United,Jamie Shackleton,ENG,"MF,DF",20,1999,5.1,0,0,0,3,2,1,2,9,6,,,0,2020,misc
+ENG-Premier League,2020/21,Leeds United,Kalvin Phillips,ENG,MF,24,1995,27.0,10,0,0,47,32,0,76,45,38,,,0,2020,misc
+ENG-Premier League,2020/21,Leeds United,Kiko Casilla,ESP,GK,33,1986,3.0,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Leeds United,Leif Davis,ENG,"DF,MF",20,1999,0.4,0,0,0,1,0,0,0,1,0,,,0,2020,misc
+ENG-Premier League,2020/21,Leeds United,Liam Cooper,SCO,DF,28,1991,24.3,4,1,0,23,28,1,0,60,47,,,0,2020,misc
+ENG-Premier League,2020/21,Leeds United,Luke Ayling,ENG,DF,28,1991,37.8,7,0,0,29,53,2,84,41,62,,,0,2020,misc
+ENG-Premier League,2020/21,Leeds United,Mateusz Klich,POL,MF,30,1990,26.6,6,0,0,45,19,5,62,13,20,,,0,2020,misc
+ENG-Premier League,2020/21,Leeds United,Niall Huggins,WAL,DF,19,2000,0.4,0,0,0,0,0,0,1,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Leeds United,Pablo Hernández,ESP,MF,35,1985,4.7,1,0,0,1,6,0,13,0,3,,,0,2020,misc
+ENG-Premier League,2020/21,Leeds United,Pascal Struijk,NED,"DF,MF",20,1999,23.1,3,0,0,26,7,0,1,46,33,,,0,2020,misc
+ENG-Premier League,2020/21,Leeds United,Patrick Bamford,ENG,FW,26,1993,33.9,3,0,0,36,23,18,3,10,9,,,0,2020,misc
+ENG-Premier League,2020/21,Leeds United,Raphinha,BRA,MF,23,1996,26.2,3,0,0,13,31,15,165,29,18,,,0,2020,misc
+ENG-Premier League,2020/21,Leeds United,Robin Koch,GER,"DF,MF",24,1996,12.6,1,0,0,17,8,0,1,26,16,,,0,2020,misc
+ENG-Premier League,2020/21,Leeds United,Rodrigo,ESP,MF,29,1991,14.3,3,0,0,20,9,3,22,5,9,,,0,2020,misc
+ENG-Premier League,2020/21,Leeds United,Stuart Dallas,NIR,"MF,DF",29,1991,37.9,7,0,0,41,51,0,80,46,47,,,0,2020,misc
+ENG-Premier League,2020/21,Leeds United,Tyler Roberts,WAL,MF,21,1999,14.9,3,0,0,23,33,9,12,11,13,,,0,2020,misc
+ENG-Premier League,2020/21,Leicester City,Ayoze Pérez,ESP,"MF,FW",27,1993,14.8,2,0,0,31,23,7,21,10,15,,,0,2020,misc
+ENG-Premier League,2020/21,Leicester City,Cengiz Ünder,TUR,MF,23,1997,3.1,0,0,0,1,3,2,16,2,1,,,0,2020,misc
+ENG-Premier League,2020/21,Leicester City,Christian Fuchs,AUT,DF,34,1986,7.8,4,0,0,14,5,0,10,14,8,,,0,2020,misc
+ENG-Premier League,2020/21,Leicester City,Daniel Amartey,GHA,DF,25,1994,8.0,3,0,0,3,1,0,1,12,6,,,0,2020,misc
+ENG-Premier League,2020/21,Leicester City,Demarai Gray,JAM,"FW,MF",24,1996,0.2,0,0,0,0,0,0,2,0,1,,,0,2020,misc
+ENG-Premier League,2020/21,Leicester City,Dennis Praet,BEL,MF,26,1994,8.0,0,0,0,12,2,0,19,8,8,,,0,2020,misc
+ENG-Premier League,2020/21,Leicester City,Hamza Choudhury,BAN,MF,22,1997,3.5,1,0,0,6,2,0,1,6,7,,,0,2020,misc
+ENG-Premier League,2020/21,Leicester City,Harvey Barnes,ENG,MF,22,1997,21.6,0,0,0,16,33,1,27,11,10,,,0,2020,misc
+ENG-Premier League,2020/21,Leicester City,Islam Slimani,ALG,FW,32,1988,0.2,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Leicester City,James Justin,ENG,"DF,MF",22,1998,23.0,4,0,0,16,39,3,60,29,37,,,0,2020,misc
+ENG-Premier League,2020/21,Leicester City,James Maddison,ENG,MF,23,1996,23.3,4,0,0,19,57,5,106,10,16,,,0,2020,misc
+ENG-Premier League,2020/21,Leicester City,Jamie Vardy,ENG,FW,33,1987,31.6,1,0,0,26,25,36,20,4,12,,,0,2020,misc
+ENG-Premier League,2020/21,Leicester City,Jonny Evans,NIR,DF,32,1988,27.5,7,0,0,18,12,1,0,45,12,,,1,2020,misc
+ENG-Premier League,2020/21,Leicester City,Kasper Schmeichel,DEN,GK,33,1986,38.0,0,0,0,0,4,0,0,0,0,,,1,2020,misc
+ENG-Premier League,2020/21,Leicester City,Kelechi Iheanacho,NGA,FW,23,1996,16.2,1,0,0,26,13,9,13,1,5,,,0,2020,misc
+ENG-Premier League,2020/21,Leicester City,Khanya Leshabela,RSA,MF,20,1999,0.1,0,0,0,0,0,0,1,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Leicester City,Luke Thomas,ENG,"MF,DF",19,2001,10.8,2,0,0,10,16,0,17,14,15,,,0,2020,misc
+ENG-Premier League,2020/21,Leicester City,Marc Albrighton,ENG,MF,30,1989,19.4,2,0,0,9,20,4,120,16,19,,,0,2020,misc
+ENG-Premier League,2020/21,Leicester City,Nampalys Mendy,SEN,MF,28,1992,16.2,5,0,0,21,29,0,1,13,18,,,0,2020,misc
+ENG-Premier League,2020/21,Leicester City,Ricardo Pereira,POR,"MF,DF",26,1993,10.7,3,0,0,18,8,1,15,14,22,,,0,2020,misc
+ENG-Premier League,2020/21,Leicester City,Sidnei Tavares,,MF,18,2001,0.9,0,0,0,1,3,0,0,0,1,,,0,2020,misc
+ENG-Premier League,2020/21,Leicester City,Timothy Castagne,BEL,"DF,MF",24,1995,26.1,1,0,0,20,13,2,46,30,31,,,0,2020,misc
+ENG-Premier League,2020/21,Leicester City,Wes Morgan,JAM,DF,36,1984,0.2,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Leicester City,Wesley Fofana,FRA,DF,19,2000,25.1,7,0,0,37,29,2,2,61,37,,,0,2020,misc
+ENG-Premier League,2020/21,Leicester City,Wilfred Ndidi,NGA,"MF,DF",23,1996,24.2,6,0,0,53,16,0,5,60,62,,,0,2020,misc
+ENG-Premier League,2020/21,Leicester City,Youri Tielemans,BEL,MF,23,1997,37.3,6,0,0,37,55,0,137,49,44,,,0,2020,misc
+ENG-Premier League,2020/21,Leicester City,Çağlar Söyüncü,TUR,DF,24,1996,20.2,2,0,0,18,15,0,10,24,17,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,Adrián,ESP,GK,33,1987,3.0,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,Alex Oxlade-Chamberlain,ENG,"MF,FW",26,1993,2.8,0,0,0,3,1,0,8,2,0,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,Alisson,BRA,GK,27,1992,33.0,1,0,0,1,5,0,0,2,2,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,Andy Robertson,SCO,DF,26,1994,37.6,2,0,0,23,10,8,291,20,32,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,Caoimhín Kelleher,IRL,GK,21,1998,2.0,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,Curtis Jones,ENG,MF,19,2001,13.1,2,0,0,18,13,1,7,18,7,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,Diogo Jota,POR,"FW,MF",23,1996,12.4,2,0,0,25,20,1,16,5,7,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,Divock Origi,BEL,FW,25,1995,2.1,0,0,0,0,1,0,3,2,3,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,Fabinho,BRA,"DF,MF",26,1993,28.5,6,0,0,29,27,0,2,41,35,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,Georginio Wijnaldum,NED,MF,29,1990,32.7,1,0,0,17,25,0,7,25,8,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,James Milner,ENG,MF,34,1986,11.9,3,0,0,19,11,0,34,13,19,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,Joe Gomez,ENG,DF,23,1997,6.6,0,0,0,6,6,0,0,4,2,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,Jordan Henderson,ENG,"MF,DF",30,1990,18.9,0,0,0,8,12,0,29,35,15,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,Joël Matip,CMR,DF,28,1991,7.7,2,0,0,10,4,0,0,7,7,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,Kostas Tsimikas,GRE,DF,24,1996,0.1,0,0,0,1,0,0,2,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,Mohamed Salah,EGY,FW,28,1992,34.2,0,0,0,22,22,13,28,1,8,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,Naby Keïta,GUI,MF,25,1995,5.8,1,0,0,13,2,0,3,9,4,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,Nathaniel Phillips,ENG,DF,23,1997,16.2,2,0,0,20,9,0,1,19,15,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,Neco Williams,WAL,DF,19,2001,2.8,1,0,0,3,6,0,24,6,5,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,Ozan Kabak,TUR,DF,20,2000,8.9,3,0,0,12,3,0,0,14,11,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,Rhys Williams,ENG,DF,19,2001,7.3,0,0,0,4,2,0,0,5,5,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,Roberto Firmino,BRA,FW,28,1991,31.5,2,0,0,22,17,4,14,12,17,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,Sadio Mané,SEN,FW,28,1992,31.2,3,0,0,54,78,31,60,13,29,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,Takumi Minamino,JPN,"MF,FW",25,1995,3.3,0,0,0,4,2,1,3,2,2,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,Thiago Alcántara,ESP,MF,29,1991,20.6,4,0,0,49,25,0,7,29,38,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,Trent Alexander-Arnold,ENG,DF,21,1998,33.7,2,0,0,21,9,5,301,46,34,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,Virgil van Dijk,NED,DF,29,1991,4.1,1,0,0,4,2,1,0,6,3,,,0,2020,misc
+ENG-Premier League,2020/21,Liverpool,Xherdan Shaqiri,SUI,"MF,FW",28,1991,6.2,2,0,0,11,6,0,22,2,4,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester City,Aymeric Laporte,ESP,DF,26,1994,14.9,1,0,0,9,10,2,1,11,7,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester City,Benjamin Mendy,FRA,"DF,MF",26,1994,10.6,2,0,0,14,0,1,31,4,9,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester City,Bernardo Silva,POR,"MF,FW",25,1994,22.9,5,0,0,17,18,3,32,16,15,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester City,Ederson Moraes,BRA,GK,26,1993,36.0,3,0,0,1,4,0,0,0,1,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester City,Eric García,ESP,DF,19,2001,4.3,0,0,0,4,2,0,0,4,6,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester City,Fernandinho,BRA,MF,35,1985,13.2,6,0,0,22,10,0,6,23,16,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester City,Ferran Torres,ESP,"FW,MF",20,2000,14.5,1,0,0,16,17,5,33,4,5,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester City,Gabriel Jesus,BRA,FW,23,1997,22.9,2,0,0,29,46,17,10,14,5,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester City,John Stones,ENG,DF,26,1994,21.5,0,1,0,7,10,1,1,17,12,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester City,João Cancelo,POR,"DF,MF",26,1994,25.5,5,1,0,36,19,2,74,43,38,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester City,Kevin De Bruyne,BEL,MF,29,1991,22.2,1,0,0,27,32,1,145,10,25,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester City,Kyle Walker,ENG,DF,30,1990,21.6,1,0,0,26,11,1,38,15,19,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester City,Liam Delap,ENG,FW,17,2003,0.4,0,0,0,1,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester City,Nathan Aké,NED,DF,25,1995,8.9,4,0,0,8,5,0,1,8,5,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester City,Oleksandr Zinchenko,UKR,DF,23,1996,16.4,0,0,0,9,4,1,41,27,15,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester City,Phil Foden,ENG,"FW,MF",20,2000,18.0,0,0,0,13,34,3,74,11,11,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester City,Raheem Sterling,ENG,"FW,MF",25,1994,28.2,4,0,0,36,41,9,20,14,12,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester City,Riyad Mahrez,ALG,"FW,MF",29,1991,21.7,0,0,0,13,30,7,81,7,4,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester City,Rodri,ESP,MF,24,1996,30.5,6,0,0,44,30,3,14,34,39,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester City,Rúben Dias,POR,DF,23,1997,31.6,4,0,0,21,20,1,2,36,13,,,1,2020,misc
+ENG-Premier League,2020/21,Manchester City,Scott Carson,ENG,GK,34,1985,1.0,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester City,Sergio Agüero,ARG,"FW,MF",32,1988,6.2,0,0,0,2,7,1,1,2,1,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester City,Zack Steffen,USA,GK,25,1995,1.0,0,0,0,1,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester City,İlkay Gündoğan,GER,MF,29,1990,22.5,1,0,0,9,26,1,30,19,15,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Aaron Wan-Bissaka,COD,DF,22,1997,34.0,3,0,0,31,14,1,62,61,52,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Alex Telles,BRA,DF,27,1992,7.7,0,0,0,4,4,1,56,16,8,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Amad Diallo,CIV,MF,18,2002,1.8,0,0,0,2,4,0,0,0,3,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Anthony Elanga,SWE,"MF,FW",18,2002,1.7,0,0,0,2,4,1,2,1,2,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Anthony Martial,FRA,"FW,MF",24,1995,16.4,0,1,0,15,27,15,9,2,2,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Axel Tuanzebe,COD,DF,22,1997,4.5,2,0,0,6,3,0,0,3,8,,,1,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Brandon Williams,ENG,DF,19,2000,2.1,0,0,0,2,3,0,1,1,0,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Bruno Fernandes,POR,MF,25,1994,34.4,6,0,0,43,53,3,168,27,31,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Daniel James,WAL,MF,22,1997,10.1,3,0,0,14,14,4,19,1,8,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,David de Gea,ESP,GK,29,1990,25.5,0,0,0,0,3,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Dean Henderson,ENG,GK,23,1997,12.5,3,0,0,0,0,0,0,0,1,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Donny van de Beek,NED,MF,23,1997,5.8,1,0,0,5,6,0,0,5,10,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Edinson Cavani,URU,FW,33,1987,15.3,4,0,0,21,13,6,5,6,8,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Eric Bailly,CIV,DF,26,1994,10.2,3,0,0,11,4,0,0,13,5,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Fred,BRA,MF,27,1993,26.6,5,0,0,46,30,1,9,46,42,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Hannibal Mejbri,TUN,MF,17,2003,0.1,0,0,0,0,1,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Harry Maguire,ENG,DF,27,1993,33.9,11,0,0,40,30,1,3,59,17,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Juan Mata,ESP,MF,32,1988,5.7,0,0,0,1,4,2,11,3,0,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Luke Shaw,ENG,DF,25,1995,29.5,8,0,0,42,29,3,190,21,28,,,1,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Marcus Rashford,ENG,"MF,FW",22,1997,32.4,4,0,0,25,42,27,37,8,9,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Mason Greenwood,ENG,"MF,FW",18,2001,20.2,2,0,0,17,20,4,31,4,10,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Nemanja Matić,SRB,MF,31,1988,12.3,2,0,0,14,7,0,4,22,13,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Odion Ighalo,NGA,FW,31,1989,0.1,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Paul Pogba,FRA,MF,27,1993,21.1,3,0,0,41,37,4,22,26,24,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Scott McTominay,SCO,MF,23,1996,23.7,3,0,0,47,41,1,13,31,27,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Shola Shoretire,ENG,"FW,MF",16,2004,0.1,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Timothy Fosu-Mensah,NED,DF,22,1998,0.9,1,0,0,1,0,1,5,3,0,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Victor Lindelöf,SWE,DF,26,1994,28.7,0,0,0,24,8,1,2,33,11,,,0,2020,misc
+ENG-Premier League,2020/21,Manchester Utd,Will Fish,ENG,DF,17,2003,0.0,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Newcastle,Allan Saint-Maximin,FRA,"FW,MF",23,1997,17.3,0,0,0,11,45,5,21,4,9,,,0,2020,misc
+ENG-Premier League,2020/21,Newcastle,Andy Carroll,ENG,FW,31,1989,4.4,1,0,0,12,10,4,0,0,1,,,0,2020,misc
+ENG-Premier League,2020/21,Newcastle,Callum Wilson,ENG,FW,28,1992,23.2,2,0,0,40,41,23,13,6,8,,,0,2020,misc
+ENG-Premier League,2020/21,Newcastle,Ciaran Clark,IRL,DF,30,1989,21.0,3,0,0,16,11,1,0,30,14,,,1,2020,misc
+ENG-Premier League,2020/21,Newcastle,DeAndre Yedlin,USA,DF,27,1993,4.8,0,0,0,4,4,1,13,7,6,,,0,2020,misc
+ENG-Premier League,2020/21,Newcastle,Dwight Gayle,ENG,FW,29,1990,5.7,0,0,0,6,6,3,5,1,1,,,0,2020,misc
+ENG-Premier League,2020/21,Newcastle,Elliot Anderson,ENG,MF,17,2002,0.0,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Newcastle,Emil Krafth,SWE,DF,25,1994,14.3,4,0,0,12,9,1,19,18,10,,,0,2020,misc
+ENG-Premier League,2020/21,Newcastle,Fabian Schär,SUI,DF,28,1991,13.8,4,1,0,22,15,1,6,28,5,,,0,2020,misc
+ENG-Premier League,2020/21,Newcastle,Federico Fernández,ARG,DF,31,1989,23.1,4,0,0,15,14,0,12,17,22,,,1,2020,misc
+ENG-Premier League,2020/21,Newcastle,Isaac Hayden,JAM,"MF,DF",25,1995,21.6,8,0,0,38,16,1,18,41,27,,,0,2020,misc
+ENG-Premier League,2020/21,Newcastle,Jacob Murphy,ENG,"DF,MF",25,1995,18.1,3,0,0,23,23,2,59,15,22,,,0,2020,misc
+ENG-Premier League,2020/21,Newcastle,Jamaal Lascelles,ENG,DF,26,1993,18.1,4,0,0,17,9,0,3,14,9,,,0,2020,misc
+ENG-Premier League,2020/21,Newcastle,Jamal Lewis,NIR,DF,22,1998,20.4,4,0,0,18,18,1,45,14,22,,,0,2020,misc
+ENG-Premier League,2020/21,Newcastle,Javier Manquillo,ESP,DF,26,1994,9.2,1,0,0,7,8,0,30,8,16,,,0,2020,misc
+ENG-Premier League,2020/21,Newcastle,Jeff Hendrick,IRL,MF,28,1992,15.8,3,1,1,15,12,3,6,21,7,,,0,2020,misc
+ENG-Premier League,2020/21,Newcastle,Joe Willock,ENG,MF,20,1999,10.9,0,0,0,9,16,0,13,18,12,,,0,2020,misc
+ENG-Premier League,2020/21,Newcastle,Joelinton,BRA,"FW,MF",23,1996,22.0,3,0,0,23,36,6,13,10,19,,,0,2020,misc
+ENG-Premier League,2020/21,Newcastle,Jonjo Shelvey,ENG,MF,28,1992,29.1,7,0,0,31,10,0,93,39,17,,,0,2020,misc
+ENG-Premier League,2020/21,Newcastle,Karl Darlow,WAL,GK,29,1990,25.0,3,0,0,0,3,0,0,0,1,,,0,2020,misc
+ENG-Premier League,2020/21,Newcastle,Martin Dúbravka,SVK,GK,31,1989,13.0,0,0,0,0,5,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Newcastle,Matt Ritchie,SCO,"DF,MF",30,1989,15.0,2,0,0,12,19,1,106,11,4,,,1,2020,misc
+ENG-Premier League,2020/21,Newcastle,Matthew Longstaff,ENG,MF,20,2000,4.2,0,0,0,3,5,0,4,7,3,,,0,2020,misc
+ENG-Premier League,2020/21,Newcastle,Miguel Almirón,PAR,"MF,FW",26,1994,27.0,3,0,0,18,39,6,39,26,27,,,0,2020,misc
+ENG-Premier League,2020/21,Newcastle,Paul Dummett,WAL,DF,28,1991,13.9,2,0,0,9,4,0,9,15,8,,,0,2020,misc
+ENG-Premier League,2020/21,Newcastle,Ryan Fraser,SCO,"FW,MF",26,1994,10.3,2,1,1,5,20,0,103,7,2,,,0,2020,misc
+ENG-Premier League,2020/21,Newcastle,Sean Longstaff,ENG,MF,22,1997,15.7,2,0,0,23,21,0,25,18,15,,,0,2020,misc
+ENG-Premier League,2020/21,Sheffield United,Aaron Ramsdale,ENG,GK,22,1998,38.0,1,0,0,1,5,0,0,2,1,,,0,2020,misc
+ENG-Premier League,2020/21,Sheffield United,Antwoine Hackford,ENG,FW,16,2004,0.1,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Sheffield United,Ben Osborn,ENG,"MF,FW",25,1994,17.8,1,0,0,10,15,4,68,12,18,,,0,2020,misc
+ENG-Premier League,2020/21,Sheffield United,Billy Sharp,ENG,FW,34,1986,8.2,1,0,0,15,14,11,9,0,1,,,0,2020,misc
+ENG-Premier League,2020/21,Sheffield United,Chris Basham,ENG,DF,32,1988,28.6,5,0,0,25,28,6,24,47,38,,,0,2020,misc
+ENG-Premier League,2020/21,Sheffield United,Daniel Jebbison,CAN,FW,16,2003,3.2,0,0,0,6,4,1,1,2,2,,,0,2020,misc
+ENG-Premier League,2020/21,Sheffield United,David McGoldrick,IRL,FW,32,1987,26.6,7,0,0,44,32,17,22,2,24,,,0,2020,misc
+ENG-Premier League,2020/21,Sheffield United,Enda Stevens,IRL,"MF,DF",30,1990,30.0,6,0,0,33,10,3,63,22,26,,,0,2020,misc
+ENG-Premier League,2020/21,Sheffield United,Ethan Ampadu,WAL,"DF,MF",19,2000,23.2,3,0,0,25,25,1,21,49,36,,,1,2020,misc
+ENG-Premier League,2020/21,Sheffield United,Femi Seriki,ENG,DF,18,2002,0.0,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Sheffield United,George Baldock,GRE,"MF,DF",27,1993,31.0,7,0,0,46,22,10,61,27,35,,,0,2020,misc
+ENG-Premier League,2020/21,Sheffield United,Iliman Ndiaye,SEN,"FW,MF",20,2000,0.1,0,0,0,0,0,0,0,0,1,,,0,2020,misc
+ENG-Premier League,2020/21,Sheffield United,Jack O'Connell,ENG,DF,26,1994,2.0,0,0,0,0,0,1,1,2,0,,,0,2020,misc
+ENG-Premier League,2020/21,Sheffield United,Jack Robinson,ENG,DF,26,1993,9.7,3,0,0,10,6,0,6,8,6,,,0,2020,misc
+ENG-Premier League,2020/21,Sheffield United,Jayden Bogle,ENG,MF,20,2000,12.3,2,0,0,15,9,1,12,13,23,,,0,2020,misc
+ENG-Premier League,2020/21,Sheffield United,John Egan,IRL,DF,27,1992,29.2,7,1,0,29,11,0,4,37,23,,,0,2020,misc
+ENG-Premier League,2020/21,Sheffield United,John Fleck,SCO,MF,28,1991,28.6,4,0,0,33,28,1,97,27,33,,,0,2020,misc
+ENG-Premier League,2020/21,Sheffield United,John Lundstram,ENG,MF,26,1994,22.6,8,1,0,24,20,1,71,15,15,,,0,2020,misc
+ENG-Premier League,2020/21,Sheffield United,Kean Bryan,ENG,DF,23,1996,11.2,1,0,0,13,2,0,17,12,9,,,1,2020,misc
+ENG-Premier League,2020/21,Sheffield United,Lys Mousset,FRA,FW,24,1996,3.3,0,0,0,7,2,5,1,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Sheffield United,Max Lowe,ENG,"MF,DF",23,1997,6.1,1,0,0,10,3,0,21,5,12,,,0,2020,misc
+ENG-Premier League,2020/21,Sheffield United,Oliver Burke,SCO,FW,23,1997,14.1,2,0,0,23,6,3,10,4,10,,,0,2020,misc
+ENG-Premier League,2020/21,Sheffield United,Oliver McBurnie,SCO,FW,24,1996,14.7,2,0,0,24,26,4,3,6,7,,,0,2020,misc
+ENG-Premier League,2020/21,Sheffield United,Oliver Norwood,NIR,MF,29,1991,24.7,6,0,0,26,10,0,114,39,25,,,0,2020,misc
+ENG-Premier League,2020/21,Sheffield United,Phil Jagielka,ENG,DF,37,1982,5.8,1,1,0,8,1,0,1,10,4,,,1,2020,misc
+ENG-Premier League,2020/21,Sheffield United,Rhian Brewster,ENG,FW,20,2000,12.5,1,0,0,18,13,4,16,6,5,,,0,2020,misc
+ENG-Premier League,2020/21,Sheffield United,Sander Berge,NOR,MF,22,1998,12.4,4,0,0,14,4,2,24,4,7,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,Alex McCarthy,ENG,GK,30,1989,30.0,2,0,0,0,2,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,Alexandre Jankewitz,SUI,MF,18,2001,0.0,0,1,0,1,1,0,0,0,1,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,Allan Tchaptchet,FRA,DF,18,2001,0.1,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,Caleb Watts,AUS,MF,18,2002,0.4,1,0,0,0,1,0,1,0,1,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,Ché Adams,SCO,FW,24,1996,29.6,1,0,0,29,55,19,6,4,17,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,Dan Nlundulu,ENG,FW,21,1999,1.2,0,0,0,6,0,1,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,Danny Ings,ENG,FW,28,1992,24.1,1,0,0,19,18,20,20,3,13,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,Fraser Forster,ENG,GK,32,1988,8.0,0,0,0,1,3,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,Ibrahima Diallo,FRA,MF,21,1999,11.3,3,0,0,22,11,0,8,11,15,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,Jack Stephens,ENG,DF,26,1994,17.1,2,0,0,8,9,0,2,27,21,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,Jake Vokins,ENG,DF,20,2000,0.7,0,0,0,2,0,1,3,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,James Ward-Prowse,ENG,MF,25,1994,38.0,5,0,0,45,27,0,251,45,47,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,Jan Bednarek,POL,DF,24,1996,34.4,5,1,0,30,13,0,0,89,21,,,1,2020,misc
+ENG-Premier League,2020/21,Southampton,Jannik Vestergaard,DEN,DF,27,1992,28.6,3,1,0,19,11,0,5,42,31,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,Kayne Ramsey,ENG,DF,19,2000,1.0,1,0,0,1,0,0,0,0,2,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,Kyle Walker-Peters,ENG,DF,23,1997,29.4,4,0,0,33,42,7,33,37,54,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,Michael Obafemi,IRL,FW,20,2000,0.7,0,0,0,1,3,0,1,0,1,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,Mohammed Salisu,GHA,DF,21,1999,9.4,1,0,0,10,4,0,1,17,20,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,Moussa Djenepo,MLI,MF,22,1998,13.8,5,0,0,29,39,3,9,12,27,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,Nathan Redmond,ENG,"MF,FW",26,1994,19.3,1,0,0,30,15,4,29,12,18,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,Nathan Tella,NGA,"FW,MF",21,1999,8.3,2,0,0,16,24,5,7,3,5,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,Oriol Romeu,ESP,MF,28,1991,19.6,6,0,0,30,23,0,9,29,34,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,Ryan Bertrand,ENG,DF,30,1989,28.9,5,0,0,29,35,3,82,36,35,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,Shane Long,IRL,FW,33,1987,2.3,0,0,0,7,6,3,0,3,1,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,Stuart Armstrong,SCO,MF,28,1992,30.7,3,0,0,35,35,4,40,23,42,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,Takumi Minamino,JPN,"MF,FW",25,1995,7.9,1,0,0,7,11,1,9,4,3,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,Theo Walcott,ENG,"MF,FW",31,1989,18.0,0,0,0,12,30,8,26,13,12,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,William Smallbone,IRL,MF,20,2000,1.9,0,0,0,3,2,0,5,2,3,,,0,2020,misc
+ENG-Premier League,2020/21,Southampton,Yan Valery,TUN,DF,21,1999,1.1,0,0,0,1,1,0,4,2,3,,,0,2020,misc
+ENG-Premier League,2020/21,Tottenham,Ben Davies,WAL,DF,27,1993,15.0,1,0,0,19,14,1,33,19,17,,,0,2020,misc
+ENG-Premier League,2020/21,Tottenham,Carlos Vinícius,BRA,FW,25,1995,3.4,2,0,0,11,3,2,2,1,1,,,0,2020,misc
+ENG-Premier League,2020/21,Tottenham,Dane Scarlett,ENG,FW,16,2004,0.0,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Tottenham,Davinson Sánchez,COL,DF,24,1996,16.5,1,0,0,22,9,0,0,13,23,,,1,2020,misc
+ENG-Premier League,2020/21,Tottenham,Dele Alli,ENG,MF,24,1996,6.9,0,0,0,10,12,1,10,6,12,,,0,2020,misc
+ENG-Premier League,2020/21,Tottenham,Eric Dier,ENG,DF,26,1994,28.0,3,0,0,16,13,0,5,24,16,,,0,2020,misc
+ENG-Premier League,2020/21,Tottenham,Gareth Bale,WAL,MF,31,1989,10.2,1,0,0,9,10,5,41,10,10,,,0,2020,misc
+ENG-Premier League,2020/21,Tottenham,Giovani Lo Celso,ARG,MF,24,1996,10.5,5,0,0,19,20,0,31,8,22,,,0,2020,misc
+ENG-Premier League,2020/21,Tottenham,Harry Kane,ENG,FW,27,1993,34.2,1,0,0,26,60,12,37,12,11,,,0,2020,misc
+ENG-Premier League,2020/21,Tottenham,Harry Winks,ENG,MF,24,1996,9.6,5,0,0,11,12,0,2,12,11,,,0,2020,misc
+ENG-Premier League,2020/21,Tottenham,Hugo Lloris,FRA,GK,33,1986,38.0,0,0,0,0,3,0,0,2,0,,,0,2020,misc
+ENG-Premier League,2020/21,Tottenham,Japhet Tanganga,ENG,DF,21,1999,5.4,2,0,0,11,7,0,4,3,3,,,0,2020,misc
+ENG-Premier League,2020/21,Tottenham,Joe Rodon,WAL,DF,22,1997,8.1,0,0,0,2,8,1,0,19,8,,,0,2020,misc
+ENG-Premier League,2020/21,Tottenham,Lucas Moura,BRA,"MF,FW",27,1992,15.7,1,0,0,23,47,3,26,17,18,,,0,2020,misc
+ENG-Premier League,2020/21,Tottenham,Matt Doherty,IRL,"DF,MF",28,1992,13.8,4,1,1,20,12,0,31,21,16,,,0,2020,misc
+ENG-Premier League,2020/21,Tottenham,Moussa Sissoko,FRA,MF,30,1989,17.6,3,0,0,21,9,0,9,24,16,,,0,2020,misc
+ENG-Premier League,2020/21,Tottenham,Pierre Højbjerg,DEN,MF,24,1995,38.0,9,0,0,69,54,0,7,50,53,,,0,2020,misc
+ENG-Premier League,2020/21,Tottenham,Serge Aurier,CIV,"DF,MF",27,1992,17.8,0,0,0,23,15,1,35,17,36,,,0,2020,misc
+ENG-Premier League,2020/21,Tottenham,Sergio Reguilón,ESP,"DF,MF",23,1996,24.9,5,0,0,26,20,1,61,29,23,,,1,2020,misc
+ENG-Premier League,2020/21,Tottenham,Son Heung-min,KOR,"MF,FW",28,1992,34.6,0,0,0,14,54,16,149,17,19,,,0,2020,misc
+ENG-Premier League,2020/21,Tottenham,Steven Bergwijn,NED,"MF,FW",22,1997,13.4,3,0,0,20,16,1,12,3,8,,,0,2020,misc
+ENG-Premier League,2020/21,Tottenham,Tanguy Ndombele,FRA,MF,23,1996,23.2,3,0,0,27,60,0,8,21,21,,,0,2020,misc
+ENG-Premier League,2020/21,Tottenham,Toby Alderweireld,BEL,DF,31,1989,24.9,2,0,0,17,3,0,1,12,21,,,1,2020,misc
+ENG-Premier League,2020/21,Tottenham,Érik Lamela,ARG,"MF,FW",28,1992,8.0,6,1,1,24,10,0,23,5,9,,,0,2020,misc
+ENG-Premier League,2020/21,West Brom,Ahmed Hegazi,EGY,DF,29,1991,1.0,0,0,0,0,1,0,0,1,0,,,0,2020,misc
+ENG-Premier League,2020/21,West Brom,Ainsley Maitland-Niles,ENG,MF,22,1997,13.7,2,0,0,10,14,0,11,17,10,,,0,2020,misc
+ENG-Premier League,2020/21,West Brom,Branislav Ivanović,SRB,DF,36,1984,8.5,2,0,0,11,4,1,1,8,5,,,0,2020,misc
+ENG-Premier League,2020/21,West Brom,Callum Robinson,IRL,"FW,MF",25,1995,17.3,0,0,0,3,19,8,40,6,7,,,0,2020,misc
+ENG-Premier League,2020/21,West Brom,Charlie Austin,ENG,FW,31,1989,1.5,0,0,0,0,2,1,0,3,2,,,0,2020,misc
+ENG-Premier League,2020/21,West Brom,Conor Gallagher,ENG,MF,20,2000,28.1,11,0,0,43,63,0,67,27,38,,,0,2020,misc
+ENG-Premier League,2020/21,West Brom,Conor Townsend,ENG,DF,27,1993,24.8,0,0,0,15,25,2,61,34,28,,,0,2020,misc
+ENG-Premier League,2020/21,West Brom,Dara O'Shea,IRL,DF,21,1999,23.4,3,0,0,13,17,0,10,48,26,,,0,2020,misc
+ENG-Premier League,2020/21,West Brom,Darnell Furlong,ENG,"DF,MF",24,1995,32.6,5,0,0,33,33,3,98,49,28,,,1,2020,misc
+ENG-Premier League,2020/21,West Brom,David Button,ENG,GK,31,1989,1.0,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,West Brom,Filip Krovinović,CRO,MF,24,1995,6.1,0,0,0,6,12,0,11,5,10,,,0,2020,misc
+ENG-Premier League,2020/21,West Brom,Grady Diangana,COD,MF,22,1998,13.7,0,0,0,11,35,4,20,16,21,,,0,2020,misc
+ENG-Premier League,2020/21,West Brom,Hal Robson-Kanu,WAL,FW,31,1989,6.2,2,0,0,15,10,4,1,2,1,,,0,2020,misc
+ENG-Premier League,2020/21,West Brom,Jake Livermore,ENG,MF,30,1989,13.8,2,1,0,30,6,0,5,15,20,,,1,2020,misc
+ENG-Premier League,2020/21,West Brom,Kamil Grosicki,POL,MF,32,1988,1.6,0,0,0,1,0,0,5,2,1,,,0,2020,misc
+ENG-Premier League,2020/21,West Brom,Karlan Grant,ENG,"FW,MF",22,1997,12.5,1,0,0,9,13,7,14,4,2,,,0,2020,misc
+ENG-Premier League,2020/21,West Brom,Kieran Gibbs,ENG,"DF,MF",30,1989,9.0,1,1,0,7,2,0,12,16,12,,,0,2020,misc
+ENG-Premier League,2020/21,West Brom,Kyle Bartley,ENG,DF,29,1991,28.7,4,0,0,29,8,5,0,39,14,,,0,2020,misc
+ENG-Premier League,2020/21,West Brom,Kyle Edwards,ENG,MF,22,1998,1.3,0,0,0,1,1,0,1,1,3,,,0,2020,misc
+ENG-Premier League,2020/21,West Brom,Lee Peltier,ENG,DF,33,1986,2.5,1,0,0,4,0,0,3,1,3,,,0,2020,misc
+ENG-Premier League,2020/21,West Brom,Matheus Pereira,BRA,MF,24,1996,28.6,2,1,0,35,52,14,143,30,15,,,0,2020,misc
+ENG-Premier League,2020/21,West Brom,Matt Phillips,SCO,MF,29,1991,20.3,1,0,0,30,7,8,72,12,8,,,0,2020,misc
+ENG-Premier League,2020/21,West Brom,Mbaye Diagne,SEN,FW,28,1991,13.2,2,0,0,17,23,17,4,1,3,,,0,2020,misc
+ENG-Premier League,2020/21,West Brom,Okay Yokuşlu,TUR,MF,26,1994,14.6,4,0,0,25,28,0,2,32,27,,,0,2020,misc
+ENG-Premier League,2020/21,West Brom,Rekeem Harper,ENG,MF,20,2000,0.4,0,0,0,1,0,0,0,1,1,,,0,2020,misc
+ENG-Premier League,2020/21,West Brom,Robert Snodgrass,SCO,MF,32,1987,5.8,2,0,0,8,13,1,8,2,12,,,0,2020,misc
+ENG-Premier League,2020/21,West Brom,Romaine Sawyers,SKN,MF,28,1991,16.5,2,0,0,18,14,0,4,19,16,,,1,2020,misc
+ENG-Premier League,2020/21,West Brom,Sam Field,ENG,MF,22,1998,0.7,0,0,0,2,1,0,0,2,4,,,0,2020,misc
+ENG-Premier League,2020/21,West Brom,Sam Johnstone,ENG,GK,27,1993,37.0,1,0,0,1,4,0,0,2,1,,,0,2020,misc
+ENG-Premier League,2020/21,West Brom,Semi Ajayi,NGA,DF,26,1993,30.9,3,1,0,28,4,1,8,43,17,,,0,2020,misc
+ENG-Premier League,2020/21,West Ham,Aaron Cresswell,ENG,DF,30,1989,35.2,3,0,0,13,18,0,208,33,15,,,0,2020,misc
+ENG-Premier League,2020/21,West Ham,Andriy Yarmolenko,UKR,MF,30,1989,4.2,3,0,0,8,6,5,17,1,3,,,0,2020,misc
+ENG-Premier League,2020/21,West Ham,Angelo Ogbonna,ITA,DF,32,1988,27.7,5,0,0,28,9,1,3,32,14,,,0,2020,misc
+ENG-Premier League,2020/21,West Ham,Arthur Masuaku,COD,"MF,DF",26,1993,11.2,2,0,0,10,8,1,41,6,13,,,0,2020,misc
+ENG-Premier League,2020/21,West Ham,Ben Johnson,ENG,MF,20,2000,5.8,1,0,0,6,3,0,19,11,5,,,0,2020,misc
+ENG-Premier League,2020/21,West Ham,Craig Dawson,ENG,DF,30,1990,21.4,5,1,1,14,12,2,0,29,8,,,2,2020,misc
+ENG-Premier League,2020/21,West Ham,Darren Randolph,IRL,GK,33,1987,3.0,0,0,0,0,1,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,West Ham,Declan Rice,ENG,MF,21,1999,32.0,2,0,0,22,14,1,31,57,36,,,0,2020,misc
+ENG-Premier League,2020/21,West Ham,Fabián Balbuena,PAR,DF,28,1991,13.3,1,1,0,12,3,0,1,24,12,,,0,2020,misc
+ENG-Premier League,2020/21,West Ham,Felipe Anderson,BRA,"FW,MF",27,1993,0.0,0,0,0,0,0,0,0,0,1,,,0,2020,misc
+ENG-Premier League,2020/21,West Ham,Issa Diop,MAR,DF,23,1997,15.3,3,0,0,8,8,1,0,20,13,,,1,2020,misc
+ENG-Premier League,2020/21,West Ham,Jarrod Bowen,ENG,"MF,FW",23,1996,28.5,0,0,0,15,54,14,122,23,14,,,0,2020,misc
+ENG-Premier League,2020/21,West Ham,Jesse Lingard,ENG,"MF,FW",27,1992,15.8,3,0,0,22,24,6,39,4,6,,,0,2020,misc
+ENG-Premier League,2020/21,West Ham,Manuel Lanzini,ARG,MF,27,1993,6.3,1,0,0,7,10,2,3,8,3,,,0,2020,misc
+ENG-Premier League,2020/21,West Ham,Mark Noble,ENG,MF,33,1987,7.9,1,0,0,9,8,1,8,14,5,,,0,2020,misc
+ENG-Premier League,2020/21,West Ham,Michail Antonio,JAM,FW,30,1990,21.9,3,0,0,28,40,16,31,8,5,,,0,2020,misc
+ENG-Premier League,2020/21,West Ham,Pablo Fornals,ESP,MF,24,1996,28.6,3,0,0,29,17,7,47,35,30,,,0,2020,misc
+ENG-Premier League,2020/21,West Ham,Robert Snodgrass,SCO,"FW,MF",32,1987,0.1,0,0,0,0,1,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,West Ham,Ryan Fredericks,ENG,"DF,MF",27,1992,6.3,2,0,0,11,10,1,22,10,5,,,0,2020,misc
+ENG-Premier League,2020/21,West Ham,Saïd Benrahma,ALG,MF,24,1995,15.5,0,0,0,14,15,2,45,6,13,,,0,2020,misc
+ENG-Premier League,2020/21,West Ham,Sébastien Haller,CIV,FW,26,1994,10.4,0,0,0,24,15,11,2,5,8,,,0,2020,misc
+ENG-Premier League,2020/21,West Ham,Tomáš Souček,CZE,MF,25,1995,38.0,7,1,0,69,43,3,9,58,43,,,1,2020,misc
+ENG-Premier League,2020/21,West Ham,Vladimír Coufal,CZE,"DF,MF",27,1992,33.9,3,0,0,29,34,0,130,41,41,,,0,2020,misc
+ENG-Premier League,2020/21,West Ham,Łukasz Fabiański,POL,GK,35,1985,35.0,2,0,0,1,2,0,0,0,1,,,0,2020,misc
+ENG-Premier League,2020/21,Wolves,Adama Traoré,ESP,"FW,MF",24,1996,29.4,4,0,0,47,86,7,150,7,16,,,0,2020,misc
+ENG-Premier League,2020/21,Wolves,Conor Coady,ENG,DF,27,1993,36.7,5,0,0,22,10,0,0,29,21,,,0,2020,misc
+ENG-Premier League,2020/21,Wolves,Daniel Podence,POR,"MF,FW",24,1995,18.5,3,0,0,15,27,5,34,11,8,,,0,2020,misc
+ENG-Premier League,2020/21,Wolves,Fernando Marçal,BRA,"DF,MF",31,1989,6.9,2,0,0,12,3,0,13,10,8,,,0,2020,misc
+ENG-Premier League,2020/21,Wolves,Fábio Silva,POR,FW,18,2002,15.2,2,0,0,20,21,5,5,3,4,,,0,2020,misc
+ENG-Premier League,2020/21,Wolves,John Ruddy,ENG,GK,33,1986,1.0,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Wolves,Jonny Castro,ESP,MF,26,1994,5.5,0,0,0,7,11,0,9,8,6,,,0,2020,misc
+ENG-Premier League,2020/21,Wolves,João Moutinho,POR,MF,33,1986,28.1,5,1,1,44,24,0,116,43,40,,,0,2020,misc
+ENG-Premier League,2020/21,Wolves,Ki-Jana Hoever,NED,"MF,DF",18,2002,6.4,1,0,0,4,4,1,21,9,7,,,0,2020,misc
+ENG-Premier League,2020/21,Wolves,Leander Dendoncker,BEL,"MF,DF",25,1995,27.8,4,0,0,30,12,4,8,29,27,,,1,2020,misc
+ENG-Premier League,2020/21,Wolves,Max Kilman,ENG,DF,23,1997,14.6,4,0,0,20,4,1,0,20,14,,,0,2020,misc
+ENG-Premier League,2020/21,Wolves,Morgan Gibbs-White,ENG,"MF,FW",20,2000,4.6,1,0,0,5,10,1,12,3,7,,,0,2020,misc
+ENG-Premier League,2020/21,Wolves,Nélson Semedo,POR,"MF,DF",26,1993,33.1,5,0,0,42,34,2,75,41,49,,,1,2020,misc
+ENG-Premier League,2020/21,Wolves,Oskar Buur,DEN,"DF,MF",22,1998,0.2,0,0,0,0,0,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Wolves,Owen Otasowie,USA,MF,19,2001,2.1,1,0,0,3,6,0,0,4,4,,,0,2020,misc
+ENG-Premier League,2020/21,Wolves,Patrick Cutrone,ITA,FW,22,1998,0.3,0,0,0,0,1,0,0,0,0,,,0,2020,misc
+ENG-Premier League,2020/21,Wolves,Pedro Neto,POR,"MF,FW",20,2000,28.3,4,0,0,24,42,4,206,28,10,,,0,2020,misc
+ENG-Premier League,2020/21,Wolves,Rayan Aït-Nouri,ALG,"MF,DF",19,2001,15.6,1,0,0,16,19,1,59,14,17,,,0,2020,misc
+ENG-Premier League,2020/21,Wolves,Raúl Jiménez,MEX,FW,29,1991,9.1,0,0,0,9,17,4,4,8,2,,,1,2020,misc
+ENG-Premier League,2020/21,Wolves,Romain Saïss,MAR,"DF,MF",30,1990,26.7,2,0,0,29,11,1,17,51,24,,,0,2020,misc
+ENG-Premier League,2020/21,Wolves,Rui Patrício,POR,GK,32,1988,37.0,1,0,0,0,1,0,0,1,0,,,0,2020,misc
+ENG-Premier League,2020/21,Wolves,Rúben Neves,POR,MF,23,1997,29.7,8,0,0,45,18,0,27,64,47,,,0,2020,misc
+ENG-Premier League,2020/21,Wolves,Rúben Vinagre,POR,MF,21,1999,1.9,0,0,0,2,0,0,4,2,5,,,0,2020,misc
+ENG-Premier League,2020/21,Wolves,Theo Corbeanu,CAN,"FW,MF",18,2002,0.1,0,0,0,0,0,0,1,1,0,,,0,2020,misc
+ENG-Premier League,2020/21,Wolves,Vitinha,POR,MF,20,2000,5.8,0,0,0,8,5,1,14,3,4,,,0,2020,misc
+ENG-Premier League,2020/21,Wolves,Willian José,BRA,FW,28,1991,12.3,0,0,0,8,10,2,6,1,1,,,0,2020,misc
+ENG-Premier League,2020/21,Wolves,Willy Boly,CIV,DF,29,1991,20.9,2,0,0,15,8,0,1,33,22,,,0,2020,misc

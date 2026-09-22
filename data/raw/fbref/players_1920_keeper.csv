@@ -1,0 +1,38 @@
+league,season,team,player,nation,pos,age,born,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,season_start,stat_type
+ENG-Premier League,2019/20,Arsenal,Bernd Leno,GER,GK,27,1992,30,30,2649,29.4,39,1.33,151,112,74.2,9,13,8,7,23.3,7,6,1,0,14.3,2019,keeper
+ENG-Premier League,2019/20,Arsenal,Emiliano Martínez,ARG,GK,26,1992,9,8,771,8.6,9,1.05,43,34,79.1,5,1,2,3,37.5,1,1,0,0,0.0,2019,keeper
+ENG-Premier League,2019/20,Aston Villa,Jed Steer,ENG,GK,26,1992,1,1,7,0.1,0,0.0,0,0,,0,0,1,0,0.0,0,0,0,0,,2019,keeper
+ENG-Premier League,2019/20,Aston Villa,Pepe Reina,ESP,GK,36,1982,12,12,1080,12.0,20,1.67,52,32,61.5,3,3,6,2,16.7,3,2,1,0,33.3,2019,keeper
+ENG-Premier League,2019/20,Aston Villa,Tom Heaton,ENG,GK,33,1986,20,20,1794,19.9,35,1.76,102,67,65.7,6,3,11,4,20.0,3,3,0,0,0.0,2019,keeper
+ENG-Premier League,2019/20,Aston Villa,Ørjan Nyland,NOR,GK,28,1990,7,5,539,6.0,12,2.0,27,15,55.6,0,2,3,1,20.0,0,0,0,0,,2019,keeper
+ENG-Premier League,2019/20,Bournemouth,Aaron Ramsdale,ENG,GK,21,1998,37,37,3330,37.0,62,1.68,188,126,67.0,9,7,21,5,13.5,6,5,1,0,16.7,2019,keeper
+ENG-Premier League,2019/20,Bournemouth,Mark Travers,IRL,GK,20,1999,1,1,90,1.0,3,3.0,5,2,40.0,0,0,1,0,0.0,0,0,0,0,,2019,keeper
+ENG-Premier League,2019/20,Brighton,Mathew Ryan,AUS,GK,27,1992,38,38,3420,38.0,54,1.42,171,117,68.4,9,14,15,9,23.7,2,2,0,0,0.0,2019,keeper
+ENG-Premier League,2019/20,Burnley,Nick Pope,ENG,GK,27,1992,38,38,3420,38.0,50,1.32,169,119,70.4,15,9,14,15,39.5,5,4,1,0,20.0,2019,keeper
+ENG-Premier League,2019/20,Chelsea,Kepa Arrizabalaga,ESP,GK,24,1994,33,33,2970,33.0,47,1.42,102,55,53.9,18,4,11,8,24.2,2,2,0,0,0.0,2019,keeper
+ENG-Premier League,2019/20,Chelsea,Willy Caballero,ARG,GK,37,1981,5,5,450,5.0,7,1.4,17,10,58.8,2,2,1,1,20.0,0,0,0,0,,2019,keeper
+ENG-Premier League,2019/20,Crystal Palace,Vicente Guaita,ESP,GK,32,1987,35,35,3150,35.0,42,1.2,153,111,72.5,11,9,15,10,28.6,1,0,0,1,,2019,keeper
+ENG-Premier League,2019/20,Crystal Palace,Wayne Hennessey,WAL,GK,32,1987,3,3,270,3.0,8,2.67,24,16,66.7,0,1,2,0,0.0,0,0,0,0,,2019,keeper
+ENG-Premier League,2019/20,Everton,Jordan Pickford,ENG,GK,25,1994,38,38,3420,38.0,56,1.47,150,94,62.7,13,10,15,9,23.7,4,3,0,1,0.0,2019,keeper
+ENG-Premier League,2019/20,Leicester City,Kasper Schmeichel,DEN,GK,32,1986,38,38,3420,38.0,41,1.08,126,94,67.5,18,8,12,13,34.2,10,8,2,0,20.0,2019,keeper
+ENG-Premier League,2019/20,Liverpool,Adrián,ESP,GK,32,1987,11,9,875,9.7,10,1.03,28,18,64.3,9,0,0,2,22.2,0,0,0,0,,2019,keeper
+ENG-Premier League,2019/20,Liverpool,Alisson,BRA,GK,26,1992,29,29,2543,28.3,23,0.81,81,58,71.6,23,3,3,13,44.8,1,1,0,0,0.0,2019,keeper
+ENG-Premier League,2019/20,Manchester City,Claudio Bravo,CHI,GK,36,1983,4,3,347,3.9,7,1.82,15,8,53.3,2,0,1,1,33.3,0,0,0,0,,2019,keeper
+ENG-Premier League,2019/20,Manchester City,Ederson Moraes,BRA,GK,25,1993,35,35,3071,34.1,28,0.82,96,68,70.8,24,3,8,16,45.7,3,3,0,0,0.0,2019,keeper
+ENG-Premier League,2019/20,Manchester Utd,David de Gea,ESP,GK,28,1990,38,38,3420,38.0,36,0.95,131,95,72.5,18,12,8,13,34.2,3,3,0,0,0.0,2019,keeper
+ENG-Premier League,2019/20,Newcastle,Martin Dúbravka,SVK,GK,30,1989,38,38,3420,38.0,58,1.53,197,139,70.6,11,11,16,11,28.9,2,2,0,0,0.0,2019,keeper
+ENG-Premier League,2019/20,Norwich City,Michael McGovern,NIR,GK,35,1984,2,1,159,1.8,6,3.4,12,6,50.0,0,0,1,0,0.0,1,0,1,0,100.0,2019,keeper
+ENG-Premier League,2019/20,Norwich City,Ralf Fährmann,GER,GK,30,1988,1,1,21,0.2,1,4.29,2,1,50.0,0,0,1,0,0.0,1,1,0,0,0.0,2019,keeper
+ENG-Premier League,2019/20,Norwich City,Tim Krul,NED,GK,31,1988,36,36,3240,36.0,68,1.89,192,128,64.6,5,6,25,5,13.9,5,3,2,0,40.0,2019,keeper
+ENG-Premier League,2019/20,Sheffield United,Dean Henderson,ENG,GK,22,1997,36,36,3240,36.0,33,0.92,127,95,74.0,14,11,11,13,36.1,3,1,1,1,50.0,2019,keeper
+ENG-Premier League,2019/20,Sheffield United,Simon Moore,ENG,GK,29,1990,2,2,180,2.0,6,3.0,11,5,45.5,0,1,1,0,0.0,0,0,0,0,,2019,keeper
+ENG-Premier League,2019/20,Southampton,Alex McCarthy,ENG,GK,29,1989,28,28,2520,28.0,35,1.25,113,78,69.0,13,5,10,7,25.0,2,1,1,0,50.0,2019,keeper
+ENG-Premier League,2019/20,Southampton,Angus Gunn,SCO,GK,23,1996,10,10,900,10.0,25,2.5,55,30,54.5,2,2,6,2,20.0,2,2,0,0,0.0,2019,keeper
+ENG-Premier League,2019/20,Tottenham,Hugo Lloris,FRA,GK,32,1986,21,21,1807,20.1,21,1.05,100,79,79.0,11,6,4,6,28.6,3,2,1,0,33.3,2019,keeper
+ENG-Premier League,2019/20,Tottenham,Paulo Gazzaniga,ARG,GK,27,1992,18,17,1613,17.9,26,1.45,84,58,69.0,5,5,7,2,11.8,4,3,1,0,25.0,2019,keeper
+ENG-Premier League,2019/20,Watford,Ben Foster,ENG,GK,36,1983,38,38,3420,38.0,64,1.68,180,116,64.4,8,10,20,9,23.7,9,8,1,0,11.1,2019,keeper
+ENG-Premier League,2019/20,West Ham,Darren Randolph,IRL,GK,32,1987,2,2,180,2.0,5,2.5,11,6,54.5,0,1,1,0,0.0,1,1,0,0,0.0,2019,keeper
+ENG-Premier League,2019/20,West Ham,David Martin,ENG,GK,33,1986,5,4,436,4.8,6,1.24,21,15,71.4,2,0,2,2,50.0,0,0,0,0,,2019,keeper
+ENG-Premier League,2019/20,West Ham,Roberto,ESP,GK,33,1986,8,7,687,7.6,17,2.23,53,36,67.9,0,1,6,0,0.0,1,1,0,0,0.0,2019,keeper
+ENG-Premier League,2019/20,West Ham,Łukasz Fabiański,POL,GK,34,1985,25,25,2117,23.5,34,1.45,105,71,67.6,8,7,10,5,20.0,4,3,1,0,25.0,2019,keeper
+ENG-Premier League,2019/20,Wolves,Rui Patrício,POR,GK,31,1988,38,38,3420,38.0,40,1.05,128,88,68.8,15,14,9,13,34.2,3,1,2,0,66.7,2019,keeper

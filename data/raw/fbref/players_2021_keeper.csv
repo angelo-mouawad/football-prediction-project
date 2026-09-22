@@ -1,0 +1,43 @@
+league,season,team,player,nation,pos,age,born,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,season_start,stat_type
+ENG-Premier League,2020/21,Arsenal,Bernd Leno,GER,GK,28,1992,35,35,3131,34.8,37,1.06,120,84,69.2,17,6,12,11,31.4,2,1,1,0,50.0,2020,keeper
+ENG-Premier League,2020/21,Arsenal,Mathew Ryan,AUS,GK,28,1992,3,3,270,3.0,2,0.67,10,8,80.0,1,1,1,1,33.3,1,1,0,0,0.0,2020,keeper
+ENG-Premier League,2020/21,Arsenal,Rúnar Alex Rúnarsson,ISL,GK,25,1995,1,0,16,0.2,0,0.0,2,2,100.0,0,0,0,0,,0,0,0,0,,2020,keeper
+ENG-Premier League,2020/21,Aston Villa,Emiliano Martínez,ARG,GK,27,1992,38,38,3420,38.0,46,1.21,182,141,74.7,16,7,15,15,39.5,6,5,1,0,16.7,2020,keeper
+ENG-Premier League,2020/21,Brighton,Mathew Ryan,AUS,GK,28,1992,11,11,990,11.0,19,1.73,35,16,45.7,2,4,5,2,18.2,4,4,0,0,0.0,2020,keeper
+ENG-Premier League,2020/21,Brighton,Robert Sánchez,ESP,GK,22,1997,27,27,2430,27.0,27,1.0,93,66,71.0,7,10,10,10,37.0,3,2,0,1,0.0,2020,keeper
+ENG-Premier League,2020/21,Burnley,Bailey Peacock-Farrell,NIR,GK,23,1996,4,4,360,4.0,14,3.5,24,10,41.7,0,0,4,0,0.0,0,0,0,0,,2020,keeper
+ENG-Premier League,2020/21,Burnley,Nick Pope,ENG,GK,28,1992,32,32,2880,32.0,37,1.16,151,114,75.5,10,9,13,11,34.4,3,3,0,0,0.0,2020,keeper
+ENG-Premier League,2020/21,Burnley,Will Norris,ENG,GK,26,1993,2,2,180,2.0,4,2.0,6,2,33.3,0,0,2,0,0.0,0,0,0,0,,2020,keeper
+ENG-Premier League,2020/21,Chelsea,Kepa Arrizabalaga,ESP,GK,25,1994,7,6,585,6.5,8,1.23,24,16,66.7,2,2,2,2,33.3,1,1,0,0,0.0,2020,keeper
+ENG-Premier League,2020/21,Chelsea,Willy Caballero,ARG,GK,38,1981,1,1,90,1.0,3,3.0,3,0,0.0,0,1,0,0,0.0,0,0,0,0,,2020,keeper
+ENG-Premier League,2020/21,Chelsea,Édouard Mendy,SEN,GK,28,1992,31,31,2745,30.5,25,0.82,81,56,69.1,17,7,7,16,51.6,3,2,1,0,33.3,2020,keeper
+ENG-Premier League,2020/21,Crystal Palace,Jack Butland,ENG,GK,27,1993,1,1,90,1.0,2,2.0,5,3,60.0,1,0,0,0,0.0,0,0,0,0,,2020,keeper
+ENG-Premier League,2020/21,Crystal Palace,Vicente Guaita,ESP,GK,33,1987,37,37,3330,37.0,64,1.73,170,106,62.4,11,8,18,8,21.6,4,3,1,0,25.0,2020,keeper
+ENG-Premier League,2020/21,Everton,Jordan Pickford,ENG,GK,26,1994,31,31,2742,30.5,39,1.28,128,89,69.5,15,5,11,10,32.3,3,2,0,1,0.0,2020,keeper
+ENG-Premier League,2020/21,Everton,João Virgínia,POR,GK,20,1999,1,0,48,0.5,0,0.0,3,3,100.0,0,0,0,0,,0,0,0,0,,2020,keeper
+ENG-Premier League,2020/21,Everton,Robin Olsen,SWE,GK,30,1990,7,7,630,7.0,9,1.29,30,21,70.0,2,3,2,2,28.6,1,1,0,0,0.0,2020,keeper
+ENG-Premier League,2020/21,Fulham,Alphonse Areola,FRA,GK,27,1993,36,36,3240,36.0,48,1.33,158,115,69.6,5,13,18,9,25.0,6,6,0,0,0.0,2020,keeper
+ENG-Premier League,2020/21,Fulham,Marek Rodák,SVK,GK,23,1996,2,2,180,2.0,5,2.5,9,4,44.4,0,0,2,0,0.0,1,1,0,0,0.0,2020,keeper
+ENG-Premier League,2020/21,Leeds United,Illan Meslier,FRA,GK,20,2000,35,35,3150,35.0,52,1.49,191,139,72.8,16,5,14,11,31.4,9,8,1,0,11.1,2020,keeper
+ENG-Premier League,2020/21,Leeds United,Kiko Casilla,ESP,GK,33,1986,3,3,270,3.0,2,0.67,10,8,80.0,2,0,1,1,33.3,0,0,0,0,,2020,keeper
+ENG-Premier League,2020/21,Leicester City,Kasper Schmeichel,DEN,GK,33,1986,38,38,3420,38.0,50,1.32,138,88,63.8,20,6,12,11,28.9,4,4,0,0,0.0,2020,keeper
+ENG-Premier League,2020/21,Liverpool,Adrián,ESP,GK,33,1987,3,3,270,3.0,9,3.0,19,9,52.6,1,1,1,1,33.3,0,0,0,0,,2020,keeper
+ENG-Premier League,2020/21,Liverpool,Alisson,BRA,GK,27,1992,33,33,2970,33.0,32,0.97,115,83,72.2,18,8,7,10,30.3,8,4,1,3,20.0,2020,keeper
+ENG-Premier League,2020/21,Liverpool,Caoimhín Kelleher,IRL,GK,21,1998,2,2,180,2.0,1,0.5,7,6,85.7,1,0,1,1,50.0,0,0,0,0,,2020,keeper
+ENG-Premier League,2020/21,Manchester City,Ederson Moraes,BRA,GK,26,1993,36,36,3240,36.0,28,0.78,93,65,69.9,25,5,6,19,52.8,8,7,1,0,12.5,2020,keeper
+ENG-Premier League,2020/21,Manchester City,Scott Carson,ENG,GK,34,1985,1,1,90,1.0,3,3.0,4,1,25.0,1,0,0,0,0.0,2,1,1,0,50.0,2020,keeper
+ENG-Premier League,2020/21,Manchester City,Zack Steffen,USA,GK,25,1995,1,1,90,1.0,1,1.0,2,1,50.0,1,0,0,0,0.0,0,0,0,0,,2020,keeper
+ENG-Premier League,2020/21,Manchester Utd,David de Gea,ESP,GK,29,1990,26,26,2295,25.5,32,1.25,91,59,64.8,12,9,5,9,34.6,4,4,0,0,0.0,2020,keeper
+ENG-Premier League,2020/21,Manchester Utd,Dean Henderson,ENG,GK,23,1997,13,12,1125,12.5,12,0.96,52,40,76.9,9,2,1,4,33.3,0,0,0,0,,2020,keeper
+ENG-Premier League,2020/21,Newcastle,Karl Darlow,WAL,GK,29,1990,25,25,2250,25.0,43,1.72,130,87,66.9,7,4,14,4,16.0,4,3,1,0,25.0,2020,keeper
+ENG-Premier League,2020/21,Newcastle,Martin Dúbravka,SVK,GK,31,1989,13,13,1170,13.0,19,1.46,64,45,70.3,5,5,3,3,23.1,1,1,0,0,0.0,2020,keeper
+ENG-Premier League,2020/21,Sheffield United,Aaron Ramsdale,ENG,GK,22,1998,38,38,3420,38.0,63,1.66,208,145,69.7,7,2,29,5,13.2,4,3,0,1,0.0,2020,keeper
+ENG-Premier League,2020/21,Southampton,Alex McCarthy,ENG,GK,30,1989,30,30,2700,30.0,57,1.9,144,92,60.4,8,7,15,7,23.3,6,6,0,0,0.0,2020,keeper
+ENG-Premier League,2020/21,Southampton,Fraser Forster,ENG,GK,32,1988,8,8,720,8.0,11,1.37,30,19,63.3,4,0,4,2,25.0,3,2,1,0,33.3,2020,keeper
+ENG-Premier League,2020/21,Tottenham,Hugo Lloris,FRA,GK,33,1986,38,38,3420,38.0,45,1.18,159,114,71.7,18,8,12,12,31.6,10,10,0,0,0.0,2020,keeper
+ENG-Premier League,2020/21,West Brom,David Button,ENG,GK,31,1989,1,1,90,1.0,2,2.0,6,4,66.7,1,0,0,0,0.0,0,0,0,0,,2020,keeper
+ENG-Premier League,2020/21,West Brom,Sam Johnstone,ENG,GK,27,1993,37,37,3330,37.0,74,2.0,238,164,68.9,4,11,22,6,16.2,12,7,2,3,22.2,2020,keeper
+ENG-Premier League,2020/21,West Ham,Darren Randolph,IRL,GK,33,1987,3,3,270,3.0,3,1.0,9,6,66.7,2,0,1,1,33.3,0,0,0,0,,2020,keeper
+ENG-Premier League,2020/21,West Ham,Łukasz Fabiański,POL,GK,35,1985,35,35,3150,35.0,44,1.26,140,99,68.6,17,8,10,10,28.6,6,3,2,1,40.0,2020,keeper
+ENG-Premier League,2020/21,Wolves,John Ruddy,ENG,GK,33,1986,2,1,91,1.0,1,0.99,4,3,75.0,0,0,1,0,0.0,0,0,0,0,,2020,keeper
+ENG-Premier League,2020/21,Wolves,Rui Patrício,POR,GK,32,1988,37,37,3329,37.0,51,1.38,150,99,66.0,12,9,16,10,27.0,8,7,1,0,12.5,2020,keeper

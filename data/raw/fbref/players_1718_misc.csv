@@ -1,0 +1,530 @@
+league,season,team,player,nation,pos,age,born,90s,Performance_CrdY,Performance_CrdR,Performance_2CrdY,Performance_Fls,Performance_Fld,Performance_Off,Performance_Crs,Performance_Int,Performance_TklW,Performance_PKwon,Performance_PKcon,Performance_OG,season_start,stat_type
+ENG-Premier League,2017/18,Arsenal,Aaron Ramsey,WAL,MF,26,1990,20.5,0,0,0,28,33,0,17,25,26,2,0,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Ainsley Maitland-Niles,ENG,"DF,MF",19,1997,10.2,1,0,0,10,5,0,20,14,17,0,1,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Alex Iwobi,NGA,"MF,FW",21,1996,20.3,1,0,0,11,12,1,20,7,16,0,0,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Alex Oxlade-Chamberlain,ENG,MF,23,1993,2.7,0,0,0,1,1,1,16,8,3,0,0,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Alexandre Lacazette,FRA,FW,26,1991,24.5,1,0,0,28,28,24,15,8,18,1,0,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Alexis Sánchez,CHI,MF,28,1988,16.7,4,0,0,21,44,16,52,6,10,0,0,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Calum Chambers,ENG,DF,22,1995,9.6,1,0,0,10,5,0,7,19,12,0,1,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Danny Welbeck,ENG,"MF,FW",26,1990,13.3,1,0,0,13,21,4,2,11,13,0,0,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,David Ospina,COL,GK,28,1988,4.2,0,0,0,0,4,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Eddie Nketiah,ENG,FW,18,1999,0.2,0,0,0,1,0,0,0,0,1,0,0,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Francis Coquelin,FRA,DF,26,1991,1.8,0,0,0,1,1,0,0,4,4,0,0,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Granit Xhaka,SUI,MF,24,1992,36.2,10,0,0,57,42,0,102,38,56,0,0,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Henrikh Mkhitaryan,ARM,"MF,FW",28,1989,8.8,0,0,0,14,17,2,33,10,14,1,1,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Héctor Bellerín,ESP,"MF,DF",22,1995,33.9,5,0,0,37,9,4,63,27,45,0,2,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Jack Wilshere,ENG,MF,25,1992,13.3,6,0,0,15,37,1,3,10,11,0,0,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Joe Willock,ENG,MF,17,1999,0.9,0,0,0,0,0,0,0,2,2,0,0,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Konstantinos Mavropanos,GRE,DF,19,1997,2.2,0,1,0,2,3,0,0,7,1,0,0,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Laurent Koscielny,FRA,DF,31,1985,24.7,4,0,0,14,26,2,6,60,23,0,0,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Mesut Özil,GER,"MF,FW",28,1988,24.0,4,0,0,18,22,12,98,11,13,1,0,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Mohamed Elneny,EGY,MF,25,1992,9.6,3,1,0,4,6,1,9,11,8,0,0,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Nacho Monreal,ESP,DF,31,1986,24.9,3,0,0,19,17,2,33,60,30,0,1,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Olivier Giroud,FRA,FW,30,1986,4.3,0,0,0,13,2,2,3,1,4,0,0,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Per Mertesacker,GER,DF,32,1984,4.1,0,0,0,2,4,0,0,6,2,0,0,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Petr Čech,CZE,GK,35,1982,33.8,1,0,0,0,4,0,0,0,1,0,0,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Pierre-Emerick Aubameyang,GAB,FW,28,1989,11.7,0,0,0,1,8,10,16,5,4,0,0,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Reiss Nelson,ENG,MF,17,1999,1.6,0,0,0,0,2,0,1,2,3,0,0,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Rob Holding,ENG,DF,21,1995,9.1,3,0,0,9,5,0,0,22,14,0,0,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Sead Kolašinac,BIH,"MF,DF",24,1993,23.9,3,0,0,32,11,1,42,28,38,0,0,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Shkodran Mustafi,GER,DF,25,1992,25.3,6,0,0,26,13,2,12,56,46,0,0,0,2017,misc
+ENG-Premier League,2017/18,Arsenal,Theo Walcott,ENG,"FW,MF",28,1989,0.8,0,0,0,1,0,5,3,2,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Bournemouth,Adam Smith,ENG,"DF,MF",26,1991,23.0,6,0,0,23,39,1,40,31,37,0,0,0,2017,misc
+ENG-Premier League,2017/18,Bournemouth,Andrew Surman,ENG,MF,30,1986,20.6,2,0,0,9,15,1,21,16,15,0,0,0,2017,misc
+ENG-Premier League,2017/18,Bournemouth,Asmir Begović,BIH,GK,30,1987,38.0,2,0,0,2,8,0,0,1,0,0,1,0,2017,misc
+ENG-Premier League,2017/18,Bournemouth,Benik Afobe,COD,FW,24,1993,6.8,0,0,0,9,13,4,2,1,4,1,0,0,2017,misc
+ENG-Premier League,2017/18,Bournemouth,Callum Wilson,ENG,FW,25,1992,22.0,0,0,0,37,36,21,15,7,9,0,0,0,2017,misc
+ENG-Premier League,2017/18,Bournemouth,Charlie Daniels,ENG,"DF,MF",30,1986,33.4,0,0,0,7,19,0,107,33,33,0,1,0,2017,misc
+ENG-Premier League,2017/18,Bournemouth,Dan Gosling,ENG,MF,27,1990,21.6,8,0,0,38,25,2,8,27,24,0,1,0,2017,misc
+ENG-Premier League,2017/18,Bournemouth,Emerson Hyndman,USA,MF,21,1996,0.6,0,0,0,0,0,0,0,2,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Bournemouth,Harry Arter,IRL,MF,27,1989,10.7,4,0,0,9,15,0,5,10,17,0,0,0,2017,misc
+ENG-Premier League,2017/18,Bournemouth,Jack Simpson,ENG,DF,20,1996,0.8,0,0,0,0,0,0,0,1,1,0,0,0,2017,misc
+ENG-Premier League,2017/18,Bournemouth,Jermain Defoe,ENG,FW,34,1982,12.1,1,0,0,12,8,9,5,5,10,0,0,0,2017,misc
+ENG-Premier League,2017/18,Bournemouth,Jordon Ibe,ENG,MF,21,1995,22.2,1,0,0,10,42,2,111,10,13,0,0,0,2017,misc
+ENG-Premier League,2017/18,Bournemouth,Joshua King,NOR,"MF,FW",25,1992,27.3,3,0,0,45,56,4,36,6,27,1,0,0,2017,misc
+ENG-Premier League,2017/18,Bournemouth,Junior Stanislas,ENG,"MF,FW",27,1989,14.3,1,0,0,6,2,1,73,5,9,0,0,0,2017,misc
+ENG-Premier League,2017/18,Bournemouth,Lewis Cook,ENG,MF,20,1997,24.9,5,0,0,33,21,1,31,38,35,0,0,0,2017,misc
+ENG-Premier League,2017/18,Bournemouth,Lys Mousset,FRA,"MF,FW",21,1996,6.6,1,0,0,11,10,0,10,2,5,0,0,0,2017,misc
+ENG-Premier League,2017/18,Bournemouth,Marc Pugh,ENG,MF,30,1987,10.9,2,0,0,7,10,2,32,13,5,0,0,0,2017,misc
+ENG-Premier League,2017/18,Bournemouth,Nathan Aké,NED,DF,22,1995,37.3,5,0,0,27,19,2,6,52,31,0,0,0,2017,misc
+ENG-Premier League,2017/18,Bournemouth,Ryan Fraser,SCO,MF,23,1994,22.3,0,0,0,6,47,1,138,16,8,0,0,0,2017,misc
+ENG-Premier League,2017/18,Bournemouth,Simon Francis,ENG,DF,32,1985,30.0,10,2,1,24,17,1,81,48,37,0,0,0,2017,misc
+ENG-Premier League,2017/18,Bournemouth,Steve Cook,ENG,DF,26,1991,30.7,5,0,0,22,21,1,8,62,22,0,0,1,2017,misc
+ENG-Premier League,2017/18,Bournemouth,Tyrone Mings,ENG,DF,24,1993,2.2,1,0,0,2,1,0,1,5,2,0,0,0,2017,misc
+ENG-Premier League,2017/18,Brighton,Anthony Knockaert,FRA,MF,25,1991,26.9,4,1,0,22,23,8,98,25,24,0,0,0,2017,misc
+ENG-Premier League,2017/18,Brighton,Beram Kayal,ISR,MF,29,1988,8.3,2,0,0,15,15,1,5,15,16,0,0,0,2017,misc
+ENG-Premier League,2017/18,Brighton,Bruno,ESP,DF,36,1980,22.4,3,0,0,19,9,0,41,40,17,0,1,0,2017,misc
+ENG-Premier League,2017/18,Brighton,Connor Goldson,ENG,DF,24,1992,2.2,1,0,0,2,2,0,1,2,2,0,0,0,2017,misc
+ENG-Premier League,2017/18,Brighton,Dale Stephens,ENG,MF,28,1989,36.0,6,0,0,51,18,0,3,69,65,0,1,0,2017,misc
+ENG-Premier League,2017/18,Brighton,Davy Pröpper,NED,MF,25,1991,34.7,2,1,0,41,11,2,12,60,44,0,0,0,2017,misc
+ENG-Premier League,2017/18,Brighton,Ezequiel Schelotto,ITA,DF,28,1989,14.6,3,0,0,8,11,0,34,22,13,0,0,0,2017,misc
+ENG-Premier League,2017/18,Brighton,Gaëtan Bong,CMR,DF,29,1988,24.8,2,0,0,16,14,0,52,46,35,0,0,1,2017,misc
+ENG-Premier League,2017/18,Brighton,Glenn Murray,ENG,FW,33,1983,24.4,9,0,0,60,50,36,9,5,15,3,0,0,2017,misc
+ENG-Premier League,2017/18,Brighton,Izzy Brown,ENG,"MF,FW",20,1997,3.5,0,0,0,3,3,1,7,3,3,0,0,0,2017,misc
+ENG-Premier League,2017/18,Brighton,Jamie Murphy,SCO,MF,27,1989,1.9,0,0,0,1,5,1,2,1,2,0,0,0,2017,misc
+ENG-Premier League,2017/18,Brighton,José Izquierdo,COL,MF,25,1992,22.0,2,0,0,20,13,14,23,14,16,2,0,0,2017,misc
+ENG-Premier League,2017/18,Brighton,Jürgen Locadia,CUW,"FW,MF",23,1993,2.5,0,0,0,2,4,2,3,1,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Brighton,Leonardo Ulloa,ARG,FW,31,1986,3.0,0,0,0,7,3,4,0,1,1,0,0,0,2017,misc
+ENG-Premier League,2017/18,Brighton,Lewis Dunk,ENG,DF,25,1991,38.0,7,0,0,36,18,1,6,72,33,0,0,4,2017,misc
+ENG-Premier League,2017/18,Brighton,Liam Rosenior,ENG,DF,33,1984,1.8,0,0,0,1,0,0,1,4,3,0,0,0,2017,misc
+ENG-Premier League,2017/18,Brighton,Markus Suttner,AUT,DF,30,1987,13.1,0,0,0,5,2,0,45,15,14,0,0,0,2017,misc
+ENG-Premier League,2017/18,Brighton,Mathew Ryan,AUS,GK,25,1992,38.0,0,0,0,0,1,0,0,3,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Brighton,Pascal Groß,GER,"MF,FW",26,1991,32.5,2,0,0,33,20,10,232,15,26,0,0,0,2017,misc
+ENG-Premier League,2017/18,Brighton,Sam Baldock,ENG,"FW,MF",28,1989,0.4,0,0,0,0,0,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Brighton,Shane Duffy,IRL,DF,25,1992,36.6,8,0,0,33,26,7,4,51,21,1,1,0,2017,misc
+ENG-Premier League,2017/18,Brighton,Solly March,ENG,MF,23,1994,20.6,3,0,0,29,23,7,99,15,42,1,0,0,2017,misc
+ENG-Premier League,2017/18,Brighton,Tomer Hemed,ISR,FW,30,1987,9.4,0,0,0,10,13,7,1,2,4,0,0,0,2017,misc
+ENG-Premier League,2017/18,Brighton,Uwe Hünemeier,GER,DF,31,1986,0.2,0,0,0,0,0,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Burnley,Aaron Lennon,ENG,MF,30,1987,12.4,2,0,0,12,12,1,29,9,14,0,0,0,2017,misc
+ENG-Premier League,2017/18,Burnley,Aiden O'Neill,AUS,MF,19,1998,0.0,0,0,0,0,,,,,,,,,2017,misc
+ENG-Premier League,2017/18,Burnley,Ashley Barnes,ENG,FW,27,1989,24.1,10,0,0,53,71,26,16,2,14,0,0,0,2017,misc
+ENG-Premier League,2017/18,Burnley,Ashley Westwood,ENG,MF,27,1990,12.3,2,0,0,13,11,0,13,20,11,0,0,0,2017,misc
+ENG-Premier League,2017/18,Burnley,Ben Mee,ENG,DF,27,1989,29.0,5,0,0,14,29,3,4,38,20,0,0,0,2017,misc
+ENG-Premier League,2017/18,Burnley,Charlie Taylor,ENG,DF,23,1993,10.6,3,0,0,7,12,0,26,17,7,0,0,0,2017,misc
+ENG-Premier League,2017/18,Burnley,Chris Wood,NZL,FW,25,1991,18.0,1,0,0,18,16,26,5,3,5,0,0,0,2017,misc
+ENG-Premier League,2017/18,Burnley,Georges-Kévin N'Koudou,CMR,MF,22,1995,2.5,1,0,0,4,6,0,13,1,6,0,0,0,2017,misc
+ENG-Premier League,2017/18,Burnley,Jack Cork,ENG,MF,28,1989,38.0,7,0,0,23,53,2,19,38,48,0,0,0,2017,misc
+ENG-Premier League,2017/18,Burnley,James Tarkowski,ENG,DF,24,1992,31.0,5,0,0,25,24,4,6,55,29,0,2,0,2017,misc
+ENG-Premier League,2017/18,Burnley,Jeff Hendrick,IRL,MF,25,1992,25.9,1,0,0,19,18,16,25,12,11,0,0,0,2017,misc
+ENG-Premier League,2017/18,Burnley,Jonathan Walters,IRL,"FW,MF",33,1983,0.4,0,0,0,0,1,0,1,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Burnley,Jóhann Berg Guðmundsson,ISL,MF,26,1990,31.5,2,0,0,18,33,2,208,35,27,0,0,0,2017,misc
+ENG-Premier League,2017/18,Burnley,Kevin Long,IRL,DF,26,1990,16.0,1,0,0,15,21,2,2,27,22,0,1,1,2017,misc
+ENG-Premier League,2017/18,Burnley,Matthew Lowton,ENG,DF,28,1989,25.5,1,0,0,19,18,1,73,44,33,0,0,0,2017,misc
+ENG-Premier League,2017/18,Burnley,Nahki Wells,BER,FW,27,1990,0.6,0,0,0,4,0,0,2,0,3,0,0,0,2017,misc
+ENG-Premier League,2017/18,Burnley,Nick Pope,ENG,GK,25,1992,34.6,3,0,0,1,2,0,0,0,0,0,1,0,2017,misc
+ENG-Premier League,2017/18,Burnley,Phil Bardsley,SCO,DF,32,1985,12.5,5,0,0,22,18,0,19,23,18,0,1,0,2017,misc
+ENG-Premier League,2017/18,Burnley,Robbie Brady,IRL,MF,25,1992,14.2,3,0,0,20,12,3,122,11,22,0,0,0,2017,misc
+ENG-Premier League,2017/18,Burnley,Sam Vokes,WAL,FW,27,1989,11.1,3,0,0,20,17,13,2,2,2,1,1,0,2017,misc
+ENG-Premier League,2017/18,Burnley,Scott Arfield,CAN,MF,28,1988,14.8,3,0,0,21,14,2,8,15,26,0,0,0,2017,misc
+ENG-Premier League,2017/18,Burnley,Stephen Ward,IRL,DF,31,1985,27.3,1,0,0,11,28,3,81,46,30,0,0,0,2017,misc
+ENG-Premier League,2017/18,Burnley,Steven Defour,BEL,MF,29,1988,22.2,6,0,0,13,7,0,35,44,25,0,0,0,2017,misc
+ENG-Premier League,2017/18,Burnley,Tom Heaton,ENG,GK,31,1986,3.4,0,0,0,0,0,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Chelsea,Andreas Christensen,DEN,DF,21,1996,23.0,0,0,0,8,15,2,1,39,12,0,0,0,2017,misc
+ENG-Premier League,2017/18,Chelsea,Antonio Rüdiger,GER,DF,24,1993,26.0,4,0,0,26,15,2,10,25,22,0,0,0,2017,misc
+ENG-Premier League,2017/18,Chelsea,Callum Hudson-Odoi,ENG,"FW,MF",16,2000,0.3,0,0,0,0,0,0,2,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Chelsea,Cesc Fàbregas,ESP,MF,30,1987,25.6,6,2,1,25,22,5,144,21,51,0,0,0,2017,misc
+ENG-Premier League,2017/18,Chelsea,Charly Musonda Jr.,BEL,MF,20,1996,0.4,0,0,0,3,1,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Chelsea,César Azpilicueta,ESP,DF,27,1989,37.0,1,0,0,25,13,1,81,54,63,0,0,1,2017,misc
+ENG-Premier League,2017/18,Chelsea,Danny Drinkwater,ENG,MF,27,1990,5.9,0,0,0,10,4,0,2,8,12,0,0,0,2017,misc
+ENG-Premier League,2017/18,Chelsea,David Luiz,BRA,"DF,MF",30,1987,9.3,4,1,0,13,15,0,1,24,11,0,0,0,2017,misc
+ENG-Premier League,2017/18,Chelsea,Davide Zappacosta,ITA,MF,25,1992,12.2,0,0,0,7,10,5,84,8,12,0,0,0,2017,misc
+ENG-Premier League,2017/18,Chelsea,Eden Hazard,BEL,"FW,MF",26,1991,26.9,2,0,0,13,82,16,51,4,3,1,0,0,2017,misc
+ENG-Premier League,2017/18,Chelsea,Emerson Palmieri,ITA,MF,22,1994,3.1,0,0,0,3,5,0,15,2,3,0,0,0,2017,misc
+ENG-Premier League,2017/18,Chelsea,Ethan Ampadu,WAL,"DF,MF",16,2000,0.1,0,0,0,0,0,0,0,0,1,0,0,0,2017,misc
+ENG-Premier League,2017/18,Chelsea,Gary Cahill,ENG,DF,31,1985,23.2,1,1,0,17,18,0,0,30,22,0,0,0,2017,misc
+ENG-Premier League,2017/18,Chelsea,Jeremie Boga,CIV,MF,20,1997,0.2,0,0,0,1,0,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Chelsea,Marcos Alonso,ESP,MF,26,1990,31.7,6,0,0,26,31,8,98,51,34,0,0,0,2017,misc
+ENG-Premier League,2017/18,Chelsea,Michy Batshuayi,BEL,FW,23,1993,4.0,0,0,0,4,3,6,0,1,4,0,0,1,2017,misc
+ENG-Premier League,2017/18,Chelsea,N'Golo Kanté,FRA,MF,26,1991,33.3,3,0,0,41,15,1,13,91,83,0,0,0,2017,misc
+ENG-Premier League,2017/18,Chelsea,Olivier Giroud,FRA,FW,30,1986,6.8,0,0,0,6,7,4,0,1,3,0,0,0,2017,misc
+ENG-Premier League,2017/18,Chelsea,Pedro,ESP,"MF,FW",30,1987,16.9,1,0,0,8,18,16,46,13,13,0,0,0,2017,misc
+ENG-Premier League,2017/18,Chelsea,Ross Barkley,ENG,MF,23,1993,1.4,0,0,0,1,1,0,3,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Chelsea,Thibaut Courtois,BEL,GK,25,1992,35.0,2,0,0,2,3,0,0,0,0,0,2,0,2017,misc
+ENG-Premier League,2017/18,Chelsea,Tiemoué Bakayoko,FRA,MF,22,1994,23.6,5,1,1,50,24,2,5,38,43,0,0,0,2017,misc
+ENG-Premier League,2017/18,Chelsea,Victor Moses,NGA,MF,26,1990,23.4,3,0,0,23,27,9,90,17,30,1,0,0,2017,misc
+ENG-Premier League,2017/18,Chelsea,Willian,BRA,"MF,FW",28,1988,21.0,1,0,0,11,38,5,100,10,18,1,0,0,2017,misc
+ENG-Premier League,2017/18,Chelsea,Willy Caballero,ARG,GK,35,1981,3.0,0,0,0,0,0,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Chelsea,Álvaro Morata,ESP,FW,24,1992,22.9,7,0,0,41,43,30,20,6,10,0,0,0,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,Aaron Wan-Bissaka,COD,DF,19,1997,7.0,1,0,0,2,3,0,20,16,21,0,0,0,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,Alexander Sørloth,NOR,FW,21,1995,4.0,0,0,0,6,2,3,7,2,3,0,0,0,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,Andros Townsend,ENG,"FW,MF",26,1991,34.7,3,0,0,10,46,6,177,32,34,2,0,0,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,Bakary Sako,MLI,FW,29,1988,5.3,0,0,0,8,7,4,27,1,6,0,0,0,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,Christian Benteke,BEL,FW,26,1990,24.9,6,0,0,48,27,12,3,7,7,2,0,0,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,Damien Delaney,IRL,DF,36,1981,1.1,0,0,0,0,0,0,0,3,1,0,0,0,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,Freddie Ladapo,ENG,FW,24,1993,0.2,0,0,0,0,0,0,2,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,James McArthur,SCO,MF,29,1987,27.0,5,0,0,45,29,0,11,43,42,0,0,0,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,James Tomkins,ENG,DF,28,1989,26.5,8,0,0,20,15,1,2,71,30,0,1,0,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,Jason Puncheon,ENG,MF,31,1986,6.3,5,0,0,14,3,0,20,7,4,0,0,0,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,Jaïro Riedewald,NED,"MF,DF",20,1996,4.9,0,0,0,3,0,0,2,13,9,0,0,0,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,Jeffrey Schlupp,GHA,"DF,MF",24,1992,19.4,3,0,0,18,9,0,31,27,37,0,0,0,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,Joel Ward,ENG,"DF,MF",27,1989,17.9,4,0,0,25,29,1,46,31,27,0,0,1,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,Julián Speroni,ARG,GK,38,1979,11.0,0,0,0,0,0,0,0,2,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,Lee Chung-yong,KOR,FW,29,1988,1.5,0,0,0,1,2,0,7,2,1,0,0,0,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,Levi Lumeka,ENG,MF,18,1998,0.3,0,0,0,0,0,0,4,1,1,0,0,0,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,Luka Milivojević,SRB,MF,26,1991,34.2,8,0,0,69,34,1,40,80,56,0,0,0,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,Mamadou Sakho,FRA,DF,27,1990,17.8,1,0,0,3,9,0,0,34,16,0,0,0,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,Martin Kelly,ENG,DF,27,1990,13.3,1,0,0,8,4,0,6,12,15,0,0,1,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,Pape Souaré,SEN,DF,27,1990,0.1,0,0,0,0,0,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,Patrick van Aanholt,NED,"DF,MF",26,1990,24.3,7,0,0,18,10,3,57,54,33,0,0,0,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,Ruben Loftus-Cheek,ENG,MF,21,1996,20.8,1,0,0,17,61,3,13,25,18,1,0,0,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,Scott Dann,ENG,DF,30,1987,15.9,4,0,0,12,3,2,2,24,7,0,1,0,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,Sullay Kaikai,SLE,"FW,MF",21,1995,0.2,0,0,0,0,0,0,2,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,Timothy Fosu-Mensah,NED,DF,19,1998,17.7,2,0,0,18,13,0,18,33,34,0,0,0,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,Wayne Hennessey,WAL,GK,30,1987,27.0,1,0,0,0,2,0,0,3,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,Wilfried Zaha,CIV,"FW,MF",24,1992,28.3,5,0,0,45,77,19,76,6,27,4,0,0,2017,misc
+ENG-Premier League,2017/18,Crystal Palace,Yohan Cabaye,FRA,MF,31,1986,26.4,7,0,0,35,23,1,137,77,42,0,0,0,2017,misc
+ENG-Premier League,2017/18,Everton,Aaron Lennon,ENG,"MF,FW",30,1987,8.8,0,0,0,9,8,0,10,13,11,2,0,0,2017,misc
+ENG-Premier League,2017/18,Everton,Ademola Lookman,NGA,MF,19,1997,1.8,0,0,0,5,3,0,2,1,1,0,0,0,2017,misc
+ENG-Premier League,2017/18,Everton,Ashley Williams,WAL,DF,32,1984,20.4,3,1,0,25,4,3,1,37,15,0,2,0,2017,misc
+ENG-Premier League,2017/18,Everton,Beni Baningime,,MF,18,1998,2.2,1,0,0,4,1,0,0,3,2,0,0,0,2017,misc
+ENG-Premier League,2017/18,Everton,Cenk Tosun,TUR,FW,26,1991,11.0,0,0,0,25,11,9,7,2,3,0,0,0,2017,misc
+ENG-Premier League,2017/18,Everton,Cuco Martina,CUW,"DF,MF",27,1989,20.3,2,0,0,26,10,1,45,46,32,0,0,0,2017,misc
+ENG-Premier League,2017/18,Everton,Davy Klaassen,NED,MF,24,1993,2.8,0,0,0,5,2,1,3,1,1,0,0,0,2017,misc
+ENG-Premier League,2017/18,Everton,Dominic Calvert-Lewin,ENG,"FW,MF",20,1997,20.9,4,0,0,42,27,15,19,12,10,4,0,0,2017,misc
+ENG-Premier League,2017/18,Everton,Eliaquim Mangala,FRA,DF,26,1991,1.5,0,0,0,1,0,0,0,1,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Everton,Gylfi Sigurðsson,ISL,"MF,FW",27,1989,25.1,2,0,0,19,16,1,150,36,26,0,0,0,2017,misc
+ENG-Premier League,2017/18,Everton,Idrissa Gueye,SEN,MF,27,1989,30.6,8,2,1,48,52,1,11,65,93,0,0,0,2017,misc
+ENG-Premier League,2017/18,Everton,James McCarthy,IRL,MF,26,1990,2.3,0,0,0,3,2,0,2,6,9,0,0,0,2017,misc
+ENG-Premier League,2017/18,Everton,Jonjoe Kenny,ENG,"DF,MF",20,1997,17.7,2,0,0,17,4,0,45,28,30,1,1,0,2017,misc
+ENG-Premier League,2017/18,Everton,Jordan Pickford,ENG,GK,23,1994,38.0,0,0,0,1,7,0,0,4,0,0,1,0,2017,misc
+ENG-Premier League,2017/18,Everton,Kevin Mirallas,BEL,"MF,FW",29,1987,1.5,1,0,0,1,2,0,4,0,3,0,0,0,2017,misc
+ENG-Premier League,2017/18,Everton,Leighton Baines,ENG,"DF,MF",32,1984,21.2,1,0,0,7,17,1,75,28,13,0,0,0,2017,misc
+ENG-Premier League,2017/18,Everton,Mason Holgate,JAM,"DF,MF",20,1996,13.2,3,0,0,12,12,1,12,24,17,0,0,0,2017,misc
+ENG-Premier League,2017/18,Everton,Michael Keane,ENG,DF,24,1993,28.4,3,0,0,21,11,4,5,60,25,0,0,0,2017,misc
+ENG-Premier League,2017/18,Everton,Morgan Schneiderlin,FRA,MF,27,1989,23.7,6,1,1,39,17,0,8,65,40,0,1,0,2017,misc
+ENG-Premier League,2017/18,Everton,Muhamed Bešić,BIH,"DF,MF",24,1992,0.5,0,0,0,1,2,0,0,1,2,0,0,0,2017,misc
+ENG-Premier League,2017/18,Everton,Nikola Vlašić,CRO,MF,19,1997,6.4,0,0,0,7,7,1,9,10,6,0,0,0,2017,misc
+ENG-Premier League,2017/18,Everton,Oumar Niasse,SEN,FW,27,1990,12.1,2,0,0,30,14,20,9,4,6,1,0,0,2017,misc
+ENG-Premier League,2017/18,Everton,Phil Jagielka,ENG,DF,34,1982,22.9,2,0,0,8,15,0,4,39,26,0,0,0,2017,misc
+ENG-Premier League,2017/18,Everton,Ramiro Funes Mori,ARG,DF,26,1991,1.3,1,0,0,3,2,0,0,3,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Everton,Sandro Ramírez,ESP,FW,22,1995,3.1,0,0,0,1,7,2,6,1,1,0,0,0,2017,misc
+ENG-Premier League,2017/18,Everton,Séamus Coleman,IRL,DF,28,1988,11.5,0,0,0,3,14,0,28,16,16,0,0,0,2017,misc
+ENG-Premier League,2017/18,Everton,Theo Walcott,ENG,"MF,FW",28,1989,12.8,2,0,0,6,28,7,45,9,19,0,0,0,2017,misc
+ENG-Premier League,2017/18,Everton,Tom Davies,ENG,MF,19,1998,21.1,7,0,0,38,43,3,16,25,20,0,0,0,2017,misc
+ENG-Premier League,2017/18,Everton,Wayne Rooney,ENG,"MF,FW",31,1985,25.2,5,0,0,35,19,8,63,17,18,0,1,0,2017,misc
+ENG-Premier League,2017/18,Everton,Yannick Bolasie,COD,"MF,FW",28,1989,9.5,0,0,0,12,11,4,53,5,7,0,0,0,2017,misc
+ENG-Premier League,2017/18,Huddersfield,Aaron Mooy,AUS,MF,26,1990,34.1,4,0,0,26,17,2,187,38,61,0,0,0,2017,misc
+ENG-Premier League,2017/18,Huddersfield,Abdelhamid Sabiri,MAR,MF,20,1996,2.4,1,0,0,4,4,1,1,1,3,0,0,0,2017,misc
+ENG-Premier League,2017/18,Huddersfield,Alex Pritchard,ENG,"MF,FW",24,1993,11.1,1,0,0,5,23,1,47,6,9,1,0,0,2017,misc
+ENG-Premier League,2017/18,Huddersfield,Chris Löwe,GER,DF,28,1989,17.6,1,0,0,13,8,0,72,36,32,0,1,0,2017,misc
+ENG-Premier League,2017/18,Huddersfield,Christopher Schindler,GER,DF,27,1990,36.3,8,2,1,30,22,1,4,77,60,0,0,0,2017,misc
+ENG-Premier League,2017/18,Huddersfield,Collin Quaner,GER,MF,26,1991,14.2,4,0,0,14,26,3,24,13,18,0,0,0,2017,misc
+ENG-Premier League,2017/18,Huddersfield,Danny Williams,USA,MF,28,1989,12.5,2,0,0,17,17,2,8,22,16,0,0,0,2017,misc
+ENG-Premier League,2017/18,Huddersfield,Dean Whitehead,ENG,"DF,MF",35,1982,0.8,0,0,0,0,0,0,0,2,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Huddersfield,Elias Kachunga,COD,MF,25,1992,14.8,1,0,0,20,32,6,26,4,27,0,0,0,2017,misc
+ENG-Premier League,2017/18,Huddersfield,Florent Hadergjonaj,KVX,"DF,MF",23,1994,18.6,3,0,0,17,12,4,95,18,18,0,0,0,2017,misc
+ENG-Premier League,2017/18,Huddersfield,Joe Lolley,ENG,MF,24,1992,2.5,1,0,0,3,3,0,8,4,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Huddersfield,Jonas Lössl,DEN,GK,28,1989,38.0,1,0,0,0,6,0,1,4,2,0,0,1,2017,misc
+ENG-Premier League,2017/18,Huddersfield,Jonathan Hogg,ENG,MF,28,1988,26.6,10,1,1,32,30,0,3,68,63,0,0,0,2017,misc
+ENG-Premier League,2017/18,Huddersfield,Kasey Palmer,JAM,MF,20,1996,1.9,2,0,0,4,1,0,4,0,3,0,0,0,2017,misc
+ENG-Premier League,2017/18,Huddersfield,Laurent Depoitre,BEL,FW,28,1988,20.2,1,0,0,28,16,7,3,11,9,1,0,0,2017,misc
+ENG-Premier League,2017/18,Huddersfield,Martin Cranie,ENG,DF,30,1986,2.0,0,0,0,0,0,0,0,3,2,0,0,0,2017,misc
+ENG-Premier League,2017/18,Huddersfield,Mathias Jørgensen,DEN,DF,27,1990,38.0,6,0,0,44,11,2,1,84,35,0,1,0,2017,misc
+ENG-Premier League,2017/18,Huddersfield,Michael Hefele,GER,DF,26,1990,0.4,1,0,0,2,0,0,0,2,0,0,1,0,2017,misc
+ENG-Premier League,2017/18,Huddersfield,Philip Billing,DEN,MF,21,1996,8.5,3,0,0,14,6,1,12,19,17,0,1,0,2017,misc
+ENG-Premier League,2017/18,Huddersfield,Rajiv van La Parra,NED,MF,26,1991,23.7,3,1,0,29,46,3,85,18,31,0,0,0,2017,misc
+ENG-Premier League,2017/18,Huddersfield,Scott Malone,ENG,DF,26,1991,12.4,3,0,0,19,9,0,45,26,30,0,1,0,2017,misc
+ENG-Premier League,2017/18,Huddersfield,Steve Mounié,BEN,FW,22,1994,20.6,2,0,0,28,17,23,10,9,8,0,0,0,2017,misc
+ENG-Premier League,2017/18,Huddersfield,Terence Kongolo,NED,DF,23,1994,11.7,0,0,0,5,11,0,10,30,23,0,0,0,2017,misc
+ENG-Premier League,2017/18,Huddersfield,Tom Ince,ENG,MF,25,1992,27.2,0,0,0,22,36,10,60,14,27,0,0,0,2017,misc
+ENG-Premier League,2017/18,Huddersfield,Tommy Smith,ENG,DF,25,1992,21.2,7,0,0,21,17,3,64,28,25,0,1,0,2017,misc
+ENG-Premier League,2017/18,Leicester City,Adrien Silva,POR,MF,28,1989,8.5,3,0,0,9,8,0,4,12,19,0,0,0,2017,misc
+ENG-Premier League,2017/18,Leicester City,Aleksandar Dragović,AUT,DF,26,1991,8.5,2,0,0,7,4,0,1,13,11,0,0,0,2017,misc
+ENG-Premier League,2017/18,Leicester City,Andy King,WAL,MF,28,1988,6.0,1,0,0,9,5,1,5,6,5,1,0,0,2017,misc
+ENG-Premier League,2017/18,Leicester City,Ben Chilwell,ENG,"DF,MF",20,1996,20.6,3,1,1,13,24,4,84,28,29,0,0,0,2017,misc
+ENG-Premier League,2017/18,Leicester City,Ben Hamer,ENG,GK,29,1987,3.1,0,0,0,0,0,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Leicester City,Christian Fuchs,AUT,DF,31,1986,21.3,1,0,0,12,4,0,70,53,33,0,0,1,2017,misc
+ENG-Premier League,2017/18,Leicester City,Daniel Amartey,GHA,DF,22,1994,5.4,2,2,1,4,7,0,0,4,3,0,0,0,2017,misc
+ENG-Premier League,2017/18,Leicester City,Danny Simpson,ENG,DF,30,1987,25.6,4,0,0,21,13,0,23,36,25,0,1,0,2017,misc
+ENG-Premier League,2017/18,Leicester City,Demarai Gray,JAM,MF,21,1996,18.9,2,0,0,7,30,4,85,12,16,1,0,0,2017,misc
+ENG-Premier League,2017/18,Leicester City,Eldin Jakupović,SUI,GK,32,1984,2.0,0,0,0,0,1,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Leicester City,Fousseni Diabaté,MLI,"MF,FW",21,1995,6.5,1,0,0,1,14,1,11,8,5,0,0,0,2017,misc
+ENG-Premier League,2017/18,Leicester City,Hamza Choudhury,BAN,MF,19,1997,4.2,1,0,0,5,5,0,1,13,6,0,0,0,2017,misc
+ENG-Premier League,2017/18,Leicester City,Harry Maguire,ENG,DF,24,1993,38.0,7,0,0,34,29,4,15,60,46,0,2,0,2017,misc
+ENG-Premier League,2017/18,Leicester City,Harvey Barnes,ENG,"FW,MF",19,1997,0.1,0,0,0,1,0,0,1,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Leicester City,Islam Slimani,ALG,FW,29,1988,2.8,0,0,0,3,1,5,3,0,2,0,0,0,2017,misc
+ENG-Premier League,2017/18,Leicester City,Jamie Vardy,ENG,FW,30,1987,36.1,3,0,0,29,29,45,40,6,11,3,0,0,2017,misc
+ENG-Premier League,2017/18,Leicester City,Kasper Schmeichel,DEN,GK,30,1986,32.9,3,0,0,0,5,0,0,0,0,0,0,1,2017,misc
+ENG-Premier League,2017/18,Leicester City,Kelechi Iheanacho,NGA,"MF,FW",20,1996,9.2,2,0,0,17,9,5,6,4,8,0,0,0,2017,misc
+ENG-Premier League,2017/18,Leicester City,Leonardo Ulloa,ARG,FW,31,1986,0.2,0,0,0,1,0,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Leicester City,Marc Albrighton,ENG,MF,27,1989,28.2,5,1,0,20,25,1,214,35,35,0,1,0,2017,misc
+ENG-Premier League,2017/18,Leicester City,Matty James,ENG,MF,26,1991,11.0,2,0,0,21,5,0,2,19,11,0,0,0,2017,misc
+ENG-Premier League,2017/18,Leicester City,Riyad Mahrez,ALG,MF,26,1991,32.8,2,0,0,23,56,11,160,22,24,0,0,0,2017,misc
+ENG-Premier League,2017/18,Leicester City,Shinji Okazaki,JPN,MF,31,1986,14.7,2,0,0,20,28,9,6,8,18,0,0,0,2017,misc
+ENG-Premier League,2017/18,Leicester City,Vicente Iborra,ESP,MF,29,1988,15.7,0,0,0,18,19,2,2,20,19,0,0,0,2017,misc
+ENG-Premier League,2017/18,Leicester City,Wes Morgan,JAM,DF,33,1984,31.3,4,0,0,31,13,1,0,32,26,0,0,0,2017,misc
+ENG-Premier League,2017/18,Leicester City,Wilfred Ndidi,NGA,MF,20,1996,32.2,10,4,2,63,27,1,9,56,96,1,0,0,2017,misc
+ENG-Premier League,2017/18,Leicester City,Yohan Benalouane,TUN,DF,30,1987,1.0,0,0,0,1,1,1,3,2,3,0,0,0,2017,misc
+ENG-Premier League,2017/18,Liverpool,Adam Lallana,ENG,MF,29,1988,2.7,1,0,0,4,5,1,8,1,1,0,0,0,2017,misc
+ENG-Premier League,2017/18,Liverpool,Alberto Moreno,ESP,DF,25,1992,14.1,1,0,0,8,19,0,51,12,31,0,0,0,2017,misc
+ENG-Premier League,2017/18,Liverpool,Alex Oxlade-Chamberlain,ENG,MF,23,1993,16.6,3,0,0,14,9,2,69,23,20,0,0,0,2017,misc
+ENG-Premier League,2017/18,Liverpool,Andy Robertson,SCO,DF,23,1994,21.6,2,0,0,15,4,5,87,31,17,0,0,0,2017,misc
+ENG-Premier League,2017/18,Liverpool,Ben Woodburn,WAL,"FW,MF",17,1999,0.1,0,0,0,0,0,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Liverpool,Daniel Sturridge,ENG,FW,27,1989,4.8,0,0,0,1,9,2,2,0,1,0,0,0,2017,misc
+ENG-Premier League,2017/18,Liverpool,Danny Ings,ENG,FW,25,1992,3.0,0,0,0,6,3,3,3,3,2,0,0,0,2017,misc
+ENG-Premier League,2017/18,Liverpool,Dejan Lovren,CRO,DF,28,1989,23.6,4,0,0,15,7,1,4,40,16,0,1,0,2017,misc
+ENG-Premier League,2017/18,Liverpool,Divock Origi,BEL,"FW,MF",22,1995,0.1,0,0,0,0,0,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Liverpool,Dominic Solanke,ENG,FW,19,1997,6.6,0,0,0,13,3,2,3,2,6,0,0,0,2017,misc
+ENG-Premier League,2017/18,Liverpool,Emre Can,GER,MF,23,1994,23.2,8,0,0,27,27,0,13,35,57,1,0,0,2017,misc
+ENG-Premier League,2017/18,Liverpool,Georginio Wijnaldum,NED,MF,26,1990,26.5,1,0,0,13,17,4,4,28,21,0,0,0,2017,misc
+ENG-Premier League,2017/18,Liverpool,James Milner,ENG,MF,31,1986,19.7,3,0,0,29,22,0,124,23,46,0,0,0,2017,misc
+ENG-Premier League,2017/18,Liverpool,Joe Gomez,ENG,DF,20,1997,21.1,3,0,0,14,10,1,46,35,42,0,0,0,2017,misc
+ENG-Premier League,2017/18,Liverpool,Jordan Henderson,ENG,MF,27,1990,24.1,1,0,0,27,14,0,26,32,33,0,1,0,2017,misc
+ENG-Premier League,2017/18,Liverpool,Joël Matip,CMR,DF,25,1991,22.2,3,0,0,19,11,1,0,39,25,0,0,0,2017,misc
+ENG-Premier League,2017/18,Liverpool,Loris Karius,GER,GK,24,1993,19.0,1,0,0,2,3,0,1,2,0,0,2,0,2017,misc
+ENG-Premier League,2017/18,Liverpool,Marko Grujić,SRB,MF,21,1996,0.2,0,0,0,0,0,0,0,0,2,0,0,0,2017,misc
+ENG-Premier League,2017/18,Liverpool,Mohamed Salah,EGY,FW,25,1992,32.3,1,0,0,16,30,18,88,7,9,1,0,0,2017,misc
+ENG-Premier League,2017/18,Liverpool,Nathaniel Clyne,ENG,DF,26,1991,1.9,1,0,0,4,0,0,8,1,1,0,0,0,2017,misc
+ENG-Premier League,2017/18,Liverpool,Philippe Coutinho,BRA,"MF,FW",25,1992,12.3,0,0,0,5,21,4,57,9,13,0,0,0,2017,misc
+ENG-Premier League,2017/18,Liverpool,Ragnar Klavan,EST,DF,31,1985,16.1,0,0,0,7,12,0,2,16,11,0,0,0,2017,misc
+ENG-Premier League,2017/18,Liverpool,Roberto Firmino,BRA,FW,25,1991,30.7,1,0,0,58,18,14,43,16,52,1,0,0,2017,misc
+ENG-Premier League,2017/18,Liverpool,Sadio Mané,SEN,"FW,MF",25,1992,24.3,3,1,0,24,50,13,32,13,22,0,0,0,2017,misc
+ENG-Premier League,2017/18,Liverpool,Simon Mignolet,BEL,GK,29,1988,19.0,3,0,0,2,2,0,0,0,1,0,1,0,2017,misc
+ENG-Premier League,2017/18,Liverpool,Trent Alexander-Arnold,ENG,"DF,MF",18,1998,17.5,3,0,0,12,1,3,100,30,26,0,0,0,2017,misc
+ENG-Premier League,2017/18,Liverpool,Virgil van Dijk,NED,DF,26,1991,14.0,1,0,0,14,11,0,0,17,9,0,1,0,2017,misc
+ENG-Premier League,2017/18,Manchester City,Aymeric Laporte,ESP,DF,23,1994,9.0,1,0,0,10,4,0,2,14,6,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester City,Benjamin Mendy,FRA,"DF,MF",23,1994,4.0,2,0,0,6,1,0,39,8,5,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester City,Bernardo Silva,POR,FW,22,1994,17.0,0,0,0,9,27,0,51,10,21,1,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester City,Brahim Díaz,MAR,"FW,MF",17,1999,0.6,0,0,0,1,4,0,1,2,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester City,Claudio Bravo,CHI,GK,34,1983,2.5,0,0,0,0,1,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester City,Danilo,BRA,DF,26,1991,15.0,2,0,0,12,11,0,24,20,30,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester City,David Silva,ESP,MF,31,1986,27.0,5,0,0,21,36,4,76,18,22,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester City,Ederson Moraes,BRA,GK,23,1993,35.5,1,0,0,0,6,0,0,1,2,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester City,Eliaquim Mangala,FRA,DF,26,1991,5.4,0,0,0,2,1,0,0,6,2,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester City,Fabian Delph,ENG,DF,27,1989,19.3,2,0,0,15,18,0,13,35,34,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester City,Fernandinho,BRA,MF,32,1985,32.0,7,0,0,41,27,0,11,48,38,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester City,Gabriel Jesus,BRA,FW,20,1997,18.5,6,0,0,28,18,15,2,10,16,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester City,John Stones,ENG,DF,23,1994,14.5,0,0,0,6,2,0,1,21,11,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester City,Kevin De Bruyne,BEL,MF,26,1991,34.1,2,0,0,30,33,2,248,27,44,1,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester City,Kyle Walker,ENG,DF,27,1990,30.9,4,2,1,17,19,2,58,30,33,0,0,1,2017,misc
+ENG-Premier League,2017/18,Manchester City,Leroy Sané,GER,"FW,MF",21,1996,26.9,4,0,0,24,28,7,93,16,20,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester City,Lukas Nmecha,GER,FW,18,1998,0.2,0,0,0,0,0,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester City,Nicolás Otamendi,ARG,DF,29,1988,33.0,9,0,0,27,22,0,2,51,45,0,1,1,2017,misc
+ENG-Premier League,2017/18,Manchester City,Oleksandr Zinchenko,UKR,DF,20,1996,5.9,1,0,0,7,1,2,10,6,16,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester City,Phil Foden,ENG,"FW,MF",17,2000,0.5,0,0,0,1,4,0,4,1,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester City,Raheem Sterling,ENG,"FW,MF",22,1994,28.7,5,2,1,39,58,19,42,12,14,6,1,0,2017,misc
+ENG-Premier League,2017/18,Manchester City,Sergio Agüero,ARG,FW,29,1988,21.8,2,0,0,10,17,16,16,8,7,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester City,Vincent Kompany,BEL,DF,31,1986,15.5,6,0,0,18,2,0,0,18,14,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester City,Yaya Touré,CIV,MF,34,1983,2.6,1,0,0,5,0,0,0,6,2,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester City,İlkay Gündoğan,GER,MF,26,1990,16.9,3,0,0,14,19,1,8,15,16,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester Utd,Alexis Sánchez,CHI,"FW,MF",28,1988,11.6,1,0,0,10,31,10,42,16,17,1,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester Utd,Ander Herrera,ESP,MF,27,1989,14.1,5,0,0,27,28,2,14,39,31,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester Utd,Anthony Martial,FRA,"MF,FW",21,1995,17.6,1,0,0,17,28,8,49,4,15,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester Utd,Antonio Valencia,ECU,"DF,MF",31,1985,30.4,7,0,0,38,20,4,79,50,34,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester Utd,Ashley Young,ENG,"DF,MF",32,1985,27.1,7,0,0,29,35,2,122,59,34,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester Utd,Axel Tuanzebe,COD,DF,19,1997,0.0,0,0,0,0,0,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester Utd,Chris Smalling,ENG,DF,27,1989,28.2,4,0,0,24,15,3,0,60,26,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester Utd,Daley Blind,NED,"DF,MF",27,1990,4.0,0,0,0,4,4,0,26,6,4,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester Utd,David de Gea,ESP,GK,26,1990,37.0,0,0,0,0,4,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester Utd,Eric Bailly,CIV,DF,23,1994,11.1,2,0,0,10,9,0,0,23,9,0,0,1,2017,misc
+ENG-Premier League,2017/18,Manchester Utd,Henrikh Mkhitaryan,ARM,MF,28,1989,10.2,2,0,0,9,12,2,52,10,11,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester Utd,Jesse Lingard,ENG,"MF,FW",24,1992,20.2,2,0,0,34,37,4,46,10,22,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester Utd,Juan Mata,ESP,"MF,FW",29,1988,21.4,1,0,0,12,20,18,112,14,15,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester Utd,Luke Shaw,ENG,DF,22,1995,8.8,2,0,0,4,8,0,32,3,16,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester Utd,Marcos Rojo,ARG,DF,27,1990,7.1,6,0,0,8,4,0,1,9,6,0,1,0,2017,misc
+ENG-Premier League,2017/18,Manchester Utd,Marcus Rashford,ENG,"MF,FW",19,1997,20.1,3,0,0,21,17,9,83,8,13,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester Utd,Marouane Fellaini,BEL,MF,29,1987,6.9,1,0,0,14,12,3,3,14,8,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester Utd,Matteo Darmian,ITA,DF,27,1989,4.9,0,0,0,5,3,0,6,8,13,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester Utd,Michael Carrick,ENG,MF,36,1981,1.2,0,0,0,1,1,0,0,2,1,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester Utd,Nemanja Matić,SRB,MF,28,1988,34.6,6,0,0,33,22,2,18,67,44,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester Utd,Paul Pogba,FRA,MF,24,1993,23.9,5,1,0,44,52,3,29,23,25,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester Utd,Phil Jones,ENG,DF,25,1992,21.9,2,0,0,10,24,0,2,43,18,0,0,1,2017,misc
+ENG-Premier League,2017/18,Manchester Utd,Romelu Lukaku,BEL,FW,24,1993,31.9,4,0,0,31,16,19,36,3,4,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester Utd,Scott McTominay,SCO,MF,20,1996,7.0,2,0,0,7,15,0,4,15,8,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester Utd,Sergio Romero,ARG,GK,30,1987,1.0,0,0,0,0,0,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester Utd,Victor Lindelöf,SWE,DF,23,1994,14.3,1,0,0,10,9,0,2,13,13,0,0,0,2017,misc
+ENG-Premier League,2017/18,Manchester Utd,Zlatan Ibrahimović,SWE,MF,35,1981,1.2,0,0,0,1,1,2,2,0,1,0,0,0,2017,misc
+ENG-Premier League,2017/18,Newcastle,Aleksandar Mitrović,SRB,FW,22,1994,1.1,0,0,0,2,5,1,0,0,1,0,0,0,2017,misc
+ENG-Premier League,2017/18,Newcastle,Ayoze Pérez,ESP,MF,24,1993,27.7,3,0,0,36,53,14,21,26,25,0,0,1,2017,misc
+ENG-Premier League,2017/18,Newcastle,Chancel Mbemba,COD,DF,22,1994,7.5,0,0,0,5,4,0,7,15,12,0,0,0,2017,misc
+ENG-Premier League,2017/18,Newcastle,Christian Atsu,GHA,MF,25,1992,19.8,1,0,0,10,26,6,57,11,18,0,0,0,2017,misc
+ENG-Premier League,2017/18,Newcastle,Ciaran Clark,IRL,DF,27,1989,19.4,3,0,0,17,13,0,3,20,18,0,2,0,2017,misc
+ENG-Premier League,2017/18,Newcastle,DeAndre Yedlin,USA,DF,24,1993,31.6,5,0,0,32,27,9,73,53,36,0,0,1,2017,misc
+ENG-Premier League,2017/18,Newcastle,Dwight Gayle,ENG,FW,26,1990,21.8,3,0,0,23,28,22,5,6,11,0,0,0,2017,misc
+ENG-Premier League,2017/18,Newcastle,Florian Lejeune,FRA,DF,26,1991,23.4,3,0,0,17,16,2,5,51,21,0,1,0,2017,misc
+ENG-Premier League,2017/18,Newcastle,Henri Saivet,SEN,MF,26,1990,0.9,0,0,0,0,0,0,2,4,2,0,0,0,2017,misc
+ENG-Premier League,2017/18,Newcastle,Isaac Hayden,JAM,MF,22,1995,15.3,7,0,0,30,12,0,18,22,23,0,0,0,2017,misc
+ENG-Premier League,2017/18,Newcastle,Islam Slimani,ALG,FW,29,1988,1.5,1,0,0,1,3,0,4,1,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Newcastle,Jacob Murphy,ENG,MF,22,1995,12.8,0,0,0,8,9,0,38,2,11,0,0,0,2017,misc
+ENG-Premier League,2017/18,Newcastle,Jamaal Lascelles,ENG,DF,23,1993,32.5,5,0,0,16,12,0,2,29,19,0,0,0,2017,misc
+ENG-Premier League,2017/18,Newcastle,Javier Manquillo,ESP,DF,23,1994,19.5,2,0,0,22,12,2,29,22,22,0,1,0,2017,misc
+ENG-Premier League,2017/18,Newcastle,Jesús Gámez,ESP,DF,32,1985,1.1,0,0,0,0,1,0,5,2,2,0,0,0,2017,misc
+ENG-Premier League,2017/18,Newcastle,Jonjo Shelvey,ENG,MF,25,1992,25.2,4,3,1,23,8,0,80,34,24,0,0,0,2017,misc
+ENG-Premier League,2017/18,Newcastle,Joselu,ESP,FW,27,1990,19.0,2,0,0,30,23,3,6,12,16,0,0,0,2017,misc
+ENG-Premier League,2017/18,Newcastle,Karl Darlow,WAL,GK,26,1990,10.0,0,0,0,0,1,0,0,0,0,0,0,1,2017,misc
+ENG-Premier League,2017/18,Newcastle,Kenedy,BRA,MF,21,1996,11.4,1,0,0,15,20,0,38,18,16,1,0,0,2017,misc
+ENG-Premier League,2017/18,Newcastle,Martin Dúbravka,SVK,GK,28,1989,12.0,0,0,0,0,2,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Newcastle,Massadio Haïdara,MLI,"DF,MF",24,1992,0.0,0,0,0,0,0,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Newcastle,Matt Ritchie,SCO,MF,27,1989,31.2,6,0,0,37,37,4,190,41,34,0,1,0,2017,misc
+ENG-Premier League,2017/18,Newcastle,Mikel Merino,ESP,MF,21,1996,15.0,4,0,0,30,30,0,4,37,44,0,0,0,2017,misc
+ENG-Premier League,2017/18,Newcastle,Mohamed Diamé,SEN,MF,30,1987,22.7,3,0,0,44,16,0,8,52,65,0,0,0,2017,misc
+ENG-Premier League,2017/18,Newcastle,Paul Dummett,WAL,DF,25,1991,17.8,1,0,0,8,12,0,22,28,18,0,1,0,2017,misc
+ENG-Premier League,2017/18,Newcastle,Rob Elliot,IRL,GK,31,1986,16.0,0,0,0,0,2,0,0,1,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Newcastle,Rolando Aarons,ENG,MF,21,1995,1.5,0,0,0,1,3,1,2,1,4,0,0,0,2017,misc
+ENG-Premier League,2017/18,Southampton,Alex McCarthy,ENG,GK,27,1989,18.0,2,0,0,0,1,0,0,1,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Southampton,Charlie Austin,ENG,FW,28,1989,11.5,2,0,0,16,16,14,3,2,7,0,0,0,2017,misc
+ENG-Premier League,2017/18,Southampton,Cédric Soares,POR,"DF,MF",25,1991,31.0,3,0,0,15,19,3,138,24,34,0,0,0,2017,misc
+ENG-Premier League,2017/18,Southampton,Dušan Tadić,SRB,MF,28,1988,31.0,4,0,0,46,52,11,120,19,32,0,0,0,2017,misc
+ENG-Premier League,2017/18,Southampton,Fraser Forster,ENG,GK,29,1988,20.0,0,0,0,0,1,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Southampton,Guido Carrillo,ARG,FW,26,1991,5.0,0,0,0,7,2,2,0,0,4,0,0,0,2017,misc
+ENG-Premier League,2017/18,Southampton,Jack Stephens,ENG,DF,23,1994,22.0,6,1,0,13,11,2,9,42,22,0,0,0,2017,misc
+ENG-Premier League,2017/18,Southampton,James Ward-Prowse,ENG,MF,22,1994,19.1,3,0,0,18,13,0,158,8,16,0,0,0,2017,misc
+ENG-Premier League,2017/18,Southampton,Jan Bednarek,POL,DF,21,1996,4.7,1,0,0,3,1,0,0,5,3,0,0,0,2017,misc
+ENG-Premier League,2017/18,Southampton,Josh Sims,ENG,MF,20,1997,1.8,0,0,0,1,1,2,3,1,3,0,0,0,2017,misc
+ENG-Premier League,2017/18,Southampton,Jérémy Pied,FRA,DF,28,1989,2.0,0,0,0,1,2,0,7,9,6,0,0,0,2017,misc
+ENG-Premier League,2017/18,Southampton,Manolo Gabbiadini,ITA,FW,25,1991,12.0,2,0,0,14,7,10,5,4,2,0,0,0,2017,misc
+ENG-Premier League,2017/18,Southampton,Mario Lemina,GAB,MF,23,1993,19.1,2,0,0,28,17,2,10,41,40,0,0,0,2017,misc
+ENG-Premier League,2017/18,Southampton,Matt Targett,ENG,DF,21,1995,1.8,0,0,0,1,3,0,8,4,4,0,0,0,2017,misc
+ENG-Premier League,2017/18,Southampton,Maya Yoshida,JPN,DF,28,1988,22.8,4,1,1,19,15,0,2,42,23,1,0,0,2017,misc
+ENG-Premier League,2017/18,Southampton,Michael Obafemi,IRL,FW,17,2000,0.1,0,0,0,0,0,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Southampton,Nathan Redmond,ENG,MF,23,1994,21.6,3,0,0,19,18,4,71,16,19,0,0,0,2017,misc
+ENG-Premier League,2017/18,Southampton,Oriol Romeu,ESP,MF,25,1991,32.2,11,0,0,53,37,3,6,70,63,0,0,0,2017,misc
+ENG-Premier League,2017/18,Southampton,Pierre Højbjerg,DEN,MF,21,1995,18.6,6,0,0,32,29,1,12,39,30,0,0,0,2017,misc
+ENG-Premier League,2017/18,Southampton,Ryan Bertrand,ENG,"DF,MF",27,1989,34.8,2,0,0,32,33,1,136,41,36,0,0,0,2017,misc
+ENG-Premier League,2017/18,Southampton,Sam McQueen,ENG,DF,22,1995,1.6,0,0,0,0,0,1,4,3,4,0,0,0,2017,misc
+ENG-Premier League,2017/18,Southampton,Shane Long,IRL,FW,30,1987,17.6,6,0,0,34,40,15,21,13,20,1,0,0,2017,misc
+ENG-Premier League,2017/18,Southampton,Sofiane Boufal,MAR,MF,23,1993,13.5,1,0,0,27,28,3,39,7,25,0,0,0,2017,misc
+ENG-Premier League,2017/18,Southampton,Steven Davis,NIR,MF,32,1985,16.9,0,0,0,8,9,3,42,16,23,1,0,0,2017,misc
+ENG-Premier League,2017/18,Southampton,Virgil van Dijk,NED,DF,26,1991,11.0,0,0,0,6,11,0,1,31,9,0,1,0,2017,misc
+ENG-Premier League,2017/18,Southampton,Wesley Hoedt,NED,DF,23,1994,28.0,7,0,0,22,16,0,6,42,52,0,1,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Badou Ndiaye,SEN,MF,26,1990,12.6,5,0,0,24,21,2,5,14,30,0,1,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Bojan Krkić,ESP,MF,26,1990,0.8,0,0,0,0,3,0,2,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Bruno Martins Indi,NED,DF,25,1992,13.8,3,0,0,12,6,1,4,19,11,0,1,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Charlie Adam,SCO,MF,31,1985,4.6,2,1,0,8,8,0,30,8,5,0,0,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Darren Fletcher,SCO,MF,33,1984,24.7,0,0,0,14,25,0,49,27,30,0,0,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Eric Maxim Choupo-Moting,CMR,"MF,FW",28,1989,25.7,3,0,0,22,24,14,38,23,32,0,0,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Erik Pieters,NED,"MF,DF",28,1988,30.2,5,0,0,58,29,2,64,70,47,0,1,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Geoff Cameron,USA,"MF,DF",32,1985,16.9,2,0,0,16,7,0,9,38,21,0,1,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Glen Johnson,ENG,"DF,MF",32,1984,6.1,3,0,0,6,5,0,8,8,6,0,0,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Ibrahim Afellay,NED,MF,31,1986,1.8,1,0,0,1,0,0,0,1,3,0,0,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Jack Butland,ENG,GK,24,1993,35.0,0,0,0,0,3,0,0,1,1,0,0,1,2017,misc
+ENG-Premier League,2017/18,Stoke City,Jesé,ESP,"FW,MF",24,1993,6.8,0,0,0,5,5,1,13,0,7,1,0,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Joe Allen,WAL,MF,27,1990,34.9,8,0,0,49,49,0,37,62,66,0,0,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Josh Tymon,ENG,DF,18,1999,1.8,0,0,0,0,0,0,4,1,1,0,0,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Julien Ngoy,BEL,"FW,MF",19,1997,0.2,0,0,0,0,0,0,0,0,1,0,0,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Kevin Wimmer,AUT,DF,24,1992,14.7,5,0,0,20,6,0,3,32,18,0,0,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Kostas Stafylidis,GRE,DF,23,1993,3.7,0,0,0,4,5,1,10,6,6,0,0,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Kurt Zouma,FRA,DF,22,1994,32.1,1,0,0,19,21,1,12,64,37,0,0,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Lasse Sørensen,DEN,MF,17,1999,0.8,0,0,0,0,0,0,1,1,2,0,0,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Lee Grant,ENG,GK,34,1983,3.0,0,0,0,0,0,0,0,0,1,0,0,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Mame Biram Diouf,SEN,"MF,FW",29,1987,28.8,6,0,0,38,39,23,35,16,35,0,0,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Moritz Bauer,AUT,"DF,MF",25,1992,14.5,4,0,0,19,20,1,40,10,20,0,0,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Peter Crouch,ENG,FW,36,1981,17.4,4,0,0,40,12,14,3,3,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Ramadan Sobhi,EGY,MF,20,1997,13.8,2,0,0,14,13,3,16,14,24,0,0,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Ryan Shawcross,ENG,DF,29,1987,26.3,2,0,0,26,19,4,3,42,22,0,1,1,2017,misc
+ENG-Premier League,2017/18,Stoke City,Saido Berahino,BDI,FW,23,1993,5.5,0,0,0,6,4,4,3,2,2,1,0,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Stephen Ireland,IRL,MF,30,1986,1.5,1,0,0,1,1,0,0,1,2,0,0,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Tom Edwards,ENG,"DF,MF",18,1999,5.3,0,0,0,3,2,0,15,9,10,0,0,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Tyrese Campbell,ENG,"FW,MF",17,1999,0.9,0,0,0,0,0,1,2,1,1,0,0,0,2017,misc
+ENG-Premier League,2017/18,Stoke City,Xherdan Shaqiri,SUI,"MF,FW",25,1991,33.8,5,0,0,28,50,15,200,18,20,0,0,0,2017,misc
+ENG-Premier League,2017/18,Swansea City,Alfie Mawson,ENG,DF,23,1994,38.0,3,0,0,19,11,1,3,43,24,0,0,0,2017,misc
+ENG-Premier League,2017/18,Swansea City,André Ayew,GHA,"FW,MF",27,1989,10.6,3,0,0,17,19,3,8,6,11,1,0,0,2017,misc
+ENG-Premier League,2017/18,Swansea City,Andy King,WAL,MF,28,1988,7.9,1,0,0,4,6,0,8,5,10,0,0,0,2017,misc
+ENG-Premier League,2017/18,Swansea City,Connor Roberts,WAL,MF,21,1995,3.0,0,0,0,0,7,0,13,3,4,0,0,0,2017,misc
+ENG-Premier League,2017/18,Swansea City,Federico Fernández,ARG,DF,28,1989,29.7,5,0,0,29,21,2,4,48,30,0,2,1,2017,misc
+ENG-Premier League,2017/18,Swansea City,Jay Fulton,SCO,MF,23,1994,0.2,1,0,0,2,0,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Swansea City,Jordan Ayew,GHA,"FW,MF",25,1991,31.7,2,1,0,63,88,8,45,26,60,0,0,0,2017,misc
+ENG-Premier League,2017/18,Swansea City,Ki Sung-yueng,KOR,MF,28,1989,20.8,2,0,0,11,17,1,62,36,19,0,0,0,2017,misc
+ENG-Premier League,2017/18,Swansea City,Kyle Bartley,ENG,DF,26,1991,2.6,2,0,0,5,1,0,0,3,2,0,0,0,2017,misc
+ENG-Premier League,2017/18,Swansea City,Kyle Naughton,ENG,"DF,MF",28,1988,33.7,1,0,0,31,25,0,61,69,61,0,0,1,2017,misc
+ENG-Premier League,2017/18,Swansea City,Leon Britton,ENG,MF,34,1982,3.4,1,0,0,7,1,0,1,2,5,0,0,0,2017,misc
+ENG-Premier League,2017/18,Swansea City,Leroy Fer,NED,MF,27,1990,15.5,5,0,0,28,28,1,9,14,32,0,0,0,2017,misc
+ENG-Premier League,2017/18,Swansea City,Luciano Narsingh,NED,"FW,MF",26,1990,6.9,0,0,0,3,11,4,23,3,5,0,0,0,2017,misc
+ENG-Premier League,2017/18,Swansea City,Martin Olsson,SWE,"DF,MF",29,1988,35.0,7,0,0,27,25,3,164,35,30,0,2,0,2017,misc
+ENG-Premier League,2017/18,Swansea City,Mike van der Hoorn,NED,DF,24,1992,21.6,4,0,0,22,18,0,8,40,22,0,1,0,2017,misc
+ENG-Premier League,2017/18,Swansea City,Nathan Dyer,ENG,"FW,MF",29,1987,14.5,2,0,0,17,20,1,31,16,14,0,1,0,2017,misc
+ENG-Premier League,2017/18,Swansea City,Oliver McBurnie,SCO,FW,21,1996,3.1,0,0,0,4,4,0,3,1,2,0,0,0,2017,misc
+ENG-Premier League,2017/18,Swansea City,Renato Sanches,POR,"MF,FW",19,1997,7.8,1,0,0,9,20,0,32,8,8,0,0,0,2017,misc
+ENG-Premier League,2017/18,Swansea City,Roque Mesa,ESP,MF,28,1989,8.4,3,0,0,14,10,0,2,13,14,0,1,0,2017,misc
+ENG-Premier League,2017/18,Swansea City,Sam Clucas,ENG,MF,26,1990,22.7,2,0,0,10,14,3,55,28,18,0,0,0,2017,misc
+ENG-Premier League,2017/18,Swansea City,Tammy Abraham,ENG,FW,19,1997,19.2,0,0,0,15,27,9,13,1,9,0,0,0,2017,misc
+ENG-Premier League,2017/18,Swansea City,Tom Carroll,ENG,MF,25,1992,28.6,3,0,0,23,17,1,128,34,35,0,0,0,2017,misc
+ENG-Premier League,2017/18,Swansea City,Wayne Routledge,ENG,"MF,FW",32,1985,4.8,1,0,0,9,0,0,15,3,6,0,0,0,2017,misc
+ENG-Premier League,2017/18,Swansea City,Wilfried Bony,CIV,FW,28,1988,7.9,2,0,0,7,11,2,1,2,4,0,0,0,2017,misc
+ENG-Premier League,2017/18,Swansea City,Àngel Rangel,ESP,DF,34,1982,1.7,0,0,0,1,0,0,6,3,2,0,0,0,2017,misc
+ENG-Premier League,2017/18,Swansea City,Łukasz Fabiański,POL,GK,32,1985,38.0,0,0,0,1,5,0,0,1,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Tottenham,Ben Davies,WAL,"DF,MF",24,1993,25.8,3,0,0,24,25,0,150,27,35,0,0,0,2017,misc
+ENG-Premier League,2017/18,Tottenham,Christian Eriksen,DEN,MF,25,1992,35.8,0,0,0,14,21,1,220,32,31,0,0,0,2017,misc
+ENG-Premier League,2017/18,Tottenham,Danny Rose,ENG,"DF,MF",27,1990,8.9,4,0,0,12,24,0,56,10,12,0,0,0,2017,misc
+ENG-Premier League,2017/18,Tottenham,Davinson Sánchez,COL,DF,21,1996,28.2,1,1,0,25,18,0,5,46,22,0,0,1,2017,misc
+ENG-Premier League,2017/18,Tottenham,Dele Alli,ENG,MF,21,1996,32.9,7,0,0,45,85,5,18,27,28,1,0,0,2017,misc
+ENG-Premier League,2017/18,Tottenham,Eric Dier,ENG,"MF,DF",23,1994,31.4,4,0,0,23,8,1,26,47,46,0,0,0,2017,misc
+ENG-Premier League,2017/18,Tottenham,Fernando Llorente,ESP,FW,32,1985,2.6,1,0,0,4,4,2,0,0,3,0,0,0,2017,misc
+ENG-Premier League,2017/18,Tottenham,Georges-Kévin N'Koudou,CMR,"FW,MF",22,1995,0.0,0,0,0,0,1,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Tottenham,Harry Kane,ENG,FW,24,1993,34.2,5,0,0,34,40,43,21,8,17,1,0,0,2017,misc
+ENG-Premier League,2017/18,Tottenham,Harry Winks,ENG,MF,21,1996,8.6,0,0,0,8,7,0,9,10,11,0,0,0,2017,misc
+ENG-Premier League,2017/18,Tottenham,Hugo Lloris,FRA,GK,30,1986,36.0,1,0,0,1,2,0,1,2,1,0,1,0,2017,misc
+ENG-Premier League,2017/18,Tottenham,Jan Vertonghen,BEL,DF,30,1987,35.6,4,0,0,20,25,1,19,62,46,0,1,0,2017,misc
+ENG-Premier League,2017/18,Tottenham,Kieran Trippier,ENG,"DF,MF",26,1990,21.3,1,0,0,18,21,3,120,22,30,0,0,0,2017,misc
+ENG-Premier League,2017/18,Tottenham,Kyle Walker-Peters,ENG,DF,20,1997,2.1,0,0,0,1,4,0,9,4,4,0,0,0,2017,misc
+ENG-Premier League,2017/18,Tottenham,Lucas Moura,BRA,MF,24,1992,2.3,0,0,0,4,7,0,1,3,2,0,0,0,2017,misc
+ENG-Premier League,2017/18,Tottenham,Michel Vorm,NED,GK,33,1983,1.0,0,0,0,0,0,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Tottenham,Mousa Dembélé,BEL,MF,30,1987,20.9,6,0,0,46,28,0,1,32,26,0,0,0,2017,misc
+ENG-Premier League,2017/18,Tottenham,Moussa Sissoko,FRA,MF,27,1989,15.6,3,0,0,23,10,3,20,10,16,0,0,0,2017,misc
+ENG-Premier League,2017/18,Tottenham,Paulo Gazzaniga,ARG,GK,25,1992,1.0,0,0,0,0,0,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Tottenham,Serge Aurier,CIV,"DF,MF",24,1992,15.9,3,2,1,21,16,2,69,32,29,0,1,0,2017,misc
+ENG-Premier League,2017/18,Tottenham,Son Heung-min,KOR,"MF,FW",25,1992,25.6,0,0,0,15,26,25,50,12,12,0,0,0,2017,misc
+ENG-Premier League,2017/18,Tottenham,Toby Alderweireld,BEL,DF,28,1989,13.1,3,0,0,8,2,0,7,4,13,0,0,0,2017,misc
+ENG-Premier League,2017/18,Tottenham,Victor Wanyama,KEN,MF,26,1991,9.4,2,0,0,13,9,0,3,11,23,0,0,0,2017,misc
+ENG-Premier League,2017/18,Tottenham,Vincent Janssen,NED,FW,23,1994,0.0,0,0,0,0,0,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Tottenham,Érik Lamela,ARG,MF,25,1992,9.4,4,0,0,24,16,3,26,10,14,1,0,0,2017,misc
+ENG-Premier League,2017/18,Watford,Abdoulaye Doucouré,MLI,MF,24,1993,36.9,10,0,0,44,27,2,27,59,51,0,1,0,2017,misc
+ENG-Premier League,2017/18,Watford,Adrian Mariappa,JAM,DF,30,1986,24.6,4,0,0,32,16,0,4,46,27,0,0,0,2017,misc
+ENG-Premier League,2017/18,Watford,Andre Gray,JAM,FW,26,1991,16.6,1,0,0,11,5,13,9,4,1,1,0,0,2017,misc
+ENG-Premier League,2017/18,Watford,André Carrillo,PER,"MF,FW",26,1991,17.1,2,0,0,14,15,5,55,15,23,0,0,0,2017,misc
+ENG-Premier League,2017/18,Watford,Ben Watson,ENG,MF,32,1985,5.1,1,0,0,11,5,0,4,7,8,0,0,0,2017,misc
+ENG-Premier League,2017/18,Watford,Christian Kabasele,BEL,DF,26,1991,25.9,5,0,0,31,16,0,2,36,32,0,1,1,2017,misc
+ENG-Premier League,2017/18,Watford,Craig Cathcart,NIR,DF,28,1989,5.8,1,0,0,2,1,0,0,4,6,0,0,0,2017,misc
+ENG-Premier League,2017/18,Watford,Daryl Janmaat,NED,"DF,MF",28,1989,20.2,3,0,0,14,4,1,68,34,32,0,0,0,2017,misc
+ENG-Premier League,2017/18,Watford,Dodi Lukebakio,BEL,"FW,MF",19,1997,0.2,0,0,0,0,0,0,2,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Watford,Gerard Deulofeu,ESP,"MF,FW",23,1994,4.8,0,0,0,3,5,1,15,6,4,1,0,0,2017,misc
+ENG-Premier League,2017/18,Watford,Heurelho Gomes,BRA,GK,36,1981,23.6,0,0,0,0,3,0,0,2,0,0,1,0,2017,misc
+ENG-Premier League,2017/18,Watford,Jerome Sinclair,ENG,FW,20,1996,0.3,0,0,0,1,0,0,0,1,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Watford,José Holebas,GRE,"DF,MF",33,1984,26.5,7,0,0,37,19,1,211,36,32,0,2,0,2017,misc
+ENG-Premier League,2017/18,Watford,Kiko Femenía,ESP,"MF,DF",26,1991,19.0,2,0,0,7,22,2,60,36,29,0,0,0,2017,misc
+ENG-Premier League,2017/18,Watford,Marvin Zeegelaar,NED,"MF,DF",26,1990,11.0,4,1,0,17,10,0,38,21,19,0,0,0,2017,misc
+ENG-Premier League,2017/18,Watford,Miguel Britos,URU,DF,32,1985,8.9,3,1,0,8,6,0,5,12,12,0,0,0,2017,misc
+ENG-Premier League,2017/18,Watford,Molla Wagué,MLI,DF,26,1991,4.9,0,0,0,5,1,0,1,7,3,0,1,0,2017,misc
+ENG-Premier League,2017/18,Watford,Nathaniel Chalobah,ENG,MF,22,1994,5.0,1,0,0,3,7,1,2,7,6,0,0,0,2017,misc
+ENG-Premier League,2017/18,Watford,Nordin Amrabat,MAR,FW,30,1987,2.2,0,0,0,6,2,2,9,0,4,0,0,0,2017,misc
+ENG-Premier League,2017/18,Watford,Orestis Karnezis,GRE,GK,32,1985,14.4,0,0,0,0,1,0,0,1,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,Watford,Richarlison,BRA,"MF,FW",20,1997,31.4,4,0,0,37,95,22,52,24,44,2,0,0,2017,misc
+ENG-Premier League,2017/18,Watford,Roberto Pereyra,ARG,"MF,FW",26,1991,18.0,3,0,0,18,27,2,48,12,10,2,0,0,2017,misc
+ENG-Premier League,2017/18,Watford,Sebastian Prödl,AUT,DF,30,1987,17.4,5,0,0,21,9,3,1,31,17,0,0,0,2017,misc
+ENG-Premier League,2017/18,Watford,Stefano Okaka,ITA,FW,27,1989,5.0,2,0,0,21,9,4,1,0,5,0,0,0,2017,misc
+ENG-Premier League,2017/18,Watford,Tom Cleverley,ENG,MF,27,1989,21.1,3,1,1,32,29,1,83,28,28,0,0,0,2017,misc
+ENG-Premier League,2017/18,Watford,Troy Deeney,ENG,FW,29,1988,20.5,1,1,0,24,18,16,8,5,15,0,0,0,2017,misc
+ENG-Premier League,2017/18,Watford,Will Hughes,ENG,MF,22,1995,11.0,0,0,0,19,21,1,11,15,19,0,0,0,2017,misc
+ENG-Premier League,2017/18,Watford,Younès Kaboul,FRA,DF,31,1986,1.7,0,0,0,1,0,0,0,2,2,0,0,0,2017,misc
+ENG-Premier League,2017/18,Watford,Étienne Capoue,FRA,MF,29,1988,17.1,3,0,0,21,16,1,4,40,27,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Brom,Ahmed Hegazi,EGY,DF,26,1991,37.6,4,0,0,25,15,2,10,63,38,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Brom,Allan Nyom,CMR,"DF,MF",29,1988,25.7,7,0,0,20,20,0,88,29,41,0,1,0,2017,misc
+ENG-Premier League,2017/18,West Brom,Ben Foster,ENG,GK,34,1983,37.0,2,0,0,1,4,0,0,2,1,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Brom,Boaz Myhill,WAL,GK,34,1982,1.0,1,0,0,1,0,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Brom,Chris Brunt,NIR,"MF,DF",32,1984,21.3,5,0,0,15,6,0,139,22,26,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Brom,Claudio Yacob,ARG,MF,30,1987,10.0,5,0,0,25,13,0,0,17,29,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Brom,Craig Dawson,ENG,DF,27,1990,27.9,6,0,0,35,23,3,42,52,30,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Brom,Daniel Sturridge,ENG,FW,27,1989,1.3,0,0,0,0,1,1,3,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Brom,Gareth Barry,ENG,MF,36,1981,21.4,4,0,0,28,29,1,29,20,22,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Brom,Gareth McAuley,NIR,DF,37,1979,5.1,0,0,0,2,2,0,1,11,7,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Brom,Grzegorz Krychowiak,POL,MF,27,1990,18.2,2,0,0,31,39,1,20,47,25,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Brom,Hal Robson-Kanu,WAL,FW,28,1989,9.2,2,1,0,20,25,6,20,5,4,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Brom,Jake Livermore,ENG,MF,27,1989,29.7,5,0,0,42,14,1,19,29,45,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Brom,James McClean,IRL,"MF,FW",28,1989,15.6,7,0,0,35,13,5,88,20,27,0,0,1,2017,misc
+ENG-Premier League,2017/18,West Brom,James Morrison,SCO,MF,31,1986,2.3,0,0,0,0,1,0,2,1,1,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Brom,Jay Rodriguez,ENG,"FW,MF",28,1989,31.2,2,0,0,43,29,18,30,19,24,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Brom,Jonny Evans,NIR,DF,29,1988,25.2,7,0,0,26,27,0,5,52,22,0,0,1,2017,misc
+ENG-Premier League,2017/18,West Brom,Kieran Gibbs,ENG,"DF,MF",27,1989,31.4,3,0,0,22,11,1,73,48,28,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Brom,Matt Phillips,SCO,MF,26,1991,23.3,3,0,0,14,13,11,165,25,16,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Brom,Nacer Chadli,BEL,"MF,FW",27,1989,2.4,1,0,0,1,0,0,7,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Brom,Oliver Burke,SCO,FW,20,1997,4.1,0,0,0,2,5,1,8,7,4,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Brom,Rekeem Harper,ENG,MF,17,2000,0.2,0,0,0,0,0,0,0,0,1,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Brom,Salomón Rondón,VEN,FW,27,1989,30.7,4,0,0,41,58,29,35,17,11,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Brom,Sam Field,ENG,MF,19,1998,6.0,3,0,0,11,7,0,9,9,10,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Ham,Aaron Cresswell,ENG,"DF,MF",27,1989,34.1,7,0,0,20,16,3,193,49,23,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Ham,Adrián,ESP,GK,30,1987,19.0,2,0,0,0,3,0,0,1,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Ham,André Ayew,GHA,"MF,FW",27,1989,9.9,2,0,0,7,17,3,8,5,14,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Ham,Andy Carroll,ENG,FW,28,1989,8.3,7,1,1,28,14,6,10,2,3,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Ham,Angelo Ogbonna,ITA,DF,29,1988,32.0,3,0,0,15,17,1,2,62,25,0,1,0,2017,misc
+ENG-Premier League,2017/18,West Ham,Arthur Masuaku,COD,"MF,DF",23,1993,20.8,5,0,0,30,30,2,100,27,34,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Ham,Cheikhou Kouyaté,SEN,MF,27,1989,31.1,5,0,0,45,42,6,18,33,51,0,1,0,2017,misc
+ENG-Premier League,2017/18,West Ham,Declan Rice,ENG,"DF,MF",18,1999,15.9,1,0,0,5,2,0,5,28,23,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Ham,Diafra Sakho,SEN,FW,27,1989,3.4,2,0,0,4,6,5,5,1,2,1,0,0,2017,misc
+ENG-Premier League,2017/18,West Ham,Edimilson Fernandes,SUI,MF,21,1996,9.4,1,0,0,5,11,0,7,18,10,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Ham,James Collins,WAL,DF,33,1983,11.7,3,0,0,13,2,0,3,18,9,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Ham,Javier Hernández,MEX,FW,29,1988,17.2,3,0,0,15,49,14,18,7,6,1,0,0,2017,misc
+ENG-Premier League,2017/18,West Ham,Joe Hart,ENG,GK,30,1987,19.0,0,0,0,0,1,0,0,0,1,0,1,0,2017,misc
+ENG-Premier League,2017/18,West Ham,Jordan Hugill,ENG,FW,25,1992,0.3,0,0,0,3,1,0,0,0,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Ham,Josh Cullen,IRL,"DF,MF",21,1996,0.1,0,0,0,0,0,0,0,2,0,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Ham,José Fonte,POR,DF,33,1983,7.6,0,0,0,6,6,0,3,14,7,0,1,0,2017,misc
+ENG-Premier League,2017/18,West Ham,João Mário,POR,MF,24,1993,11.4,0,0,0,14,20,0,50,10,10,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Ham,Manuel Lanzini,ARG,"MF,FW",24,1993,22.7,4,0,0,9,35,3,83,30,12,1,0,0,2017,misc
+ENG-Premier League,2017/18,West Ham,Mark Noble,ENG,MF,30,1987,26.7,6,0,0,28,46,2,23,54,39,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Ham,Marko Arnautović,AUT,"FW,MF",28,1989,25.7,5,1,0,35,29,43,60,16,18,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Ham,Michail Antonio,JAM,"MF,FW",27,1990,15.0,1,0,0,17,30,7,55,13,9,1,0,0,2017,misc
+ENG-Premier League,2017/18,West Ham,Pablo Zabaleta,ARG,"MF,DF",32,1985,36.5,9,0,0,33,34,1,71,72,66,0,3,1,2017,misc
+ENG-Premier League,2017/18,West Ham,Patrice Evra,FRA,"DF,MF",36,1981,2.5,0,0,0,1,2,1,2,7,4,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Ham,Pedro Obiang,EQG,MF,25,1992,17.4,3,0,0,27,25,0,8,24,31,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Ham,Reece Oxford,ENG,DF,18,1998,0.1,0,0,0,0,0,0,0,0,1,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Ham,Sam Byram,ENG,MF,23,1993,2.8,1,0,0,4,1,1,10,9,6,0,0,0,2017,misc
+ENG-Premier League,2017/18,West Ham,Winston Reid,NZL,DF,29,1988,16.1,5,0,0,14,15,0,1,23,10,0,0,0,2017,misc

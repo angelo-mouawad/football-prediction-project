@@ -1,0 +1,533 @@
+league,season,team,player,nation,pos,age,born,90s,Standard_Gls,Standard_Sh,Standard_SoT,Standard_SoT%,Standard_Sh/90,Standard_SoT/90,Standard_G/Sh,Standard_G/SoT,Standard_PK,Standard_PKatt,season_start,stat_type
+ENG-Premier League,2020/21,Arsenal,Ainsley Maitland-Niles,ENG,"MF,DF",22,1997,5.4,0,2,1,50.0,0.37,0.18,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Arsenal,Alexandre Lacazette,FRA,FW,29,1991,21.4,13,45,29,64.4,2.11,1.36,0.29,0.45,3,3,2020,shooting
+ENG-Premier League,2020/21,Arsenal,Bernd Leno,GER,GK,28,1992,34.8,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Arsenal,Bukayo Saka,ENG,MF,18,2001,28.4,5,61,20,32.8,2.15,0.71,0.08,0.25,0,0,2020,shooting
+ENG-Premier League,2020/21,Arsenal,Calum Chambers,ENG,DF,25,1995,8.4,0,8,0,0.0,0.96,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Arsenal,Cédric Soares,POR,DF,28,1991,8.3,0,7,2,28.6,0.84,0.24,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Arsenal,Dani Ceballos,ESP,MF,23,1996,17.9,0,13,2,15.4,0.72,0.11,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Arsenal,David Luiz,BRA,DF,33,1987,15.5,1,15,2,13.3,0.97,0.13,0.07,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Arsenal,Eddie Nketiah,ENG,FW,21,1999,4.7,2,12,5,41.7,2.55,1.06,0.17,0.4,0,0,2020,shooting
+ENG-Premier League,2020/21,Arsenal,Emile Smith Rowe,ENG,MF,20,2000,16.0,2,13,6,46.2,0.81,0.37,0.15,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,Arsenal,Gabriel Magalhães,BRA,DF,22,1997,22.2,2,16,4,25.0,0.72,0.18,0.13,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Arsenal,Gabriel Martinelli,BRA,"MF,FW",19,2001,6.5,2,20,8,40.0,3.06,1.22,0.1,0.25,0,0,2020,shooting
+ENG-Premier League,2020/21,Arsenal,Granit Xhaka,SUI,"MF,DF",27,1992,28.0,1,21,7,33.3,0.75,0.25,0.05,0.14,0,0,2020,shooting
+ENG-Premier League,2020/21,Arsenal,Héctor Bellerín,ESP,"DF,MF",25,1995,23.2,1,15,5,33.3,0.65,0.22,0.07,0.2,0,0,2020,shooting
+ENG-Premier League,2020/21,Arsenal,Joe Willock,ENG,MF,20,1999,2.6,0,4,1,25.0,1.51,0.38,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Arsenal,Kieran Tierney,SCO,DF,23,1997,25.5,1,15,3,20.0,0.59,0.12,0.07,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,Arsenal,Martin Ødegaard,NOR,MF,21,1998,9.6,1,15,3,20.0,1.56,0.31,0.07,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,Arsenal,Mathew Ryan,AUS,GK,28,1992,3.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Arsenal,Mohamed Elneny,EGY,MF,28,1992,17.2,1,9,3,33.3,0.52,0.17,0.11,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,Arsenal,Nicolas Pépé,CIV,"MF,FW",25,1995,18.0,10,48,21,43.8,2.67,1.17,0.21,0.48,1,1,2020,shooting
+ENG-Premier League,2020/21,Arsenal,Pablo Marí,ESP,DF,26,1993,10.0,0,2,0,0.0,0.2,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Arsenal,Pierre-Emerick Aubameyang,GAB,"FW,MF",31,1989,25.9,10,57,22,38.6,2.2,0.85,0.18,0.45,2,2,2020,shooting
+ENG-Premier League,2020/21,Arsenal,Reiss Nelson,ENG,"FW,MF",20,1999,0.8,0,1,0,0.0,1.27,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Arsenal,Rob Holding,ENG,DF,24,1995,28.4,0,14,3,21.4,0.49,0.11,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Arsenal,Rúnar Alex Rúnarsson,ISL,GK,25,1995,0.2,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Arsenal,Sead Kolašinac,BIH,DF,27,1993,1.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Arsenal,Shkodran Mustafi,GER,DF,28,1992,0.5,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Arsenal,Thomas Partey,GHA,MF,27,1993,17.0,0,26,4,15.4,1.53,0.23,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Arsenal,Willian,BRA,"MF,FW",31,1988,15.6,1,20,3,15.0,1.28,0.19,0.05,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,Aston Villa,Ahmed Elmohamady,EGY,DF,32,1987,9.3,0,9,1,11.1,0.97,0.11,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Aston Villa,Anwar El Ghazi,NED,"MF,FW",25,1995,17.9,10,64,30,46.9,3.57,1.67,0.16,0.33,4,4,2020,shooting
+ENG-Premier League,2020/21,Aston Villa,Bertrand Traoré,BFA,"MF,FW",24,1995,25.7,7,64,24,37.5,2.49,0.93,0.11,0.29,0,0,2020,shooting
+ENG-Premier League,2020/21,Aston Villa,Carney Chukwuemeka,AUT,MF,16,2003,0.2,0,1,0,0.0,4.5,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Aston Villa,Conor Hourihane,IRL,MF,29,1991,2.5,1,5,2,40.0,2.0,0.8,0.2,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Aston Villa,Douglas Luiz,BRA,MF,22,1998,30.9,0,26,8,30.8,0.84,0.26,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Aston Villa,Emiliano Martínez,ARG,GK,27,1992,38.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Aston Villa,Ezri Konsa,ENG,DF,22,1997,35.5,2,23,8,34.8,0.65,0.23,0.09,0.25,0,0,2020,shooting
+ENG-Premier League,2020/21,Aston Villa,Jack Grealish,ENG,"MF,FW",24,1995,24.3,6,50,19,38.0,2.06,0.78,0.12,0.32,0,0,2020,shooting
+ENG-Premier League,2020/21,Aston Villa,Jacob Ramsey,ENG,MF,19,2001,7.0,0,11,1,9.1,1.58,0.14,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Aston Villa,Jaden Philogene Bidace,ENG,"FW,MF",18,2002,0.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Aston Villa,John McGinn,SCO,MF,25,1994,37.0,3,46,12,26.1,1.24,0.32,0.07,0.25,0,0,2020,shooting
+ENG-Premier League,2020/21,Aston Villa,Keinan Davis,ENG,FW,22,1998,3.1,1,9,2,22.2,2.92,0.65,0.11,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Aston Villa,Kortney Hause,ENG,DF,25,1995,7.0,1,5,2,40.0,0.71,0.29,0.2,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Aston Villa,Marvelous Nakamba,ZIM,MF,26,1994,8.3,0,2,1,50.0,0.24,0.12,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Aston Villa,Matt Targett,ENG,DF,24,1995,37.8,0,6,2,33.3,0.16,0.05,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Aston Villa,Matty Cash,POL,DF,22,1997,26.4,0,9,2,22.2,0.34,0.08,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Aston Villa,Morgan Sanson,FRA,MF,25,1994,3.3,0,2,0,0.0,0.61,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Aston Villa,Neil Taylor,WAL,"DF,MF",31,1989,0.2,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Aston Villa,Ollie Watkins,ENG,FW,24,1995,37.0,14,98,47,48.0,2.65,1.27,0.14,0.3,1,2,2020,shooting
+ENG-Premier League,2020/21,Aston Villa,Ross Barkley,ENG,MF,26,1993,17.0,3,38,11,28.9,2.23,0.65,0.08,0.27,0,0,2020,shooting
+ENG-Premier League,2020/21,Aston Villa,Trézéguet,EGY,"MF,FW",25,1994,13.0,2,35,12,34.3,2.7,0.93,0.06,0.17,0,0,2020,shooting
+ENG-Premier League,2020/21,Aston Villa,Tyrone Mings,ENG,DF,27,1993,35.5,2,19,7,36.8,0.54,0.2,0.11,0.29,0,0,2020,shooting
+ENG-Premier League,2020/21,Aston Villa,Wesley Moraes,BRA,FW,23,1996,0.2,0,1,1,100.0,5.0,5.0,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Brighton,Aaron Connolly,IRL,"FW,MF",20,2000,8.8,2,23,9,39.1,2.62,1.02,0.09,0.22,0,0,2020,shooting
+ENG-Premier League,2020/21,Brighton,Adam Lallana,ENG,"MF,FW",32,1988,17.7,1,22,5,22.7,1.24,0.28,0.05,0.2,0,0,2020,shooting
+ENG-Premier League,2020/21,Brighton,Adam Webster,ENG,DF,25,1995,28.8,1,25,7,28.0,0.87,0.24,0.04,0.14,0,0,2020,shooting
+ENG-Premier League,2020/21,Brighton,Alexis Mac Allister,ARG,"MF,FW",21,1998,12.4,1,24,3,12.5,1.94,0.24,0.04,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,Brighton,Alireza Jahanbakhsh,IRN,"MF,FW",26,1993,5.9,0,18,3,16.7,3.07,0.51,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Brighton,Andi Zeqiri,SUI,FW,21,1999,1.9,0,7,2,28.6,3.68,1.05,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Brighton,Ben White,ENG,"DF,MF",22,1997,35.5,0,10,1,10.0,0.28,0.03,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Brighton,Bernardo,BRA,MF,25,1995,2.3,0,4,0,0.0,1.75,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Brighton,Dan Burn,ENG,"DF,MF",28,1992,22.9,1,17,6,35.3,0.74,0.26,0.06,0.17,0,0,2020,shooting
+ENG-Premier League,2020/21,Brighton,Danny Welbeck,ENG,FW,29,1990,17.2,6,35,15,42.9,2.04,0.87,0.17,0.4,0,1,2020,shooting
+ENG-Premier League,2020/21,Brighton,Davy Pröpper,NED,MF,28,1991,2.4,0,4,2,50.0,1.69,0.85,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Brighton,Jakub Moder,POL,MF,21,1999,7.2,0,13,3,23.1,1.81,0.42,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Brighton,Jayson Molumby,IRL,MF,20,1999,0.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Brighton,José Izquierdo,COL,"FW,MF",28,1992,0.1,0,1,1,100.0,10.0,10.0,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Brighton,Joël Veltman,NED,"DF,MF",28,1992,25.3,1,14,4,28.6,0.55,0.16,0.07,0.25,0,0,2020,shooting
+ENG-Premier League,2020/21,Brighton,Leandro Trossard,BEL,"MF,FW",25,1994,29.0,5,58,23,39.7,2.0,0.79,0.09,0.22,0,0,2020,shooting
+ENG-Premier League,2020/21,Brighton,Lewis Dunk,ENG,DF,28,1991,32.6,5,32,15,46.9,0.98,0.46,0.16,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,Brighton,Mathew Ryan,AUS,GK,28,1992,11.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Brighton,Neal Maupay,FRA,"FW,MF",23,1996,27.9,8,71,26,36.6,2.54,0.93,0.11,0.31,3,4,2020,shooting
+ENG-Premier League,2020/21,Brighton,Pascal Groß,GER,MF,29,1991,27.6,3,32,7,21.9,1.16,0.25,0.09,0.43,3,4,2020,shooting
+ENG-Premier League,2020/21,Brighton,Percy Tau,RSA,MF,26,1994,1.1,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Brighton,Reda Khadra,GER,"FW,MF",19,2001,0.1,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Brighton,Robert Sánchez,ESP,GK,22,1997,27.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Brighton,Solly March,ENG,MF,26,1994,18.6,2,22,4,18.2,1.18,0.22,0.09,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Brighton,Steven Alzate,COL,MF,21,1998,10.0,1,7,2,28.6,0.7,0.2,0.14,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Brighton,Tariq Lamptey,GHA,MF,19,2000,9.8,1,6,2,33.3,0.61,0.2,0.17,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Brighton,Yves Bissouma,MLI,MF,23,1996,34.6,1,42,3,7.1,1.22,0.09,0.02,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,Burnley,Ashley Barnes,ENG,FW,30,1989,14.8,3,39,13,33.3,2.64,0.88,0.08,0.23,1,1,2020,shooting
+ENG-Premier League,2020/21,Burnley,Ashley Westwood,ENG,MF,30,1990,37.9,3,20,7,35.0,0.53,0.18,0.15,0.43,0,0,2020,shooting
+ENG-Premier League,2020/21,Burnley,Bailey Peacock-Farrell,NIR,GK,23,1996,4.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Burnley,Ben Mee,ENG,DF,30,1989,29.9,2,23,7,30.4,0.77,0.23,0.09,0.29,0,0,2020,shooting
+ENG-Premier League,2020/21,Burnley,Charlie Taylor,ENG,DF,26,1993,27.0,0,3,2,66.7,0.11,0.07,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Burnley,Chris Wood,NZL,FW,28,1991,30.5,12,70,40,57.1,2.3,1.31,0.17,0.3,2,2,2020,shooting
+ENG-Premier League,2020/21,Burnley,Dale Stephens,ENG,MF,31,1989,2.9,0,3,1,33.3,1.03,0.34,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Burnley,Dwight McNeil,ENG,MF,20,1999,34.1,2,26,10,38.5,0.76,0.29,0.08,0.2,0,0,2020,shooting
+ENG-Premier League,2020/21,Burnley,Erik Pieters,NED,"DF,MF",31,1988,14.1,0,4,3,75.0,0.28,0.21,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Burnley,Jack Cork,ENG,MF,31,1989,15.0,0,5,0,0.0,0.33,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Burnley,James Tarkowski,ENG,DF,27,1992,36.0,1,23,7,30.4,0.64,0.19,0.04,0.14,0,0,2020,shooting
+ENG-Premier League,2020/21,Burnley,Jay Rodriguez,ENG,"FW,MF",31,1989,14.1,1,31,10,32.3,2.21,0.71,0.03,0.1,0,0,2020,shooting
+ENG-Premier League,2020/21,Burnley,Jimmy Dunne,IRL,DF,22,1997,3.0,1,7,1,14.3,2.33,0.33,0.14,1.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Burnley,Joel Mumbongo,SWE,FW,21,1999,0.4,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Burnley,Josh Benson,ENG,MF,20,1999,2.9,0,2,0,0.0,0.68,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Burnley,Josh Brownhill,ENG,MF,24,1995,31.3,0,34,7,20.6,1.09,0.22,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Burnley,Jóhann Berg Guðmundsson,ISL,MF,29,1990,15.1,2,19,8,42.1,1.25,0.53,0.11,0.25,0,0,2020,shooting
+ENG-Premier League,2020/21,Burnley,Kevin Long,IRL,DF,29,1990,7.1,0,2,0,0.0,0.28,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Burnley,Lewis Richardson,ENG,"FW,MF",17,2003,0.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Burnley,Matthew Lowton,ENG,DF,31,1989,34.0,1,21,4,19.0,0.62,0.12,0.05,0.25,0,0,2020,shooting
+ENG-Premier League,2020/21,Burnley,Matěj Vydra,CZE,FW,28,1992,15.2,3,35,10,28.6,2.3,0.66,0.09,0.3,0,0,2020,shooting
+ENG-Premier League,2020/21,Burnley,Nick Pope,ENG,GK,28,1992,32.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Burnley,Phil Bardsley,SCO,DF,35,1985,3.0,0,3,0,0.0,0.99,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Burnley,Robbie Brady,IRL,MF,28,1992,11.7,1,16,5,31.3,1.37,0.43,0.06,0.2,0,0,2020,shooting
+ENG-Premier League,2020/21,Burnley,Will Norris,ENG,GK,26,1993,2.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Chelsea,Andreas Christensen,DEN,DF,24,1996,15.2,0,3,0,0.0,0.2,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Chelsea,Antonio Rüdiger,GER,DF,27,1993,19.0,1,14,7,50.0,0.74,0.37,0.07,0.14,0,0,2020,shooting
+ENG-Premier League,2020/21,Chelsea,Ben Chilwell,ENG,"DF,MF",23,1996,25.4,3,27,10,37.0,1.06,0.39,0.11,0.3,0,0,2020,shooting
+ENG-Premier League,2020/21,Chelsea,Billy Gilmour,SCO,MF,19,2001,2.9,0,1,0,0.0,0.34,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Chelsea,Callum Hudson-Odoi,ENG,"MF,FW",19,2000,11.8,2,23,7,30.4,1.95,0.59,0.09,0.29,0,0,2020,shooting
+ENG-Premier League,2020/21,Chelsea,Christian Pulisic,USA,"MF,FW",21,1998,19.3,4,43,16,37.2,2.23,0.83,0.09,0.25,0,0,2020,shooting
+ENG-Premier League,2020/21,Chelsea,César Azpilicueta,ESP,"DF,MF",30,1989,24.3,1,11,4,36.4,0.45,0.16,0.09,0.25,0,0,2020,shooting
+ENG-Premier League,2020/21,Chelsea,Emerson Palmieri,ITA,"DF,MF",25,1994,1.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Chelsea,Fikayo Tomori,ENG,DF,22,1997,0.5,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Chelsea,Hakim Ziyech,MAR,"FW,MF",27,1993,13.0,2,35,13,37.1,2.69,1.0,0.06,0.15,0,0,2020,shooting
+ENG-Premier League,2020/21,Chelsea,Jorginho,ITA,MF,28,1991,22.3,7,14,9,64.3,0.63,0.4,0.5,0.78,7,9,2020,shooting
+ENG-Premier League,2020/21,Chelsea,Kai Havertz,GER,"MF,FW",21,1999,16.9,4,35,17,48.6,2.07,1.01,0.11,0.24,0,0,2020,shooting
+ENG-Premier League,2020/21,Chelsea,Kepa Arrizabalaga,ESP,GK,25,1994,6.5,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Chelsea,Kurt Zouma,FRA,DF,25,1994,22.5,5,27,12,44.4,1.2,0.53,0.19,0.42,0,0,2020,shooting
+ENG-Premier League,2020/21,Chelsea,Marcos Alonso,ESP,"MF,DF",29,1990,10.7,2,22,10,45.5,2.06,0.94,0.09,0.2,0,0,2020,shooting
+ENG-Premier League,2020/21,Chelsea,Mason Mount,ENG,MF,21,1999,32.1,6,82,27,32.9,2.55,0.84,0.07,0.22,1,1,2020,shooting
+ENG-Premier League,2020/21,Chelsea,Mateo Kovačić,CRO,MF,26,1994,20.2,0,23,4,17.4,1.14,0.2,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Chelsea,N'Golo Kanté,FRA,MF,29,1991,23.8,0,10,3,30.0,0.42,0.13,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Chelsea,Olivier Giroud,FRA,FW,33,1986,8.3,4,29,10,34.5,3.49,1.2,0.14,0.4,0,0,2020,shooting
+ENG-Premier League,2020/21,Chelsea,Reece James,ENG,"DF,MF",20,1999,26.4,1,36,12,33.3,1.37,0.46,0.03,0.08,0,0,2020,shooting
+ENG-Premier League,2020/21,Chelsea,Ross Barkley,ENG,MF,26,1993,0.5,0,1,1,100.0,2.14,2.14,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Chelsea,Ruben Loftus-Cheek,ENG,FW,24,1996,0.7,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Chelsea,Tammy Abraham,ENG,FW,22,1997,11.6,6,32,13,40.6,2.77,1.13,0.19,0.46,0,0,2020,shooting
+ENG-Premier League,2020/21,Chelsea,Thiago Silva,BRA,DF,35,1984,21.5,2,13,4,30.8,0.6,0.19,0.15,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Chelsea,Timo Werner,GER,"FW,MF",24,1996,28.9,6,80,32,40.0,2.77,1.11,0.08,0.19,0,0,2020,shooting
+ENG-Premier League,2020/21,Chelsea,Willy Caballero,ARG,GK,38,1981,1.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Chelsea,Édouard Mendy,SEN,GK,28,1992,30.5,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Crystal Palace,Andros Townsend,ENG,"MF,FW",29,1991,25.1,1,36,11,30.6,1.43,0.44,0.03,0.09,0,0,2020,shooting
+ENG-Premier League,2020/21,Crystal Palace,Cheikhou Kouyaté,SEN,DF,30,1989,34.7,1,7,3,42.9,0.2,0.09,0.14,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,Crystal Palace,Christian Benteke,BEL,FW,29,1990,20.2,10,71,33,46.5,3.52,1.64,0.14,0.3,0,0,2020,shooting
+ENG-Premier League,2020/21,Crystal Palace,Eberechi Eze,ENG,MF,22,1998,28.4,4,37,13,35.1,1.3,0.46,0.11,0.31,0,0,2020,shooting
+ENG-Premier League,2020/21,Crystal Palace,Gary Cahill,ENG,DF,34,1985,20.0,1,12,3,25.0,0.6,0.15,0.08,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,Crystal Palace,Jack Butland,ENG,GK,27,1993,1.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Crystal Palace,James McArthur,SCO,MF,32,1987,16.3,0,6,0,0.0,0.37,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Crystal Palace,James McCarthy,IRL,MF,29,1990,9.1,0,1,0,0.0,0.11,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Crystal Palace,James Tomkins,ENG,DF,31,1989,6.1,0,2,1,50.0,0.33,0.16,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Crystal Palace,Jaïro Riedewald,NED,MF,23,1996,20.2,2,8,2,25.0,0.4,0.1,0.25,1.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Crystal Palace,Jean-Philippe Mateta,FRA,FW,23,1997,2.5,1,4,2,50.0,1.63,0.81,0.25,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Crystal Palace,Jeffrey Schlupp,GHA,MF,27,1992,15.9,2,18,10,55.6,1.13,0.63,0.11,0.2,0,0,2020,shooting
+ENG-Premier League,2020/21,Crystal Palace,Joel Ward,ENG,DF,30,1989,25.1,0,2,1,50.0,0.08,0.04,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Crystal Palace,Jordan Ayew,GHA,"FW,MF",28,1991,23.3,1,26,11,42.3,1.12,0.47,0.04,0.09,0,0,2020,shooting
+ENG-Premier League,2020/21,Crystal Palace,Luka Milivojević,SRB,MF,29,1991,26.2,1,19,7,36.8,0.72,0.27,0.05,0.14,1,2,2020,shooting
+ENG-Premier League,2020/21,Crystal Palace,Mamadou Sakho,FRA,DF,30,1990,3.1,0,1,0,0.0,0.33,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Crystal Palace,Martin Kelly,ENG,"DF,MF",30,1990,0.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Crystal Palace,Michy Batshuayi,BEL,FW,26,1993,8.1,2,12,6,50.0,1.48,0.74,0.17,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,Crystal Palace,Nathaniel Clyne,ENG,DF,29,1991,12.7,0,4,1,25.0,0.31,0.08,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Crystal Palace,Patrick van Aanholt,NED,DF,29,1990,19.7,0,18,5,27.8,0.91,0.25,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Crystal Palace,Scott Dann,ENG,DF,33,1987,15.0,1,5,1,20.0,0.33,0.07,0.2,1.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Crystal Palace,Tyrick Mitchell,ENG,DF,20,1999,19.0,1,2,2,100.0,0.11,0.11,0.5,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Crystal Palace,Vicente Guaita,ESP,GK,33,1987,37.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Crystal Palace,Wilfried Zaha,CIV,FW,27,1992,29.0,11,60,20,33.3,2.07,0.69,0.18,0.55,2,2,2020,shooting
+ENG-Premier League,2020/21,Everton,Abdoulaye Doucouré,MLI,MF,27,1993,27.1,2,18,5,27.8,0.66,0.18,0.11,0.4,0,0,2020,shooting
+ENG-Premier League,2020/21,Everton,Alex Iwobi,NGA,"MF,FW",24,1996,17.1,1,16,3,18.8,0.93,0.18,0.06,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,Everton,Allan,BRA,MF,29,1991,22.8,0,7,2,28.6,0.31,0.09,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Everton,André Gomes,POR,MF,27,1993,17.4,0,14,3,21.4,0.8,0.17,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Everton,Anthony Gordon,ENG,MF,19,2001,1.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Everton,Ben Godfrey,ENG,DF,22,1998,29.8,0,14,2,14.3,0.47,0.07,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Everton,Bernard,BRA,"MF,FW",27,1992,5.1,1,6,2,33.3,1.19,0.4,0.17,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Everton,Cenk Tosun,TUR,"FW,MF",29,1991,0.5,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Everton,Dominic Calvert-Lewin,ENG,FW,23,1997,31.9,16,83,47,56.6,2.6,1.47,0.19,0.34,0,0,2020,shooting
+ENG-Premier League,2020/21,Everton,Fabian Delph,ENG,MF,30,1989,3.0,0,1,0,0.0,0.34,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Everton,Gylfi Sigurðsson,ISL,"MF,FW",30,1989,25.0,6,49,17,34.7,1.96,0.68,0.12,0.35,3,4,2020,shooting
+ENG-Premier League,2020/21,Everton,James Rodríguez,COL,"FW,MF",29,1991,19.6,6,37,18,48.6,1.89,0.92,0.16,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,Everton,Jean-Philippe Gbamin,CIV,"DF,MF",24,1995,0.1,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Everton,Jonjoe Kenny,ENG,DF,23,1997,0.9,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Everton,Jordan Pickford,ENG,GK,26,1994,30.5,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Everton,Joshua King,NOR,"FW,MF",28,1992,1.6,0,3,1,33.3,1.82,0.61,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Everton,João Virgínia,POR,GK,20,1999,0.5,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Everton,Lucas Digne,FRA,"DF,MF",27,1993,29.8,0,13,0,0.0,0.44,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Everton,Mason Holgate,JAM,DF,23,1996,25.4,1,5,3,60.0,0.2,0.12,0.2,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,Everton,Michael Keane,ENG,DF,27,1993,33.2,3,16,6,37.5,0.48,0.18,0.19,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Everton,Moise Kean,ITA,FW,20,2000,0.2,0,1,0,0.0,6.0,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Everton,Nathan Broadhead,WAL,"FW,MF",22,1998,0.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Everton,Niels Nkounkou,FRA,DF,19,2000,0.9,0,1,0,0.0,1.11,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Everton,Richarlison,BRA,"FW,MF",23,1997,31.8,7,81,32,39.5,2.55,1.01,0.09,0.22,1,1,2020,shooting
+ENG-Premier League,2020/21,Everton,Robin Olsen,SWE,GK,30,1990,7.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Everton,Séamus Coleman,IRL,"DF,MF",31,1988,17.9,0,12,4,33.3,0.67,0.22,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Everton,Theo Walcott,ENG,"FW,MF",31,1989,0.1,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Everton,Tom Davies,ENG,MF,22,1998,15.8,0,7,0,0.0,0.44,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Everton,Yerry Mina,COL,DF,25,1994,21.5,2,17,4,23.5,0.79,0.19,0.12,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Fulham,Aboubakar Kamara,MTN,"MF,FW",25,1995,3.5,0,4,2,50.0,1.14,0.57,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Fulham,Ademola Lookman,NGA,"MF,FW",22,1997,30.5,4,70,23,32.9,2.29,0.75,0.06,0.17,0,1,2020,shooting
+ENG-Premier League,2020/21,Fulham,Aleksandar Mitrović,SRB,FW,25,1994,15.6,3,59,20,33.9,3.79,1.28,0.05,0.15,1,2,2020,shooting
+ENG-Premier League,2020/21,Fulham,Alphonse Areola,FRA,GK,27,1993,36.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Fulham,Antonee Robinson,USA,"DF,MF",22,1997,24.0,0,10,4,40.0,0.42,0.17,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Fulham,Bobby De Cordova-Reid,JAM,"MF,FW",27,1993,26.4,5,34,9,26.5,1.29,0.34,0.15,0.56,0,0,2020,shooting
+ENG-Premier League,2020/21,Fulham,Denis Odoi,GHA,DF,32,1988,3.0,0,2,1,50.0,0.67,0.33,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Fulham,Fabio Carvalho,POR,"FW,MF",17,2002,2.8,1,9,5,55.6,3.18,1.76,0.11,0.2,0,0,2020,shooting
+ENG-Premier League,2020/21,Fulham,Frank Anguissa,CMR,MF,24,1995,28.7,0,34,9,26.5,1.18,0.31,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Fulham,Harrison Reed,ENG,MF,25,1995,25.0,0,13,4,30.8,0.52,0.16,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Fulham,Ivan Cavaleiro,POR,"FW,MF",26,1993,27.5,3,47,17,36.2,1.71,0.62,0.06,0.18,1,2,2020,shooting
+ENG-Premier League,2020/21,Fulham,Joachim Andersen,DEN,DF,24,1996,30.3,1,13,3,23.1,0.43,0.1,0.08,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,Fulham,Joe Bryan,ENG,"MF,DF",26,1993,7.4,1,8,2,25.0,1.08,0.27,0.13,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Fulham,Josh Maja,NGA,FW,21,1998,9.0,3,21,8,38.1,2.33,0.89,0.14,0.38,1,1,2020,shooting
+ENG-Premier League,2020/21,Fulham,Josh Onomah,ENG,MF,23,1997,4.2,0,6,1,16.7,1.44,0.24,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Fulham,Kenny Tete,NED,"DF,MF",24,1995,16.5,0,7,1,14.3,0.43,0.06,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Fulham,Marek Rodák,SVK,GK,23,1996,2.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Fulham,Mario Lemina,GAB,MF,26,1993,18.9,1,19,2,10.5,1.0,0.11,0.05,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Fulham,Maxime Le Marchand,FRA,DF,30,1989,1.4,0,1,0,0.0,0.73,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Fulham,Michael Hector,JAM,DF,28,1992,2.9,0,1,0,0.0,0.34,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Fulham,Neeskens Kebano,COD,MF,28,1992,1.3,0,6,0,0.0,4.54,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Fulham,Ola Aina,NGA,DF,23,1996,29.6,2,14,4,28.6,0.47,0.14,0.14,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Fulham,Ruben Loftus-Cheek,ENG,"MF,FW",24,1996,21.2,1,35,10,28.6,1.65,0.47,0.03,0.1,0,0,2020,shooting
+ENG-Premier League,2020/21,Fulham,Terence Kongolo,NED,DF,26,1994,1.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Fulham,Tim Ream,USA,DF,32,1987,7.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Fulham,Tom Cairney,SCO,MF,29,1991,8.4,1,12,5,41.7,1.42,0.59,0.08,0.2,0,0,2020,shooting
+ENG-Premier League,2020/21,Fulham,Tosin Adarabioyo,ENG,DF,22,1997,32.8,0,18,5,27.8,0.55,0.15,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Fulham,Tyrese Francois,AUS,MF,20,2000,0.2,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Leeds United,Diego Llorente,ESP,DF,26,1993,13.4,1,8,3,37.5,0.6,0.22,0.13,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,Leeds United,Ezgjan Alioski,MKD,"DF,MF",28,1992,27.3,2,26,8,30.8,0.95,0.29,0.08,0.25,0,0,2020,shooting
+ENG-Premier League,2020/21,Leeds United,Gaetano Berardi,SUI,DF,31,1988,1.3,0,1,0,0.0,0.8,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Leeds United,Hélder Costa,ANG,MF,26,1994,12.8,3,16,6,37.5,1.25,0.47,0.19,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Leeds United,Ian Poveda,ENG,"FW,MF",20,2000,3.9,0,5,3,60.0,1.27,0.76,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Leeds United,Illan Meslier,FRA,GK,20,2000,35.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Leeds United,Jack Harrison,ENG,MF,23,1996,31.6,8,46,20,43.5,1.45,0.63,0.17,0.4,0,0,2020,shooting
+ENG-Premier League,2020/21,Leeds United,Jamie Shackleton,ENG,"MF,DF",20,1999,5.1,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Leeds United,Kalvin Phillips,ENG,MF,24,1995,27.0,1,15,5,33.3,0.56,0.19,0.07,0.2,0,0,2020,shooting
+ENG-Premier League,2020/21,Leeds United,Kiko Casilla,ESP,GK,33,1986,3.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Leeds United,Leif Davis,ENG,"DF,MF",20,1999,0.4,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Leeds United,Liam Cooper,SCO,DF,28,1991,24.3,1,15,9,60.0,0.62,0.37,0.07,0.11,0,0,2020,shooting
+ENG-Premier League,2020/21,Leeds United,Luke Ayling,ENG,DF,28,1991,37.8,0,24,6,25.0,0.64,0.16,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Leeds United,Mateusz Klich,POL,MF,30,1990,26.6,4,36,11,30.6,1.35,0.41,0.11,0.36,2,2,2020,shooting
+ENG-Premier League,2020/21,Leeds United,Niall Huggins,WAL,DF,19,2000,0.4,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Leeds United,Pablo Hernández,ESP,MF,35,1985,4.7,0,15,3,20.0,3.16,0.63,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Leeds United,Pascal Struijk,NED,"DF,MF",20,1999,23.1,1,13,4,30.8,0.56,0.17,0.08,0.25,0,0,2020,shooting
+ENG-Premier League,2020/21,Leeds United,Patrick Bamford,ENG,FW,26,1993,33.9,17,107,48,44.9,3.16,1.42,0.16,0.35,2,2,2020,shooting
+ENG-Premier League,2020/21,Leeds United,Raphinha,BRA,MF,23,1996,26.2,6,67,24,35.8,2.56,0.92,0.09,0.25,0,0,2020,shooting
+ENG-Premier League,2020/21,Leeds United,Robin Koch,GER,"DF,MF",24,1996,12.6,0,9,1,11.1,0.72,0.08,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Leeds United,Rodrigo,ESP,MF,29,1991,14.3,7,46,18,39.1,3.21,1.26,0.15,0.39,0,0,2020,shooting
+ENG-Premier League,2020/21,Leeds United,Stuart Dallas,NIR,"MF,DF",29,1991,37.9,8,48,19,39.6,1.27,0.5,0.17,0.42,0,0,2020,shooting
+ENG-Premier League,2020/21,Leeds United,Tyler Roberts,WAL,MF,21,1999,14.9,1,27,13,48.1,1.81,0.87,0.04,0.08,0,0,2020,shooting
+ENG-Premier League,2020/21,Leicester City,Ayoze Pérez,ESP,"MF,FW",27,1993,14.8,2,31,13,41.9,2.1,0.88,0.06,0.15,0,0,2020,shooting
+ENG-Premier League,2020/21,Leicester City,Cengiz Ünder,TUR,MF,23,1997,3.1,0,9,1,11.1,2.88,0.32,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Leicester City,Christian Fuchs,AUT,DF,34,1986,7.8,0,5,1,20.0,0.64,0.13,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Leicester City,Daniel Amartey,GHA,DF,25,1994,8.0,1,3,1,33.3,0.37,0.12,0.33,1.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Leicester City,Demarai Gray,JAM,"FW,MF",24,1996,0.2,0,1,0,0.0,4.74,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Leicester City,Dennis Praet,BEL,MF,26,1994,8.0,1,8,2,25.0,1.0,0.25,0.13,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Leicester City,Hamza Choudhury,BAN,MF,22,1997,3.5,0,4,1,25.0,1.14,0.28,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Leicester City,Harvey Barnes,ENG,MF,22,1997,21.6,9,56,26,46.4,2.59,1.2,0.16,0.35,0,0,2020,shooting
+ENG-Premier League,2020/21,Leicester City,Islam Slimani,ALG,FW,32,1988,0.2,0,1,0,0.0,4.5,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Leicester City,James Justin,ENG,"DF,MF",22,1998,23.0,2,9,3,33.3,0.39,0.13,0.22,0.67,0,0,2020,shooting
+ENG-Premier League,2020/21,Leicester City,James Maddison,ENG,MF,23,1996,23.3,8,75,23,30.7,3.22,0.99,0.11,0.35,0,0,2020,shooting
+ENG-Premier League,2020/21,Leicester City,Jamie Vardy,ENG,FW,33,1987,31.6,15,83,38,45.8,2.63,1.2,0.18,0.39,8,9,2020,shooting
+ENG-Premier League,2020/21,Leicester City,Jonny Evans,NIR,DF,32,1988,27.5,2,8,3,37.5,0.29,0.11,0.25,0.67,0,0,2020,shooting
+ENG-Premier League,2020/21,Leicester City,Kasper Schmeichel,DEN,GK,33,1986,38.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Leicester City,Kelechi Iheanacho,NGA,FW,23,1996,16.2,12,59,25,42.4,3.64,1.54,0.2,0.48,0,1,2020,shooting
+ENG-Premier League,2020/21,Leicester City,Khanya Leshabela,RSA,MF,20,1999,0.1,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Leicester City,Luke Thomas,ENG,"MF,DF",19,2001,10.8,1,7,3,42.9,0.65,0.28,0.14,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,Leicester City,Marc Albrighton,ENG,MF,30,1989,19.4,1,21,9,42.9,1.08,0.46,0.05,0.11,0,0,2020,shooting
+ENG-Premier League,2020/21,Leicester City,Nampalys Mendy,SEN,MF,28,1992,16.2,0,4,2,50.0,0.25,0.12,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Leicester City,Ricardo Pereira,POR,"MF,DF",26,1993,10.7,0,7,4,57.1,0.66,0.38,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Leicester City,Sidnei Tavares,,MF,18,2001,0.9,0,1,1,100.0,1.06,1.06,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Leicester City,Timothy Castagne,BEL,"DF,MF",24,1995,26.1,2,8,3,37.5,0.31,0.12,0.25,0.67,0,0,2020,shooting
+ENG-Premier League,2020/21,Leicester City,Wes Morgan,JAM,DF,36,1984,0.2,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Leicester City,Wesley Fofana,FRA,DF,19,2000,25.1,0,11,2,18.2,0.44,0.08,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Leicester City,Wilfred Ndidi,NGA,"MF,DF",23,1996,24.2,1,16,1,6.3,0.66,0.04,0.06,1.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Leicester City,Youri Tielemans,BEL,MF,23,1997,37.3,6,48,20,41.7,1.29,0.54,0.13,0.3,2,2,2020,shooting
+ENG-Premier League,2020/21,Leicester City,Çağlar Söyüncü,TUR,DF,24,1996,20.2,1,10,3,30.0,0.49,0.15,0.1,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,Liverpool,Adrián,ESP,GK,33,1987,3.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Liverpool,Alex Oxlade-Chamberlain,ENG,"MF,FW",26,1993,2.8,1,8,4,50.0,2.85,1.42,0.13,0.25,0,0,2020,shooting
+ENG-Premier League,2020/21,Liverpool,Alisson,BRA,GK,27,1992,33.0,1,1,1,100.0,0.03,0.03,1.0,1.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Liverpool,Andy Robertson,SCO,DF,26,1994,37.6,1,19,5,26.3,0.51,0.13,0.05,0.2,0,0,2020,shooting
+ENG-Premier League,2020/21,Liverpool,Caoimhín Kelleher,IRL,GK,21,1998,2.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Liverpool,Curtis Jones,ENG,MF,19,2001,13.1,1,19,9,47.4,1.45,0.69,0.05,0.11,0,0,2020,shooting
+ENG-Premier League,2020/21,Liverpool,Diogo Jota,POR,"FW,MF",23,1996,12.4,9,46,26,56.5,3.72,2.1,0.2,0.35,0,0,2020,shooting
+ENG-Premier League,2020/21,Liverpool,Divock Origi,BEL,FW,25,1995,2.1,0,7,2,28.6,3.39,0.97,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Liverpool,Fabinho,BRA,"DF,MF",26,1993,28.5,0,12,1,8.3,0.42,0.04,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Liverpool,Georginio Wijnaldum,NED,MF,29,1990,32.7,2,31,9,29.0,0.95,0.28,0.06,0.22,0,0,2020,shooting
+ENG-Premier League,2020/21,Liverpool,James Milner,ENG,MF,34,1986,11.9,0,12,3,25.0,1.01,0.25,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Liverpool,Joe Gomez,ENG,DF,23,1997,6.6,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Liverpool,Jordan Henderson,ENG,"MF,DF",30,1990,18.9,1,14,6,42.9,0.74,0.32,0.07,0.17,0,0,2020,shooting
+ENG-Premier League,2020/21,Liverpool,Joël Matip,CMR,DF,28,1991,7.7,1,5,2,40.0,0.65,0.26,0.2,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Liverpool,Kostas Tsimikas,GRE,DF,24,1996,0.1,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Liverpool,Mohamed Salah,EGY,FW,28,1992,34.2,22,126,54,42.9,3.68,1.58,0.17,0.41,6,6,2020,shooting
+ENG-Premier League,2020/21,Liverpool,Naby Keïta,GUI,MF,25,1995,5.8,0,9,2,22.2,1.56,0.35,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Liverpool,Nathaniel Phillips,ENG,DF,23,1997,16.2,1,15,2,13.3,0.93,0.12,0.07,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Liverpool,Neco Williams,WAL,DF,19,2001,2.8,0,2,0,0.0,0.72,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Liverpool,Ozan Kabak,TUR,DF,20,2000,8.9,0,1,0,0.0,0.11,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Liverpool,Rhys Williams,ENG,DF,19,2001,7.3,0,7,0,0.0,0.95,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Liverpool,Roberto Firmino,BRA,FW,28,1991,31.5,9,83,34,41.0,2.63,1.08,0.11,0.26,0,0,2020,shooting
+ENG-Premier League,2020/21,Liverpool,Sadio Mané,SEN,FW,28,1992,31.2,11,94,36,38.3,3.01,1.15,0.12,0.31,0,0,2020,shooting
+ENG-Premier League,2020/21,Liverpool,Takumi Minamino,JPN,"MF,FW",25,1995,3.3,1,7,3,42.9,2.15,0.92,0.14,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,Liverpool,Thiago Alcántara,ESP,MF,29,1991,20.6,1,22,5,22.7,1.07,0.24,0.05,0.2,0,0,2020,shooting
+ENG-Premier League,2020/21,Liverpool,Trent Alexander-Arnold,ENG,DF,21,1998,33.7,2,55,12,21.8,1.63,0.36,0.04,0.17,0,0,2020,shooting
+ENG-Premier League,2020/21,Liverpool,Virgil van Dijk,NED,DF,29,1991,4.1,1,4,2,50.0,0.97,0.49,0.25,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Liverpool,Xherdan Shaqiri,SUI,"MF,FW",28,1991,6.2,0,11,0,0.0,1.78,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester City,Aymeric Laporte,ESP,DF,26,1994,14.9,0,6,1,16.7,0.4,0.07,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester City,Benjamin Mendy,FRA,"DF,MF",26,1994,10.6,2,6,2,33.3,0.57,0.19,0.33,1.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester City,Bernardo Silva,POR,"MF,FW",25,1994,22.9,2,28,13,46.4,1.22,0.57,0.07,0.15,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester City,Ederson Moraes,BRA,GK,26,1993,36.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester City,Eric García,ESP,DF,19,2001,4.3,0,2,0,0.0,0.47,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester City,Fernandinho,BRA,MF,35,1985,13.2,0,14,3,21.4,1.06,0.23,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester City,Ferran Torres,ESP,"FW,MF",20,2000,14.5,7,36,15,41.7,2.48,1.03,0.19,0.47,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester City,Gabriel Jesus,BRA,FW,23,1997,22.9,9,55,17,30.9,2.4,0.74,0.16,0.53,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester City,John Stones,ENG,DF,26,1994,21.5,4,15,5,33.3,0.7,0.23,0.27,0.8,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester City,João Cancelo,POR,"DF,MF",26,1994,25.5,2,35,11,31.4,1.37,0.43,0.06,0.18,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester City,Kevin De Bruyne,BEL,MF,29,1991,22.2,6,81,27,33.3,3.65,1.22,0.07,0.22,2,3,2020,shooting
+ENG-Premier League,2020/21,Manchester City,Kyle Walker,ENG,DF,30,1990,21.6,1,10,3,30.0,0.46,0.14,0.1,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester City,Liam Delap,ENG,FW,17,2003,0.4,0,1,1,100.0,2.25,2.25,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester City,Nathan Aké,NED,DF,25,1995,8.9,1,4,1,25.0,0.45,0.11,0.25,1.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester City,Oleksandr Zinchenko,UKR,DF,23,1996,16.4,0,16,4,25.0,0.97,0.24,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester City,Phil Foden,ENG,"FW,MF",20,2000,18.0,9,45,20,44.4,2.51,1.11,0.2,0.45,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester City,Raheem Sterling,ENG,"FW,MF",25,1994,28.2,10,70,28,40.0,2.48,0.99,0.14,0.36,0,1,2020,shooting
+ENG-Premier League,2020/21,Manchester City,Riyad Mahrez,ALG,"FW,MF",29,1991,21.7,9,58,22,37.9,2.68,1.02,0.16,0.41,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester City,Rodri,ESP,MF,24,1996,30.5,2,32,9,28.1,1.05,0.29,0.06,0.22,1,1,2020,shooting
+ENG-Premier League,2020/21,Manchester City,Rúben Dias,POR,DF,23,1997,31.6,1,14,6,42.9,0.44,0.19,0.07,0.17,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester City,Scott Carson,ENG,GK,34,1985,1.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester City,Sergio Agüero,ARG,"FW,MF",32,1988,6.2,4,19,13,68.4,3.06,2.09,0.21,0.31,1,2,2020,shooting
+ENG-Premier League,2020/21,Manchester City,Zack Steffen,USA,GK,25,1995,1.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester City,İlkay Gündoğan,GER,MF,29,1990,22.5,13,54,22,40.7,2.4,0.98,0.24,0.59,1,2,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Aaron Wan-Bissaka,COD,DF,22,1997,34.0,2,7,4,57.1,0.21,0.12,0.29,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Alex Telles,BRA,DF,27,1992,7.7,0,5,1,20.0,0.65,0.13,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Amad Diallo,CIV,MF,18,2002,1.8,0,1,1,100.0,0.54,0.54,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Anthony Elanga,SWE,"MF,FW",18,2002,1.7,1,2,1,50.0,1.16,0.58,0.5,1.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Anthony Martial,FRA,"FW,MF",24,1995,16.4,4,42,20,47.6,2.55,1.22,0.1,0.2,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Axel Tuanzebe,COD,DF,22,1997,4.5,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Brandon Williams,ENG,DF,19,2000,2.1,0,1,1,100.0,0.48,0.48,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Bruno Fernandes,POR,MF,25,1994,34.4,18,121,51,42.1,3.51,1.48,0.15,0.35,9,11,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Daniel James,WAL,MF,22,1997,10.1,3,17,6,35.3,1.68,0.59,0.18,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,David de Gea,ESP,GK,29,1990,25.5,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Dean Henderson,ENG,GK,23,1997,12.5,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Donny van de Beek,NED,MF,23,1997,5.8,1,2,1,50.0,0.34,0.17,0.5,1.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Edinson Cavani,URU,FW,33,1987,15.3,10,34,15,44.1,2.23,0.98,0.29,0.67,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Eric Bailly,CIV,DF,26,1994,10.2,0,2,0,0.0,0.2,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Fred,BRA,MF,27,1993,26.6,1,25,7,28.0,0.94,0.26,0.04,0.14,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Hannibal Mejbri,TUN,MF,17,2003,0.1,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Harry Maguire,ENG,DF,27,1993,33.9,2,36,11,30.6,1.06,0.32,0.06,0.18,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Juan Mata,ESP,MF,32,1988,5.7,1,5,4,80.0,0.88,0.71,0.2,0.25,1,1,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Luke Shaw,ENG,DF,25,1995,29.5,1,11,6,54.5,0.37,0.2,0.09,0.17,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Marcus Rashford,ENG,"MF,FW",22,1997,32.4,11,79,37,46.8,2.43,1.14,0.14,0.3,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Mason Greenwood,ENG,"MF,FW",18,2001,20.2,7,67,24,35.8,3.31,1.19,0.1,0.29,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Nemanja Matić,SRB,MF,31,1988,12.3,0,6,3,50.0,0.49,0.24,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Odion Ighalo,NGA,FW,31,1989,0.1,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Paul Pogba,FRA,MF,27,1993,21.1,3,31,11,35.5,1.47,0.52,0.1,0.27,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Scott McTominay,SCO,MF,23,1996,23.7,4,26,8,30.8,1.1,0.34,0.15,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Shola Shoretire,ENG,"FW,MF",16,2004,0.1,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Timothy Fosu-Mensah,NED,DF,22,1998,0.9,0,1,0,0.0,1.13,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Victor Lindelöf,SWE,DF,26,1994,28.7,1,4,1,25.0,0.14,0.03,0.25,1.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Manchester Utd,Will Fish,ENG,DF,17,2003,0.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Newcastle,Allan Saint-Maximin,FRA,"FW,MF",23,1997,17.3,3,30,13,43.3,1.73,0.75,0.1,0.23,0,0,2020,shooting
+ENG-Premier League,2020/21,Newcastle,Andy Carroll,ENG,FW,31,1989,4.4,1,13,2,15.4,2.98,0.46,0.08,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Newcastle,Callum Wilson,ENG,FW,28,1992,23.2,12,49,20,40.8,2.12,0.86,0.24,0.6,4,4,2020,shooting
+ENG-Premier League,2020/21,Newcastle,Ciaran Clark,IRL,DF,30,1989,21.0,1,8,3,37.5,0.38,0.14,0.13,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,Newcastle,DeAndre Yedlin,USA,DF,27,1993,4.8,0,2,0,0.0,0.41,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Newcastle,Dwight Gayle,ENG,FW,29,1990,5.7,1,16,7,43.8,2.8,1.23,0.06,0.14,0,0,2020,shooting
+ENG-Premier League,2020/21,Newcastle,Elliot Anderson,ENG,MF,17,2002,0.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Newcastle,Emil Krafth,SWE,DF,25,1994,14.3,1,7,3,42.9,0.49,0.21,0.14,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,Newcastle,Fabian Schär,SUI,DF,28,1991,13.8,1,12,5,41.7,0.87,0.36,0.08,0.2,1,1,2020,shooting
+ENG-Premier League,2020/21,Newcastle,Federico Fernández,ARG,DF,31,1989,23.1,0,6,3,50.0,0.26,0.13,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Newcastle,Isaac Hayden,JAM,"MF,DF",25,1995,21.6,0,17,2,11.8,0.79,0.09,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Newcastle,Jacob Murphy,ENG,"DF,MF",25,1995,18.1,2,30,9,30.0,1.66,0.5,0.07,0.22,0,0,2020,shooting
+ENG-Premier League,2020/21,Newcastle,Jamaal Lascelles,ENG,DF,26,1993,18.1,2,15,4,26.7,0.83,0.22,0.13,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Newcastle,Jamal Lewis,NIR,DF,22,1998,20.4,0,3,1,33.3,0.15,0.05,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Newcastle,Javier Manquillo,ESP,DF,26,1994,9.2,0,1,0,0.0,0.11,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Newcastle,Jeff Hendrick,IRL,MF,28,1992,15.8,2,10,2,20.0,0.63,0.13,0.2,1.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Newcastle,Joe Willock,ENG,MF,20,1999,10.9,8,19,13,68.4,1.75,1.2,0.42,0.62,0,1,2020,shooting
+ENG-Premier League,2020/21,Newcastle,Joelinton,BRA,"FW,MF",23,1996,22.0,4,44,21,47.7,2.0,0.95,0.09,0.19,1,1,2020,shooting
+ENG-Premier League,2020/21,Newcastle,Jonjo Shelvey,ENG,MF,28,1992,29.1,1,42,9,21.4,1.44,0.31,0.02,0.11,0,0,2020,shooting
+ENG-Premier League,2020/21,Newcastle,Karl Darlow,WAL,GK,29,1990,25.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Newcastle,Martin Dúbravka,SVK,GK,31,1989,13.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Newcastle,Matt Ritchie,SCO,"DF,MF",30,1989,15.0,0,11,1,9.1,0.73,0.07,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Newcastle,Matthew Longstaff,ENG,MF,20,2000,4.2,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Newcastle,Miguel Almirón,PAR,"MF,FW",26,1994,27.0,4,33,15,45.5,1.22,0.56,0.12,0.27,0,0,2020,shooting
+ENG-Premier League,2020/21,Newcastle,Paul Dummett,WAL,DF,28,1991,13.9,1,3,1,33.3,0.22,0.07,0.33,1.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Newcastle,Ryan Fraser,SCO,"FW,MF",26,1994,10.3,0,13,6,46.2,1.26,0.58,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Newcastle,Sean Longstaff,ENG,MF,22,1997,15.7,0,15,5,33.3,0.96,0.32,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Sheffield United,Aaron Ramsdale,ENG,GK,22,1998,38.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Sheffield United,Antwoine Hackford,ENG,FW,16,2004,0.1,0,1,0,0.0,8.18,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Sheffield United,Ben Osborn,ENG,"MF,FW",25,1994,17.8,1,9,5,55.6,0.5,0.28,0.11,0.2,0,0,2020,shooting
+ENG-Premier League,2020/21,Sheffield United,Billy Sharp,ENG,FW,34,1986,8.2,3,9,6,66.7,1.1,0.73,0.33,0.5,2,2,2020,shooting
+ENG-Premier League,2020/21,Sheffield United,Chris Basham,ENG,DF,32,1988,28.6,0,11,1,9.1,0.38,0.03,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Sheffield United,Daniel Jebbison,CAN,FW,16,2003,3.2,1,4,2,50.0,1.27,0.63,0.25,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Sheffield United,David McGoldrick,IRL,FW,32,1987,26.6,8,71,24,33.8,2.67,0.9,0.11,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,Sheffield United,Enda Stevens,IRL,"MF,DF",30,1990,30.0,0,16,4,25.0,0.53,0.13,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Sheffield United,Ethan Ampadu,WAL,"DF,MF",19,2000,23.2,0,7,2,28.6,0.3,0.09,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Sheffield United,Femi Seriki,ENG,DF,18,2002,0.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Sheffield United,George Baldock,GRE,"MF,DF",27,1993,31.0,0,14,3,21.4,0.45,0.1,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Sheffield United,Iliman Ndiaye,SEN,"FW,MF",20,2000,0.1,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Sheffield United,Jack O'Connell,ENG,DF,26,1994,2.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Sheffield United,Jack Robinson,ENG,DF,26,1993,9.7,0,6,0,0.0,0.62,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Sheffield United,Jayden Bogle,ENG,MF,20,2000,12.3,2,17,7,41.2,1.38,0.57,0.12,0.29,0,0,2020,shooting
+ENG-Premier League,2020/21,Sheffield United,John Egan,IRL,DF,27,1992,29.2,0,14,3,21.4,0.48,0.1,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Sheffield United,John Fleck,SCO,MF,28,1991,28.6,0,17,5,29.4,0.59,0.17,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Sheffield United,John Lundstram,ENG,MF,26,1994,22.6,0,20,5,25.0,0.89,0.22,0.0,0.0,0,1,2020,shooting
+ENG-Premier League,2020/21,Sheffield United,Kean Bryan,ENG,DF,23,1996,11.2,1,3,1,33.3,0.27,0.09,0.33,1.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Sheffield United,Lys Mousset,FRA,FW,24,1996,3.3,0,4,2,50.0,1.22,0.61,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Sheffield United,Max Lowe,ENG,"MF,DF",23,1997,6.1,0,2,1,50.0,0.33,0.16,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Sheffield United,Oliver Burke,SCO,FW,23,1997,14.1,1,25,6,24.0,1.77,0.43,0.04,0.17,0,0,2020,shooting
+ENG-Premier League,2020/21,Sheffield United,Oliver McBurnie,SCO,FW,24,1996,14.7,1,30,13,43.3,2.04,0.88,0.03,0.08,0,0,2020,shooting
+ENG-Premier League,2020/21,Sheffield United,Oliver Norwood,NIR,MF,29,1991,24.7,0,12,1,8.3,0.49,0.04,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Sheffield United,Phil Jagielka,ENG,DF,37,1982,5.8,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Sheffield United,Rhian Brewster,ENG,FW,20,2000,12.5,0,24,8,33.3,1.91,0.64,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Sheffield United,Sander Berge,NOR,MF,22,1998,12.4,1,11,2,18.2,0.88,0.16,0.09,0.5,1,1,2020,shooting
+ENG-Premier League,2020/21,Southampton,Alex McCarthy,ENG,GK,30,1989,30.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Southampton,Alexandre Jankewitz,SUI,MF,18,2001,0.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Southampton,Allan Tchaptchet,FRA,DF,18,2001,0.1,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Southampton,Caleb Watts,AUS,MF,18,2002,0.4,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Southampton,Ché Adams,SCO,FW,24,1996,29.6,9,55,31,56.4,1.86,1.05,0.16,0.29,0,0,2020,shooting
+ENG-Premier League,2020/21,Southampton,Dan Nlundulu,ENG,FW,21,1999,1.2,0,1,0,0.0,0.81,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Southampton,Danny Ings,ENG,FW,28,1992,24.1,12,58,29,50.0,2.4,1.2,0.21,0.41,2,2,2020,shooting
+ENG-Premier League,2020/21,Southampton,Fraser Forster,ENG,GK,32,1988,8.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Southampton,Ibrahima Diallo,FRA,MF,21,1999,11.3,0,7,2,28.6,0.62,0.18,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Southampton,Jack Stephens,ENG,DF,26,1994,17.1,0,6,3,50.0,0.35,0.18,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Southampton,Jake Vokins,ENG,DF,20,2000,0.7,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Southampton,James Ward-Prowse,ENG,MF,25,1994,38.0,8,43,24,55.8,1.13,0.63,0.19,0.33,3,4,2020,shooting
+ENG-Premier League,2020/21,Southampton,Jan Bednarek,POL,DF,24,1996,34.4,1,10,6,60.0,0.29,0.17,0.1,0.17,0,0,2020,shooting
+ENG-Premier League,2020/21,Southampton,Jannik Vestergaard,DEN,DF,27,1992,28.6,3,23,8,34.8,0.8,0.28,0.13,0.38,0,0,2020,shooting
+ENG-Premier League,2020/21,Southampton,Kayne Ramsey,ENG,DF,19,2000,1.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Southampton,Kyle Walker-Peters,ENG,DF,23,1997,29.4,0,18,7,38.9,0.61,0.24,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Southampton,Michael Obafemi,IRL,FW,20,2000,0.7,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Southampton,Mohammed Salisu,GHA,DF,21,1999,9.4,0,4,1,25.0,0.43,0.11,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Southampton,Moussa Djenepo,MLI,MF,22,1998,13.8,1,14,2,14.3,1.02,0.15,0.07,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Southampton,Nathan Redmond,ENG,"MF,FW",26,1994,19.3,2,45,13,28.9,2.33,0.67,0.04,0.15,0,0,2020,shooting
+ENG-Premier League,2020/21,Southampton,Nathan Tella,NGA,"FW,MF",21,1999,8.3,1,17,8,47.1,2.05,0.97,0.06,0.13,0,0,2020,shooting
+ENG-Premier League,2020/21,Southampton,Oriol Romeu,ESP,MF,28,1991,19.6,1,14,4,28.6,0.71,0.2,0.07,0.25,0,0,2020,shooting
+ENG-Premier League,2020/21,Southampton,Ryan Bertrand,ENG,DF,30,1989,28.9,0,8,3,37.5,0.28,0.1,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Southampton,Shane Long,IRL,FW,33,1987,2.3,0,2,1,50.0,0.86,0.43,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Southampton,Stuart Armstrong,SCO,MF,28,1992,30.7,4,54,11,20.4,1.76,0.36,0.07,0.36,0,0,2020,shooting
+ENG-Premier League,2020/21,Southampton,Takumi Minamino,JPN,"MF,FW",25,1995,7.9,2,13,5,38.5,1.65,0.63,0.15,0.4,0,0,2020,shooting
+ENG-Premier League,2020/21,Southampton,Theo Walcott,ENG,"MF,FW",31,1989,18.0,3,29,11,37.9,1.61,0.61,0.1,0.27,0,0,2020,shooting
+ENG-Premier League,2020/21,Southampton,William Smallbone,IRL,MF,20,2000,1.9,0,1,1,100.0,0.52,0.52,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Southampton,Yan Valery,TUN,DF,21,1999,1.1,0,2,1,50.0,1.75,0.87,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Tottenham,Ben Davies,WAL,DF,27,1993,15.0,0,3,0,0.0,0.2,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Tottenham,Carlos Vinícius,BRA,FW,25,1995,3.4,1,7,4,57.1,2.05,1.17,0.14,0.25,0,0,2020,shooting
+ENG-Premier League,2020/21,Tottenham,Dane Scarlett,ENG,FW,16,2004,0.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Tottenham,Davinson Sánchez,COL,DF,24,1996,16.5,0,5,0,0.0,0.3,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Tottenham,Dele Alli,ENG,MF,24,1996,6.9,0,12,4,33.3,1.74,0.58,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Tottenham,Eric Dier,ENG,DF,26,1994,28.0,0,14,2,14.3,0.5,0.07,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Tottenham,Gareth Bale,WAL,MF,31,1989,10.2,11,38,19,50.0,3.72,1.86,0.29,0.58,0,0,2020,shooting
+ENG-Premier League,2020/21,Tottenham,Giovani Lo Celso,ARG,MF,24,1996,10.5,1,15,6,40.0,1.43,0.57,0.07,0.17,0,0,2020,shooting
+ENG-Premier League,2020/21,Tottenham,Harry Kane,ENG,FW,27,1993,34.2,23,138,55,39.9,4.03,1.61,0.17,0.42,4,4,2020,shooting
+ENG-Premier League,2020/21,Tottenham,Harry Winks,ENG,MF,24,1996,9.6,0,4,1,25.0,0.42,0.1,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Tottenham,Hugo Lloris,FRA,GK,33,1986,38.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Tottenham,Japhet Tanganga,ENG,DF,21,1999,5.4,0,2,1,50.0,0.37,0.18,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Tottenham,Joe Rodon,WAL,DF,22,1997,8.1,0,1,0,0.0,0.12,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Tottenham,Lucas Moura,BRA,"MF,FW",27,1992,15.7,3,18,6,33.3,1.15,0.38,0.17,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,Tottenham,Matt Doherty,IRL,"DF,MF",28,1992,13.8,0,3,1,33.3,0.22,0.07,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Tottenham,Moussa Sissoko,FRA,MF,30,1989,17.6,0,3,1,33.3,0.17,0.06,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Tottenham,Pierre Højbjerg,DEN,MF,24,1995,38.0,2,14,7,50.0,0.37,0.18,0.14,0.29,0,0,2020,shooting
+ENG-Premier League,2020/21,Tottenham,Serge Aurier,CIV,"DF,MF",27,1992,17.8,2,15,6,40.0,0.84,0.34,0.13,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,Tottenham,Sergio Reguilón,ESP,"DF,MF",23,1996,24.9,0,20,4,20.0,0.8,0.16,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Tottenham,Son Heung-min,KOR,"MF,FW",28,1992,34.6,17,68,37,54.4,1.97,1.07,0.25,0.46,1,1,2020,shooting
+ENG-Premier League,2020/21,Tottenham,Steven Bergwijn,NED,"MF,FW",22,1997,13.4,1,15,6,40.0,1.12,0.45,0.07,0.17,0,0,2020,shooting
+ENG-Premier League,2020/21,Tottenham,Tanguy Ndombele,FRA,MF,23,1996,23.2,3,18,7,38.9,0.77,0.3,0.17,0.43,0,0,2020,shooting
+ENG-Premier League,2020/21,Tottenham,Toby Alderweireld,BEL,DF,31,1989,24.9,1,10,3,30.0,0.4,0.12,0.1,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,Tottenham,Érik Lamela,ARG,"MF,FW",28,1992,8.0,1,21,9,42.9,2.64,1.13,0.05,0.11,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Ahmed Hegazi,EGY,DF,29,1991,1.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Ainsley Maitland-Niles,ENG,MF,22,1997,13.7,0,10,3,30.0,0.73,0.22,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Branislav Ivanović,SRB,DF,36,1984,8.5,0,4,1,25.0,0.47,0.12,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Callum Robinson,IRL,"FW,MF",25,1995,17.3,5,31,11,35.5,1.79,0.63,0.16,0.45,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Charlie Austin,ENG,FW,31,1989,1.5,0,3,0,0.0,1.96,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Conor Gallagher,ENG,MF,20,2000,28.1,2,29,7,24.1,1.03,0.25,0.07,0.29,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Conor Townsend,ENG,DF,27,1993,24.8,0,12,4,33.3,0.48,0.16,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Dara O'Shea,IRL,DF,21,1999,23.4,0,4,0,0.0,0.17,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Darnell Furlong,ENG,"DF,MF",24,1995,32.6,1,26,5,19.2,0.8,0.15,0.04,0.2,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,David Button,ENG,GK,31,1989,1.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Filip Krovinović,CRO,MF,24,1995,6.1,0,8,2,25.0,1.32,0.33,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Grady Diangana,COD,MF,22,1998,13.7,1,14,4,28.6,1.02,0.29,0.07,0.25,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Hal Robson-Kanu,WAL,FW,31,1989,6.2,2,13,6,46.2,2.09,0.96,0.15,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Jake Livermore,ENG,MF,30,1989,13.8,0,5,0,0.0,0.36,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Kamil Grosicki,POL,MF,32,1988,1.6,0,3,0,0.0,1.82,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Karlan Grant,ENG,"FW,MF",22,1997,12.5,1,16,9,56.3,1.28,0.72,0.06,0.11,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Kieran Gibbs,ENG,"DF,MF",30,1989,9.0,0,1,0,0.0,0.11,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Kyle Bartley,ENG,DF,29,1991,28.7,3,14,5,35.7,0.49,0.17,0.21,0.6,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Kyle Edwards,ENG,MF,22,1998,1.3,0,2,1,50.0,1.53,0.76,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Lee Peltier,ENG,DF,33,1986,2.5,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Matheus Pereira,BRA,MF,24,1996,28.6,11,65,28,43.1,2.27,0.98,0.17,0.39,4,4,2020,shooting
+ENG-Premier League,2020/21,West Brom,Matt Phillips,SCO,MF,29,1991,20.3,2,22,10,45.5,1.08,0.49,0.09,0.2,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Mbaye Diagne,SEN,FW,28,1991,13.2,3,25,10,40.0,1.89,0.76,0.12,0.3,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Okay Yokuşlu,TUR,MF,26,1994,14.6,0,13,0,0.0,0.89,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Rekeem Harper,ENG,MF,20,2000,0.4,0,1,1,100.0,2.81,2.81,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Robert Snodgrass,SCO,MF,32,1987,5.8,0,4,1,25.0,0.68,0.17,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Romaine Sawyers,SKN,MF,28,1991,16.5,0,4,0,0.0,0.24,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Sam Field,ENG,MF,22,1998,0.7,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Sam Johnstone,ENG,GK,27,1993,37.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,West Brom,Semi Ajayi,NGA,DF,26,1993,30.9,2,13,5,38.5,0.42,0.16,0.15,0.4,0,0,2020,shooting
+ENG-Premier League,2020/21,West Ham,Aaron Cresswell,ENG,DF,30,1989,35.2,0,19,4,21.1,0.54,0.11,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,West Ham,Andriy Yarmolenko,UKR,MF,30,1989,4.2,0,7,2,28.6,1.68,0.48,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,West Ham,Angelo Ogbonna,ITA,DF,32,1988,27.7,3,13,4,30.8,0.47,0.14,0.23,0.75,0,0,2020,shooting
+ENG-Premier League,2020/21,West Ham,Arthur Masuaku,COD,"MF,DF",26,1993,11.2,0,7,2,28.6,0.63,0.18,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,West Ham,Ben Johnson,ENG,MF,20,2000,5.8,1,3,1,33.3,0.52,0.17,0.33,1.0,0,0,2020,shooting
+ENG-Premier League,2020/21,West Ham,Craig Dawson,ENG,DF,30,1990,21.4,3,16,5,31.3,0.75,0.23,0.19,0.6,0,0,2020,shooting
+ENG-Premier League,2020/21,West Ham,Darren Randolph,IRL,GK,33,1987,3.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,West Ham,Declan Rice,ENG,MF,21,1999,32.0,2,28,8,28.6,0.88,0.25,0.07,0.25,1,2,2020,shooting
+ENG-Premier League,2020/21,West Ham,Fabián Balbuena,PAR,DF,28,1991,13.3,1,8,2,25.0,0.6,0.15,0.13,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,West Ham,Felipe Anderson,BRA,"FW,MF",27,1993,0.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,West Ham,Issa Diop,MAR,DF,23,1997,15.3,2,3,2,66.7,0.2,0.13,0.67,1.0,0,0,2020,shooting
+ENG-Premier League,2020/21,West Ham,Jarrod Bowen,ENG,"MF,FW",23,1996,28.5,8,55,16,29.1,1.93,0.56,0.15,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,West Ham,Jesse Lingard,ENG,"MF,FW",27,1992,15.8,9,42,22,52.4,2.66,1.39,0.21,0.41,1,2,2020,shooting
+ENG-Premier League,2020/21,West Ham,Manuel Lanzini,ARG,MF,27,1993,6.3,1,12,3,25.0,1.91,0.48,0.08,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,West Ham,Mark Noble,ENG,MF,33,1987,7.9,0,1,0,0.0,0.13,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,West Ham,Michail Antonio,JAM,FW,30,1990,21.9,10,63,25,39.7,2.87,1.14,0.16,0.4,0,0,2020,shooting
+ENG-Premier League,2020/21,West Ham,Pablo Fornals,ESP,MF,24,1996,28.6,5,50,16,32.0,1.75,0.56,0.1,0.31,0,0,2020,shooting
+ENG-Premier League,2020/21,West Ham,Robert Snodgrass,SCO,"FW,MF",32,1987,0.1,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,West Ham,Ryan Fredericks,ENG,"DF,MF",27,1992,6.3,1,4,2,50.0,0.63,0.32,0.25,0.5,0,0,2020,shooting
+ENG-Premier League,2020/21,West Ham,Saïd Benrahma,ALG,MF,24,1995,15.5,1,35,12,34.3,2.26,0.78,0.03,0.08,0,0,2020,shooting
+ENG-Premier League,2020/21,West Ham,Sébastien Haller,CIV,FW,26,1994,10.4,3,25,11,44.0,2.4,1.06,0.12,0.27,0,0,2020,shooting
+ENG-Premier League,2020/21,West Ham,Tomáš Souček,CZE,MF,25,1995,38.0,10,64,23,35.9,1.68,0.61,0.16,0.43,0,0,2020,shooting
+ENG-Premier League,2020/21,West Ham,Vladimír Coufal,CZE,"DF,MF",27,1992,33.9,0,15,5,33.3,0.44,0.15,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,West Ham,Łukasz Fabiański,POL,GK,35,1985,35.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Wolves,Adama Traoré,ESP,"FW,MF",24,1996,29.4,2,43,13,30.2,1.46,0.44,0.05,0.15,0,0,2020,shooting
+ENG-Premier League,2020/21,Wolves,Conor Coady,ENG,DF,27,1993,36.7,1,8,3,37.5,0.22,0.08,0.13,0.33,0,0,2020,shooting
+ENG-Premier League,2020/21,Wolves,Daniel Podence,POR,"MF,FW",24,1995,18.5,3,32,14,43.8,1.73,0.76,0.09,0.21,0,0,2020,shooting
+ENG-Premier League,2020/21,Wolves,Fernando Marçal,BRA,"DF,MF",31,1989,6.9,0,2,0,0.0,0.29,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Wolves,Fábio Silva,POR,FW,18,2002,15.2,4,48,17,35.4,3.16,1.12,0.08,0.24,1,1,2020,shooting
+ENG-Premier League,2020/21,Wolves,John Ruddy,ENG,GK,33,1986,1.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Wolves,Jonny Castro,ESP,MF,26,1994,5.5,0,1,0,0.0,0.18,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Wolves,João Moutinho,POR,MF,33,1986,28.1,1,14,4,28.6,0.5,0.14,0.07,0.25,0,0,2020,shooting
+ENG-Premier League,2020/21,Wolves,Ki-Jana Hoever,NED,"MF,DF",18,2002,6.4,0,1,0,0.0,0.16,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Wolves,Leander Dendoncker,BEL,"MF,DF",25,1995,27.8,1,31,8,25.8,1.11,0.29,0.03,0.13,0,0,2020,shooting
+ENG-Premier League,2020/21,Wolves,Max Kilman,ENG,DF,23,1997,14.6,0,6,2,33.3,0.41,0.14,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Wolves,Morgan Gibbs-White,ENG,"MF,FW",20,2000,4.6,1,10,4,40.0,2.17,0.87,0.1,0.25,0,0,2020,shooting
+ENG-Premier League,2020/21,Wolves,Nélson Semedo,POR,"MF,DF",26,1993,33.1,1,23,11,47.8,0.69,0.33,0.04,0.09,0,0,2020,shooting
+ENG-Premier League,2020/21,Wolves,Oskar Buur,DEN,"DF,MF",22,1998,0.2,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Wolves,Owen Otasowie,USA,MF,19,2001,2.1,0,4,0,0.0,1.93,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Wolves,Patrick Cutrone,ITA,FW,22,1998,0.3,0,1,0,0.0,3.6,0.0,0.0,,0,0,2020,shooting
+ENG-Premier League,2020/21,Wolves,Pedro Neto,POR,"MF,FW",20,2000,28.3,5,61,21,34.4,2.15,0.74,0.08,0.24,0,0,2020,shooting
+ENG-Premier League,2020/21,Wolves,Rayan Aït-Nouri,ALG,"MF,DF",19,2001,15.6,1,16,6,37.5,1.03,0.38,0.06,0.17,0,0,2020,shooting
+ENG-Premier League,2020/21,Wolves,Raúl Jiménez,MEX,FW,29,1991,9.1,4,26,10,38.5,2.84,1.09,0.15,0.4,0,0,2020,shooting
+ENG-Premier League,2020/21,Wolves,Romain Saïss,MAR,"DF,MF",30,1990,26.7,3,29,12,41.4,1.08,0.45,0.1,0.25,0,0,2020,shooting
+ENG-Premier League,2020/21,Wolves,Rui Patrício,POR,GK,32,1988,37.0,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Wolves,Rúben Neves,POR,MF,23,1997,29.7,5,67,16,23.9,2.25,0.54,0.07,0.31,3,3,2020,shooting
+ENG-Premier League,2020/21,Wolves,Rúben Vinagre,POR,MF,21,1999,1.9,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Wolves,Theo Corbeanu,CAN,"FW,MF",18,2002,0.1,0,0,0,,0.0,0.0,,,0,0,2020,shooting
+ENG-Premier League,2020/21,Wolves,Vitinha,POR,MF,20,2000,5.8,0,8,4,50.0,1.38,0.69,0.0,0.0,0,0,2020,shooting
+ENG-Premier League,2020/21,Wolves,Willian José,BRA,FW,28,1991,12.3,1,19,7,36.8,1.54,0.57,0.05,0.14,0,0,2020,shooting
+ENG-Premier League,2020/21,Wolves,Willy Boly,CIV,DF,29,1991,20.9,1,15,4,26.7,0.72,0.19,0.07,0.25,0,0,2020,shooting

@@ -1,0 +1,41 @@
+league,season,team,player,nation,pos,age,born,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,season_start,stat_type
+ENG-Premier League,2025/26,Arsenal,David Raya,ESP,GK,29,1995,37,37,3330,37.0,26,0.7,86,59,69.8,25,7,5,19,51.4,0,0,0,0,,2025,keeper
+ENG-Premier League,2025/26,Arsenal,Kepa Arrizabalaga,ESP,GK,30,1994,1,1,90,1.0,1,1.0,3,2,66.7,1,0,0,0,0.0,0,0,0,0,,2025,keeper
+ENG-Premier League,2025/26,Aston Villa,Emiliano Martínez,ARG,GK,32,1992,32,32,2835,31.5,39,1.24,134,95,70.9,16,6,10,8,25.0,1,0,1,0,100.0,2025,keeper
+ENG-Premier League,2025/26,Aston Villa,Marco Bizot,NED,GK,34,1991,7,6,585,6.5,10,1.54,29,19,65.5,3,2,1,2,33.3,1,1,0,0,0.0,2025,keeper
+ENG-Premier League,2025/26,Bournemouth,Đorđe Petrović,SRB,GK,25,1999,38,38,3420,38.0,54,1.42,163,109,66.9,13,18,7,11,28.9,6,6,0,0,0.0,2025,keeper
+ENG-Premier League,2025/26,Brentford,Caoimhín Kelleher,IRL,GK,26,1998,37,37,3330,37.0,49,1.32,154,105,68.2,13,11,13,10,27.0,8,5,3,0,37.5,2025,keeper
+ENG-Premier League,2025/26,Brentford,Hákon Valdimarsson,ISL,GK,23,2001,1,1,90,1.0,3,3.0,4,1,25.0,1,0,0,0,0.0,0,0,0,0,,2025,keeper
+ENG-Premier League,2025/26,Brighton,Bart Verbruggen,NED,GK,22,2002,38,38,3420,38.0,46,1.21,151,103,69.5,14,11,13,10,26.3,6,5,1,0,16.7,2025,keeper
+ENG-Premier League,2025/26,Burnley,Martin Dúbravka,SVK,GK,36,1989,35,35,3150,35.0,71,2.03,198,127,64.1,4,8,23,4,11.4,7,6,0,1,0.0,2025,keeper
+ENG-Premier League,2025/26,Burnley,Max Weiß,GER,GK,21,2004,3,3,270,3.0,4,1.33,14,10,71.4,0,2,1,0,0.0,1,1,0,0,0.0,2025,keeper
+ENG-Premier League,2025/26,Chelsea,Filip Jørgensen,DEN,GK,23,2002,5,3,379,4.2,5,1.19,13,8,61.5,1,2,0,0,0.0,0,0,0,0,,2025,keeper
+ENG-Premier League,2025/26,Chelsea,Robert Sánchez,ESP,GK,27,1997,35,35,3039,33.8,49,1.45,147,97,66.7,13,8,14,9,25.7,2,2,0,0,0.0,2025,keeper
+ENG-Premier League,2025/26,Crystal Palace,Dean Henderson,ENG,GK,28,1997,37,37,3330,37.0,51,1.38,156,104,67.3,11,11,15,11,29.7,6,5,1,0,16.7,2025,keeper
+ENG-Premier League,2025/26,Crystal Palace,Walter Benítez,ARG,GK,32,1993,1,1,90,1.0,0,0.0,3,3,100.0,0,1,0,1,100.0,1,0,0,1,,2025,keeper
+ENG-Premier League,2025/26,Everton,Jordan Pickford,ENG,GK,31,1994,38,38,3420,38.0,50,1.32,149,99,66.4,13,10,15,11,28.9,4,3,1,0,25.0,2025,keeper
+ENG-Premier League,2025/26,Fulham,Bernd Leno,GER,GK,33,1992,38,38,3420,38.0,51,1.34,149,98,65.8,15,7,16,9,23.7,4,3,0,1,0.0,2025,keeper
+ENG-Premier League,2025/26,Leeds United,Karl Darlow,WAL,GK,34,1990,22,22,1980,22.0,27,1.23,90,63,70.0,7,8,7,5,22.7,2,2,0,0,0.0,2025,keeper
+ENG-Premier League,2025/26,Leeds United,Lucas Perri,BRA,GK,27,1997,16,16,1440,16.0,29,1.81,67,38,56.7,4,6,6,3,18.8,4,4,0,0,0.0,2025,keeper
+ENG-Premier League,2025/26,Liverpool,Alisson,BRA,GK,32,1992,26,26,2340,26.0,31,1.19,88,57,64.8,13,8,5,8,30.8,2,2,0,0,0.0,2025,keeper
+ENG-Premier League,2025/26,Liverpool,Freddie Woodman,ENG,GK,28,1997,3,2,213,2.4,4,1.69,13,9,69.2,1,0,1,0,0.0,0,0,0,0,,2025,keeper
+ENG-Premier League,2025/26,Liverpool,Giorgi Mamardashvili,GEO,GK,24,2000,10,10,867,9.6,18,1.87,51,33,64.7,3,1,6,2,20.0,2,1,1,0,50.0,2025,keeper
+ENG-Premier League,2025/26,Manchester City,Gianluigi Donnarumma,ITA,GK,26,1999,34,34,3060,34.0,29,0.85,106,75,72.6,22,9,3,15,44.1,1,0,1,0,100.0,2025,keeper
+ENG-Premier League,2025/26,Manchester City,James Trafford,ENG,GK,22,2002,4,4,360,4.0,6,1.5,20,14,70.0,1,0,3,1,25.0,1,1,0,0,0.0,2025,keeper
+ENG-Premier League,2025/26,Manchester Utd,Altay Bayındır,TUR,GK,27,1998,6,6,540,6.0,11,1.83,24,13,54.2,2,1,3,0,0.0,0,0,0,0,,2025,keeper
+ENG-Premier League,2025/26,Manchester Utd,Senne Lammens,BEL,GK,23,2002,32,32,2880,32.0,39,1.22,118,78,66.9,18,10,4,8,25.0,4,4,0,0,0.0,2025,keeper
+ENG-Premier League,2025/26,Newcastle,Aaron Ramsdale,ENG,GK,27,1998,12,11,1004,11.2,17,1.52,41,24,58.5,4,2,5,1,9.1,3,3,0,0,0.0,2025,keeper
+ENG-Premier League,2025/26,Newcastle,Nick Pope,ENG,GK,33,1992,27,27,2416,26.8,38,1.42,127,89,70.1,10,5,12,7,25.9,2,2,0,0,0.0,2025,keeper
+ENG-Premier League,2025/26,Nottingham,Angus Gunn,SCO,GK,29,1996,1,0,45,0.5,0,0.0,0,0,,0,0,0,0,,0,0,0,0,,2025,keeper
+ENG-Premier League,2025/26,Nottingham,John,BRA,GK,29,1996,5,5,437,4.9,8,1.65,14,6,42.9,1,0,4,1,20.0,1,1,0,0,0.0,2025,keeper
+ENG-Premier League,2025/26,Nottingham,Matz Sels,BEL,GK,33,1992,31,30,2668,29.6,39,1.32,132,93,70.5,10,10,10,7,23.3,5,4,1,0,20.0,2025,keeper
+ENG-Premier League,2025/26,Nottingham,Stefan Ortega,GER,GK,32,1992,3,3,270,3.0,4,1.33,12,8,66.7,0,1,2,1,33.3,0,0,0,0,,2025,keeper
+ENG-Premier League,2025/26,Sunderland,Melker Ellborg,SWE,GK,22,2003,3,3,270,3.0,2,0.67,12,10,83.3,2,0,1,1,33.3,0,0,0,0,,2025,keeper
+ENG-Premier League,2025/26,Sunderland,Robin Roefs,NED,GK,22,2003,35,35,3150,35.0,46,1.31,154,108,70.1,12,12,11,10,28.6,3,2,1,0,33.3,2025,keeper
+ENG-Premier League,2025/26,Tottenham,Antonín Kinský,CZE,GK,22,2003,7,7,630,7.0,7,1.0,17,10,58.8,3,2,2,2,28.6,1,1,0,0,0.0,2025,keeper
+ENG-Premier League,2025/26,Tottenham,Guglielmo Vicario,ITA,GK,28,1996,31,31,2790,31.0,50,1.61,133,83,62.4,7,9,15,7,22.6,2,2,0,0,0.0,2025,keeper
+ENG-Premier League,2025/26,West Ham,Alphonse Areola,FRA,GK,32,1993,20,20,1800,20.0,37,1.85,113,76,67.3,4,5,11,0,0.0,6,5,0,1,0.0,2025,keeper
+ENG-Premier League,2025/26,West Ham,Mads Hermansen,DEN,GK,25,2000,18,18,1620,18.0,28,1.56,82,53,65.9,6,4,8,7,38.9,1,1,0,0,0.0,2025,keeper
+ENG-Premier League,2025/26,Wolves,Daniel Bentley,ENG,GK,32,1993,3,3,270,3.0,7,2.33,14,7,50.0,0,1,2,0,0.0,1,1,0,0,0.0,2025,keeper
+ENG-Premier League,2025/26,Wolves,José Sá,POR,GK,32,1993,23,23,2070,23.0,37,1.61,102,65,63.7,3,8,12,4,17.4,3,3,0,0,0.0,2025,keeper
+ENG-Premier League,2025/26,Wolves,Sam Johnstone,ENG,GK,32,1993,12,12,1080,12.0,24,2.0,63,39,61.9,0,2,10,0,0.0,1,1,0,0,0.0,2025,keeper
