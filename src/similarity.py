@@ -13,8 +13,8 @@ KEYS = ["player_key", "born", "season_start"]
 
 MIN_MINUTES = 900
 PRIOR_NINETIES = 5.0
+MIN_SIMILARITY = 0.15
 
-# Count columns must not be per 90 or percentage versions of the same stat
 COUNT_EXCLUDE = re.compile(r"(90|%|/)")
 
 BASE_COLUMNS = {
@@ -33,6 +33,9 @@ OUTFIELD_FEATURES = [
     ("non_penalty_goals", "standard", [r".*_G-PK"], "count"),
     ("shots", "shooting", [r".*_Sh"], "count"),
     ("shots_on_target", "shooting", [r".*_SoT"], "count"),
+    ("shot_accuracy", "shooting", [r".*_SoT%"], "rate"),
+    ("goals_per_shot", "shooting", [r".*_G/Sh"], "rate"),
+    ("penalty_attempts", "shooting", [r".*_PKatt"], "count"),
     ("shot_distance", "shooting", [r".*_Dist"], "rate"),
     ("free_kicks", "shooting", [r".*_FK"], "count"),
     ("crosses", "misc", [r".*_Crs"], "count"),
@@ -45,9 +48,9 @@ OUTFIELD_FEATURES = [
     ("aerials_won", "misc", [r"Aerial.*_Won"], "count"),
     ("aerial_win_pct", "misc", [r"Aerial.*_Won%"], "rate"),
     ("yellow_cards", "misc", [r".*_CrdY"], "count"),
+    ("red_cards", "misc", [r".*_CrdR"], "count"),
     ("penalties_won", "misc", [r".*_PKwon"], "count"),
-    ("team_plus_minus_90", "playing_time", [r"Team Success_\+/-90", r".*\+/-90"], "rate"),
-    ("minutes_per_start", "playing_time", [r".*Mn/Start"], "rate"),
+    ("penalties_conceded", "misc", [r".*_PKcon"], "count"),
 ]
 
 KEEPER_FEATURES = [
@@ -56,20 +59,27 @@ KEEPER_FEATURES = [
     ("clean_sheet_pct", "keeper", [r".*_CS%"], "rate"),
     ("saves", "keeper", [r".*_Saves"], "count"),
     ("shots_on_target_against", "keeper", [r".*_SoTA"], "count"),
+    ("penalty_saves", "keeper", [r"Penalty Kicks_PKsv"], "count"),
+    ("penalty_save_pct", "keeper", [r"Penalty Kicks_Save%"], "rate"),
 ]
+
+COMPUTED_FEATURES = ["minutes_share", "minutes_per_match"]
 
 ALL_FEATURES = OUTFIELD_FEATURES + KEEPER_FEATURES
 KEEPER_NAMES = {f[0] for f in KEEPER_FEATURES}
 
 RADAR = {
     "FW": ["goals_p90", "shots_p90", "shots_on_target_p90", "assists_p90",
-           "fouls_drawn_p90", "offsides_p90", "aerials_won_p90", "crosses_p90"],
+           "fouls_drawn_p90", "offsides_p90", "aerials_won_p90", "crosses_p90",
+           "minutes_share"],
     "MF": ["assists_p90", "crosses_p90", "interceptions_p90", "tackles_won_p90",
-           "recoveries_p90", "fouls_drawn_p90", "shots_p90", "goals_p90"],
+           "recoveries_p90", "fouls_drawn_p90", "shots_p90", "goals_p90",
+           "minutes_share"],
     "DF": ["interceptions_p90", "tackles_won_p90", "recoveries_p90", "aerials_won_p90",
-           "aerial_win_pct", "fouls_committed_p90", "crosses_p90", "yellow_cards_p90"],
+           "aerial_win_pct", "fouls_committed_p90", "crosses_p90", "yellow_cards_p90",
+           "penalties_conceded_p90", "shots_p90", "minutes_share"],
     "GK": ["save_pct", "clean_sheet_pct", "goals_against_90", "saves_p90",
-           "shots_on_target_against_p90"],
+           "shots_on_target_against_p90", "penalty_save_pct", "minutes_share"],
 }
 
 
@@ -171,7 +181,6 @@ def build_profiles(tables=None, prior_nineties=PRIOR_NINETIES, verbose=True):
     count_cols += ["minutes"] + (["matches"] if "matches" in merged else [])
     rate_cols = [n for n, _, _, k in ALL_FEATURES if k == "rate" and n in merged]
 
-    # A player who moved mid-season has one row per club, merge them into one season
     merged = merged.sort_values("minutes", ascending=False)
     for r in rate_cols:
         has = merged[r].notna()
@@ -194,8 +203,10 @@ def build_profiles(tables=None, prior_nineties=PRIOR_NINETIES, verbose=True):
                          .str.strip().str.upper().map({g: g for g in POSITION_GROUPS}))
     prof = prof.dropna(subset=["pos_group"]).copy()
     prof["nineties"] = prof["minutes"] / 90.0
+    prof["minutes_share"] = (prof["minutes"] / (38 * 90)).clip(0, 1)
+    if "matches" in prof.columns:
+        prof["minutes_per_match"] = prof["minutes"] / prof["matches"].clip(lower=1)
 
-    # Shrink per 90 rates toward the position average, weighted by minutes played
     count_features = [n for n, _, _, k in ALL_FEATURES if k == "count" and n in prof]
     grp = prof.groupby("pos_group")
     group_nineties = grp["nineties"].transform("sum").replace(0, np.nan)
@@ -225,6 +236,9 @@ def feature_columns(profiles, group, raw=False):
             col = f"{name}_p90_raw" if raw else f"{name}_p90"
         else:
             col = name
+        if col in profiles.columns:
+            cols.append(col)
+    for col in COMPUTED_FEATURES:
         if col in profiles.columns:
             cols.append(col)
     return cols
@@ -356,7 +370,7 @@ def resolve_player(profiles, name, season=None):
 
 def find_replacements(profiles, space, player, season=None, n=10, candidate_season=None,
                       min_minutes=MIN_MINUTES, same_position=True, exclude_same_team=True,
-                      max_age=None, max_value=None):
+                      max_age=None, max_value=None, min_similarity=MIN_SIMILARITY):
     query = resolve_player(profiles, player, season)
     row = profiles.loc[query]
     candidate_season = candidate_season or int(profiles["season_start"].max())
@@ -384,13 +398,13 @@ def find_replacements(profiles, space, player, season=None, n=10, candidate_seas
 
     sims = _unit(space.loc[[query]]) @ _unit(space.loc[pool.index]).T
     out = pool.assign(similarity=sims[0]).nlargest(n, "similarity")
+    out = out[out["similarity"] > min_similarity]
     return out[columns + ["similarity"]]
 
 
 def compare_players(profiles, a, b, min_minutes=MIN_MINUTES):
     group = profiles.loc[a, "pos_group"]
     same_group = profiles[profiles["pos_group"] == group]
-    # A stat that is identical for everyone says nothing about either player
     cols = [c for c in feature_columns(profiles, group) if same_group[c].nunique() > 1]
     pct = percentiles(profiles, cols, min_minutes)
     name_a, name_b = profiles.loc[a, "player"], profiles.loc[b, "player"]
@@ -414,7 +428,6 @@ def attach_market_value(profiles, market):
     values = pd.Series([exact.get(k) for k in zip(out["player_key"], out["season_start"])],
                        index=out.index, dtype=float)
 
-    # Second pass on surname plus club, for names spelled differently across sources
     if "club" in m.columns:
         m["surname"] = m["player_key"].str.split().str[-1]
         grouped = m.groupby(["surname", "club", "season_start"])["market_value_eur"]

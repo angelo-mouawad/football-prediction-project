@@ -1,0 +1,86 @@
+{
+  "method": "full style, shrunk per 90",
+  "min_minutes": 900,
+  "prior_nineties": 5.0,
+  "latest_season": 2025,
+  "outfield_features": [
+    "goals_p90",
+    "assists_p90",
+    "non_penalty_goals_p90",
+    "shots_p90",
+    "shots_on_target_p90",
+    "shot_accuracy",
+    "goals_per_shot",
+    "penalty_attempts_p90",
+    "crosses_p90",
+    "interceptions_p90",
+    "tackles_won_p90",
+    "fouls_committed_p90",
+    "fouls_drawn_p90",
+    "offsides_p90",
+    "yellow_cards_p90",
+    "red_cards_p90",
+    "penalties_won_p90",
+    "penalties_conceded_p90",
+    "minutes_share",
+    "minutes_per_match"
+  ],
+  "keeper_features": [
+    "goals_against_90",
+    "save_pct",
+    "clean_sheet_pct",
+    "saves_p90",
+    "shots_on_target_against_p90",
+    "penalty_saves_p90",
+    "penalty_save_pct",
+    "minutes_share",
+    "minutes_per_match"
+  ],
+  "evaluation": [
+    {
+      "space": "goals and assists only",
+      "queries": 518,
+      "hit@1": 1.5,
+      "hit@5": 9.8,
+      "hit@10": 18.3,
+      "median_rank": 36.0,
+      "random_hit@10": 9.9
+    },
+    {
+      "space": "full style, raw per 90",
+      "queries": 518,
+      "hit@1": 17.2,
+      "hit@5": 42.5,
+      "hit@10": 54.2,
+      "median_rank": 8.0,
+      "random_hit@10": 9.9
+    },
+    {
+      "space": "full style, shrunk per 90",
+      "queries": 518,
+      "hit@1": 17.2,
+      "hit@5": 42.3,
+      "hit@10": 54.4,
+      "median_rank": 8.0,
+      "random_hit@10": 9.9
+    },
+    {
+      "space": "PCA",
+      "queries": 518,
+      "hit@1": 16.2,
+      "hit@5": 39.6,
+      "hit@10": 51.2,
+      "median_rank": 10.0,
+      "random_hit@10": 9.9
+    },
+    {
+      "space": "autoencoder",
+      "queries": 518,
+      "hit@1": 9.7,
+      "hit@5": 27.6,
+      "hit@10": 38.6,
+      "median_rank": 19.0,
+      "random_hit@10": 9.9
+    }
+  ]
+}
