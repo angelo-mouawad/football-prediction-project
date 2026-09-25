@@ -25,9 +25,12 @@ openai>=1.40
 ddgs>=9.0
 python-dotenv>=1.0
 
+# dashboard
+fastapi>=0.115
+uvicorn[standard]>=0.30
+
 # plotting
 matplotlib>=3.9
-seaborn>=0.13
 
 # notebooks
 jupyter>=1.1
