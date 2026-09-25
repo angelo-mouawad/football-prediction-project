@@ -13,6 +13,43 @@ and finding that out is documented in the code rather than hidden.
 
 ---
 
+## Quick start
+
+If you just want to see it working, you do not need any of the data collection.
+The trained models and the feature tables they run on are committed to this
+repository, so three commands is the whole thing.
+
+```bash
+git clone https://github.com/angelo-mouawad/football-ml.git
+cd football-ml
+
+python -m venv .venv
+.venv\Scripts\activate          # Windows
+source .venv/bin/activate       # macOS and Linux
+
+python -m pip install -r requirements.txt
+python scripts/08_run_dashboard.py
+```
+
+Your browser opens at `http://127.0.0.1:8000` after a second or two. Stop it with
+Ctrl+C in the terminal.
+
+All three views work straight away. The one thing that stays quiet is the news
+branch, because reading the news needs a free API key. Without it, the match view
+still predicts, it just says the network is working alone. See
+[Keys](#2-keys) if you want to switch it on, which takes about two minutes.
+
+The first prediction after startup takes a couple of seconds longer than the rest
+while the models load into memory. After that everything is instant.
+
+If port 8000 is already in use on your machine, open `scripts/08_run_dashboard.py`
+and change `PORT` at the top.
+
+Want to rebuild everything from the raw data instead? That is the
+[full setup](#setup) further down.
+
+---
+
 ## What it does
 
 **Match result.** Pick two teams, get win, draw or loss probabilities. Two
@@ -261,9 +298,57 @@ without reinstalling Windows, so this is the workaround.
 python scripts/08_run_dashboard.py
 ```
 
-Opens at `localhost:8000`. The status dots in the left rail show which models
-loaded, so a missing file is visible immediately instead of appearing as a
-mystery error later.
+That starts a small FastAPI server and opens `http://127.0.0.1:8000` in your
+browser. Stop it with Ctrl+C. Nothing is exposed to your network, it only listens
+on your own machine.
+
+Run it from a terminal rather than through VS Code, for the same Smart App
+Control reason as the notebooks.
+
+The front end is plain HTML, CSS and JavaScript. No build step, no npm, no React.
+If you want to change how it looks, edit `web/styles.css` and refresh the page.
+
+**The status dots in the bottom left corner tell you what loaded.** Green means
+that model is ready, red means a file is missing, and the label says which. That
+is deliberate: a missing model should be visible the moment you open the page
+rather than turning up later as a confusing error.
+
+What each view needs:
+
+| view | needs |
+|---|---|
+| Match | `models/match_net.pt` and `data/processed/matches_features.csv` from notebook 1 |
+| Match, news branch | a working `LLM_API_KEY` in `.env`, plus an importance table from notebook 1 or 2 |
+| Value | `models/value_xgb.json` and `data/processed/player_market_values.csv` from notebook 2 |
+| Replace | `data/processed/player_profiles.csv` from notebook 3 |
+
+Everything in that table except the API key is committed to the repository
+already.
+
+**Using it.**
+
+In the Match view, pick two teams and press Run prediction, or click any fixture
+in the scrolling strip to fill both dropdowns and predict in one go. The results
+show three probability bars with a dashed marker on each one. That marker is
+where the neural network alone landed, and the small signed number underneath is
+how far the news moved it. If both numbers are zero, either there genuinely was no
+team news this week or the search came back empty, and the news panel below says
+which.
+
+The "Read the news" toggle turns the second branch off. Worth doing if you want a
+faster answer or you have hit a rate limit, since the search and the language
+model call together take a few seconds.
+
+In the Value and Replace views, start typing a player name and pick from the
+suggestions. The Replace view has age and budget sliders that re-run the search
+when you let go of them. Set the budget slider to the far right for no limit.
+Note that players whose market value could not be matched drop out of the results
+whenever a budget is set.
+
+**If something goes wrong.** Every error comes back as a readable message in the
+page rather than a blank screen: two identical teams, a player who does not
+exist, a model file that has not been created yet. If the page itself will not
+load at all, check the terminal, since that is where Python errors appear.
 
 ---
 
@@ -271,9 +356,14 @@ mystery error later.
 
 | goal | works after a fresh clone |
 |---|---|
-| run the dashboard | yes, `data/processed/` and `models/` are committed |
-| retrain from the feature tables | yes |
-| rebuild everything from raw sources | no, run the collection scripts |
+| run the dashboard | yes, nothing to download |
+| retrain the models from the feature tables | yes, the notebooks fall back to the committed tables |
+| rebuild everything from the original sources | no, run the collection scripts first |
+
+The reason the middle row works is worth spelling out. Both notebooks check
+whether the raw data is present and load the committed feature tables instead if
+it is not. So you can verify the numbers in this README yourself without
+scraping anything, which is the thing most people would actually want to do.
 
 The full Transfermarkt dump is gitignored because `appearances.csv` alone is 189
 MB against GitHub's 100 MB per file limit. The Premier League extract produced by
