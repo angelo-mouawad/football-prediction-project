@@ -29,6 +29,14 @@ html, body {
 
 body { display: flex; min-height: 100vh; }
 
+* { scrollbar-width: thin; scrollbar-color: rgba(126, 160, 255, 0.2) transparent; }
+
+::-webkit-scrollbar { width: 9px; height: 9px; }
+::-webkit-scrollbar-track { background: rgba(8, 12, 24, 0.6); }
+::-webkit-scrollbar-thumb { background: rgba(126, 160, 255, 0.2); border-radius: 999px; border: 2px solid transparent; background-clip: padding-box; }
+::-webkit-scrollbar-thumb:hover { background: rgba(53, 230, 255, 0.4); background-clip: padding-box; }
+::-webkit-scrollbar-corner { background: transparent; }
+
 .aurora, .grid-veil {
   position: fixed;
   inset: 0;
@@ -273,7 +281,23 @@ select:focus, input[type="text"]:focus {
 
 @keyframes sheen { to { transform: translateX(120%); } }
 
-.fixture-rail { display: flex; gap: 10px; overflow-x: auto; padding: 18px 2px 4px; }
+.fixture-rail {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 18px 2px 8px;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(126, 160, 255, 0.22) transparent;
+  -webkit-mask-image: linear-gradient(90deg, #000 88%, transparent 100%);
+  mask-image: linear-gradient(90deg, #000 88%, transparent 100%);
+}
+
+.fixture-rail::-webkit-scrollbar { height: 5px; }
+.fixture-rail::-webkit-scrollbar-track { background: transparent; }
+.fixture-rail::-webkit-scrollbar-thumb { background: rgba(126, 160, 255, 0.18); border-radius: 999px; }
+.fixture-rail::-webkit-scrollbar-thumb:hover { background: rgba(53, 230, 255, 0.42); }
+.fixture-rail:hover { scrollbar-color: rgba(53, 230, 255, 0.4) transparent; }
 
 .fixture-chip {
   flex: 0 0 auto;
