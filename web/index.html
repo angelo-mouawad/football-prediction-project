@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gaffer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="aurora"></div>
+<div class="grid-veil"></div>
+
+<aside class="rail">
+  <div class="brand">
+    <div class="brand-mark"></div>
+    <div class="brand-text">
+      <strong>GAFFER</strong>
+      <span>Premier League intelligence</span>
+    </div>
+  </div>
+  <nav>
+    <button class="rail-link is-active" data-view="match">
+      <span class="rail-icon">01</span>
+      <span class="rail-label">Match<em>Result prediction</em></span>
+    </button>
+    <button class="rail-link" data-view="value">
+      <span class="rail-icon">02</span>
+      <span class="rail-label">Value<em>Market valuation</em></span>
+    </button>
+    <button class="rail-link" data-view="replace">
+      <span class="rail-icon">03</span>
+      <span class="rail-label">Replace<em>Player similarity</em></span>
+    </button>
+  </nav>
+  <div class="rail-foot" id="status-strip"></div>
+</aside>
+
+<main>
+  <section class="view is-active" id="view-match">
+    <header class="view-head">
+      <h1>Match result</h1>
+      <p>A neural network on twenty seasons, adjusted by a language model reading this week's team news.</p>
+    </header>
+
+    <div class="panel fixture-picker">
+      <div class="team-slot">
+        <label>Home</label>
+        <select id="home-team"></select>
+      </div>
+      <div class="versus"><span>VS</span></div>
+      <div class="team-slot">
+        <label>Away</label>
+        <select id="away-team"></select>
+      </div>
+      <div class="picker-actions">
+        <label class="toggle">
+          <input type="checkbox" id="use-news" checked>
+          <span class="toggle-track"><span class="toggle-thumb"></span></span>
+          <span>Read the news</span>
+        </label>
+        <button class="cta" id="run-predict"><span>Run prediction</span></button>
+      </div>
+    </div>
+
+    <div class="fixture-rail" id="fixture-rail"></div>
+
+    <div id="match-output" class="stack"></div>
+  </section>
+
+  <section class="view" id="view-value">
+    <header class="view-head">
+      <h1>Market value</h1>
+      <p>What a player is worth from age, output and club strength, priced against this season's market.</p>
+    </header>
+
+    <div class="panel search-panel">
+      <div class="search-field">
+        <input type="text" id="value-search" placeholder="Search a player" autocomplete="off">
+        <div class="suggestions" id="value-suggestions"></div>
+      </div>
+    </div>
+
+    <div id="value-output" class="stack"></div>
+  </section>
+
+  <section class="view" id="view-replace">
+    <header class="view-head">
+      <h1>Replacement finder</h1>
+      <p>Players who play the same way, ranked by style similarity within position.</p>
+    </header>
+
+    <div class="panel search-panel">
+      <div class="search-field">
+        <input type="text" id="replace-search" placeholder="Search a player" autocomplete="off">
+        <div class="suggestions" id="replace-suggestions"></div>
+      </div>
+      <div class="filters">
+        <label class="slider">
+          <span>Max age <b id="age-readout">any</b></span>
+          <input type="range" id="max-age" min="18" max="40" value="40" step="1">
+        </label>
+        <label class="slider">
+          <span>Budget <b id="budget-readout">any</b></span>
+          <input type="range" id="max-value" min="0" max="200" value="200" step="5">
+        </label>
+      </div>
+    </div>
+
+    <div id="replace-output" class="stack"></div>
+  </section>
+</main>
+
+<footer class="credit">Designed by <a href="https://www.linkedin.com/in/angelo-mouawad-02089329a/" target="_blank" rel="noopener">Angelo</a></footer>
+
+<script src="app.js"></script>
+</body>
+</html>
