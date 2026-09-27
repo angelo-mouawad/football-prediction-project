@@ -170,7 +170,7 @@ recognisable.
 ## How it fits together
 
 ```
-football-ml/
+football-prediction-project/
   notebooks/          three notebooks, one per model
   src/                all reusable logic, imported by notebooks and dashboard
     config.py         paths and season ranges
