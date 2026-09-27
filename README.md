@@ -20,7 +20,7 @@ The trained models and the feature tables they run on are committed to this
 repository, so three commands is the whole thing.
 
 ```bash
-git clone https://github.com/angelo-mouawad/football-ml.git
+git clone https://github.com/angelo-mouawad/football-prediction-project.git
 cd football-ml
 
 python -m venv .venv
