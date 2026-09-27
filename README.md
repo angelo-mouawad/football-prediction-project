@@ -21,7 +21,7 @@ repository, so three commands is the whole thing.
 
 ```bash
 git clone https://github.com/angelo-mouawad/football-prediction-project.git
-cd football-ml
+cd football-prediction-project
 
 python -m venv .venv
 .venv\Scripts\activate          # Windows
